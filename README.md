@@ -84,11 +84,11 @@ Shift + クリックで連続して選択できます。
 そのカテゴリに応じたアイコンが付きます。\
 ここにないカテゴリを追加したいなど、ご要望があればお聞かせください。
 
-| Ac.Bass        | Ac.Buitar         | Ac.Piano       | Accordion/Harmonica | 
+| Ac.Bass        | Ac.Guitar         | Ac.Piano       | Accordion/Harmonica | 
 | -------        | ---------         | --------       | ------------------- |
-|Beat&Groove     | Bell/Mallet       | Brass          | Dist.Guit  ar       |
-|Drum            | Drums             | E.Bass         | E.Guitar            |
-| E.PIano        | Ensemble Strings  | Flute          | FX                  |
+| Beat&Groove    | Bell/Mallet       | Brass          | Dist.Guitar         |
+| Drum           | Drums             | E.Bass         | E.Guitar            |
+| E.Piano        | Ensemble Strings  | Flute          | FX                  |
 | Sound FX       | Hit               | Organ          | Other Keyboards     |
 | Percussion     | Phrase            | Plucked/Stroke | Pulsating           |
 | Recorder       | Sax               | Strings        | Synth Bass          |

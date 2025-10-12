@@ -87,7 +87,7 @@ Shift + クリックで連続して選択できます。
 | Ac.Bass        | Ac.Buitar         | Ac.Piano       | Accordion/Harmonica | 
 | -------        | ---------         | --------       | ------------------- |
 |Beat&Groove     | Bell/Mallet       | Brass          | Dist.Guit  ar       |
-|Drum            | Drums             | E.Bas          | E.Guitar            |
+|Drum            | Drums             | E.Bass         | E.Guitar            |
 | E.PIano        | Ensemble Strings  | Flute          | FX                  |
 | Sound FX       | Hit               | Organ          | Other Keyboards     |
 | Percussion     | Phrase            | Plucked/Stroke | Pulsating           |

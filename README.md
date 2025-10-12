@@ -67,3 +67,29 @@ Shift + クリックで連続して選択できます。
 また、カーソルの上下キーで音色を順番に選択することができます。  
 音色を聴きながら選ぶときに便利です。  
 
+# 音色配置データの作り方
+音色配置データはテキストエディタや、Excelなどの表計算ソフトで作成可能です。\
+ファイル形式は**csv**です。\
+このページの上の方にあるファイルリストにあるcsvファイルを参考にすれば、容易に作成できます。
+
+## csvデータのラベルについて
+下記のラベルでレコードを作成します。\
+現状、空欄は許容していませんので、すべての項目を埋めてください。\
+空欄にしたい、ラベルの追加など、ご要望があればお聞かせください。
+
+| No. | MSB | LSB | PC | ToneName | Category | Bank |
+| --- | --- | --- | -- | -------- | -------- | ---- |
+## 音色のカテゴリについて
+現状では、利用できる音色のカテゴリが決まっています。\
+そのカテゴリに応じたアイコンが付きます。\
+ここにないカテゴリを追加したいなど、ご要望があればお聞かせください。
+
+| Ac.Bass    | Ac.Buitar         | Ac.Piano      | Accordion/Harmonica | Beat&Groove    | Bell/Mallet |
+| -------    | ---------         | --------      | ------------------- | -----------    | ----------- |
+| Brass      | Dist.Guitar       | Drum          | Drums               | E.Bass         | E.Guitar    |
+| E.PIano    | Ensemble Strings  | Flute         | FX                  | Sound FX       | Hit         |
+| Organ      | Other Keyboards   | Percussion    | Phrase              | Plucked/Stroke | Pulsating   |
+| Recorder   | Sax               | String        | Synth Bass          | Synth Bellpad  | Synth Brass |
+| Synth Lead | Synth Pad/Strings | Synth PolyKey | Synth Seq/Pop       | Vox/Choir      | Wind        |
+
+

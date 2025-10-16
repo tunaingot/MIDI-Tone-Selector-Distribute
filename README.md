@@ -8,15 +8,15 @@
 音色配置データは今後不定期に無償で提供する予定です。\
 このページのソースのリストからcsvファイルを個別にダウンロードしてください。
 
-<img width="636" height="516" alt="スクリーンショット 2025-10-12 20 59 39" src="https://github.com/user-attachments/assets/6001c6da-f8cf-430f-a17b-1ed13c1a85bf" />
-
+<img width="636" height="516" alt="image" src="images/100.png" />
 
 ## 現在提供している音色リスト
 | File Name | Instrument Name | Maker |
 | --------- | --------------- | ----- |
 | Integra-7 Patch List.csv | Integra-7 | Roland |
 
-<img width="750" height="727" alt="スクリーンショット 2025-08-17 16 27 38" src="https://github.com/user-attachments/assets/76c7f9d0-31aa-4929-9c05-ba38e806d9a5" />
+<img width="750" height="727" alt="image" src="images/200.png" />
+
 
 # アプリの配布について
 このアプリはAppStoreで入手したアプリと違い、自動で最新バージョンへのアップデートはされません。\
@@ -30,11 +30,12 @@
 アプリはAppleのノータリゼーションによって認証されています。  
 正式な開発者として認定されていますので、安心してアプリをお使いください。  
 
-<img width="621" height="381" alt="スクリーンショット 2025-08-17 16 22 50" src="https://github.com/user-attachments/assets/39e4d85c-20a0-4ad6-abe8-4d3301d0d44c" />
+<img width="621" height="381" alt="image" src="images/300.png" />
 
 # アプリの起動
 **MIDI Patch Selector**のアイコンをダブルクリックして起動します。  
-<img width="477" height="165" alt="スクリーンショット 2025-08-17 16 20 34" src="https://github.com/user-attachments/assets/1ea8758e-3503-4baf-a3b7-dce754840c07" />
+
+<img width="477" height="165" alt="image" src="images/400.png" />
 
 起動直後はウィンドウが表示されません。  
 音色配置データの入ったCSVファイルを読み込むことで、ウィンドウが表示されます。  
@@ -47,7 +48,7 @@
 Shift + クリックで連続して選択できます。  
 コマンド +　クリックで不連続の選択ができます。  
 
-<img width="750" height="727" alt="スクリーンショット 2025-08-17 16 39 00" src="https://github.com/user-attachments/assets/1caee6b4-164b-4ea4-aeb1-c5cdf03b201e" />
+<img width="750" height="727" alt="image" src="images/500.png" />
 
 検索フィールドで音色名を絞り込むことができます。
 入力した文字列を含む音色名がリストアップされます。
@@ -56,8 +57,7 @@ Shift + クリックで連続して選択できます。
 ウィンドウ上にある**MIDI Destination**ポップアップにMacに接続しているMIDIデバイスがリストアップされています。  
 接続したいMIDIデバイスを選んでください。  
 
-<img width="750" height="852" alt="スクリーンショット 2025-08-17 16 44 40" src="https://github.com/user-attachments/assets/d2aae4f3-75b9-4040-be70-131e5eebe516" />
-
+<img width="750" height="852" alt="image" src="images/600.png" />
 
 # 送信MIDIチャンネル設定
 ウィンドウ上にある**Send MIDI CH**ポップアップで送信するMIDIチャンネルを選んでください。

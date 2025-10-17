@@ -1,0 +1,1660 @@
+No._Base	ToneName_freemidi	MSB	LSB	PC_0Origin	Category	Bank	PC	No.	ToneName	remove_left1	head_suff
+1	Piano 1	0	3	0	Piano	SC-88Pro	1	001	Piano 1	iano 1	
+001+	Piano 1w	8	3	0	Piano	SC-88Pro	1	001+	Piano 1w	iano 1w	
+001+	European Pf	16	3	0	Piano	SC-88Pro	1	001+	European Pf	uropean Pf	
+001+	Piano + Str.	24	3	0	Piano	SC-88Pro	1	001+	Piano + Str.	iano + Str.	
+2	Piano 2	0	3	1	Piano	SC-88Pro	2	002	Piano 2	iano 2	
+002+	Piano 2w	8	3	1	Piano	SC-88Pro	2	002+	Piano 2w	iano 2w	
+002+	Dance Piano	16	3	1	Piano	SC-88Pro	2	002+	Dance Piano	ance Piano	
+3	Piano 3	0	3	2	Piano	SC-88Pro	3	003	Piano 3	iano 3	
+003+	EG+Rhodes 1	1	3	2	Piano	SC-88Pro	3	003+	EG+Rhodes 1	G+Rhodes 1	
+003+	EG+Rhodes 2	2	3	2	Piano	SC-88Pro	3	003+	EG+Rhodes 2	G+Rhodes 2	
+003+	Piano 3w	8	3	2	Piano	SC-88Pro	3	003+	Piano 3w	iano 3w	
+4	Honky-tonk	0	3	3	Piano	SC-88Pro	4	004	Honky-tonk	onky-tonk	
+004+	Honky-tonk 2	8	3	3	Piano	SC-88Pro	4	004+	Honky-tonk 2	onky-tonk 2	
+5	E.Piano 1	0	3	4	Piano	SC-88Pro	5	005	E.Piano 1	.Piano 1	
+005+	St.Soft EP	8	3	4	Piano	SC-88Pro	5	005+	St.Soft EP	t.Soft EP	
+005+	Cho. E.Piano	9	3	4	Piano	SC-88Pro	5	005+	Cho. E.Piano	ho. E.Piano	
+005+	SilentRhodes	10	3	4	Piano	SC-88Pro	5	005+	SilentRhodes	ilentRhodes	
+005+	FM+SA EP	16	3	4	Piano	SC-88Pro	5	005+	FM+SA EP	M+SA EP	
+005+	Dist E.Piano	17	3	4	Piano	SC-88Pro	5	005+	Dist E.Piano	ist E.Piano	
+005+	Wurly	24	3	4	Piano	SC-88Pro	5	005+	Wurly	urly	
+005+	Hard Rhodes	25	3	4	Piano	SC-88Pro	5	005+	Hard Rhodes	ard Rhodes	
+005+	MellowRhodes	26	3	4	Piano	SC-88Pro	5	005+	MellowRhodes	ellowRhodes	
+6	E.Piano 2	0	3	5	Piano	SC-88Pro	6	006	E.Piano 2	.Piano 2	
+006+	Detuned EP 2	8	3	5	Piano	SC-88Pro	6	006+	Detuned EP 2	etuned EP 2	
+006+	St.FM EP	16	3	5	Piano	SC-88Pro	6	006+	St.FM EP	t.FM EP	
+006+	Hard FM EP	24	3	5	Piano	SC-88Pro	6	006+	Hard FM EP	ard FM EP	
+7	Harpsichord	0	3	6	Piano	SC-88Pro	7	007	Harpsichord	arpsichord	
+7	Harpsichord2	1	3	6	Piano	SC-88Pro	7	007	Harpsichord2	arpsichord2	
+007+	Coupled Hps.	8	3	6	Piano	SC-88Pro	7	007+	Coupled Hps.	oupled Hps.	
+007+	Harpsi.w	16	3	6	Piano	SC-88Pro	7	007+	Harpsi.w	arpsi.w	
+007+	Harpsi.o	24	3	6	Piano	SC-88Pro	7	007+	Harpsi.o	arpsi.o	
+007+	Synth Harpsi	32	3	6	Piano	SC-88Pro	7	007+	Synth Harpsi	ynth Harpsi	
+8	Clav.	0	3	7	Piano	SC-88Pro	8	008	Clav.	lav.	
+8	Comp Clav.	8	3	7	Piano	SC-88Pro	8	008	Comp Clav.	omp Clav.	
+8	Reso Clav.	16	3	7	Piano	SC-88Pro	8	008	Reso Clav.	eso Clav.	
+8	Clav.o	24	3	7	Piano	SC-88Pro	8	008	Clav.o	lav.o	
+8	Analog Clav.	32	3	7	Piano	SC-88Pro	8	008	Analog Clav.	nalog Clav.	
+8	JP8 Clav. 1	33	3	7	Piano	SC-88Pro	8	008	JP8 Clav. 1	P8 Clav. 1	
+8	JP8 Clav. 2	35	3	7	Piano	SC-88Pro	8	008	JP8 Clav. 2	P8 Clav. 2	
+1	$Piano 1	0	2	0	Piano	SC-88	1	001	'Piano 1	Piano 1	'
+001+	$Piano 1w	8	2	0	Piano	SC-88	1	001+	'Piano 1w	Piano 1w	'
+001+	$Piano 1d	16	2	0	Piano	SC-88	1	001+	'Piano 1d	Piano 1d	'
+2	$Piano 2	0	2	1	Piano	SC-88	2	002	'Piano 2	Piano 2	'
+002+	$Piano 2w	8	2	1	Piano	SC-88	2	002+	'Piano 2w	Piano 2w	'
+3	$Piano 3	0	2	2	Piano	SC-88	3	003	'Piano 3	Piano 3	'
+003+	$EG+Rhodes 1	1	2	2	Piano	SC-88	3	003+	'EG+Rhodes 1	EG+Rhodes 1	'
+003+	$EG+Rhodes 2	2	2	2	Piano	SC-88	3	003+	'EG+Rhodes 2	EG+Rhodes 2	'
+003+	$Piano 3w	8	2	2	Piano	SC-88	3	003+	'Piano 3w	Piano 3w	'
+4	$Honky-tonk	0	2	3	Piano	SC-88	4	004	'Honky-tonk	Honky-tonk	'
+004+	$Old Upright	8	2	3	Piano	SC-88	4	004+	'Old Upright	Old Upright	'
+5	$E.Piano 1	0	2	4	Piano	SC-88	5	005	'E.Piano 1	E.Piano 1	'
+005+	$St.Soft EP	8	2	4	Piano	SC-88	5	005+	'St.Soft EP	St.Soft EP	'
+005+	$FM+SA EP	16	2	4	Piano	SC-88	5	005+	'FM+SA EP	FM+SA EP	'
+005+	$60'sE.Piano	24	2	4	Piano	SC-88	5	005+	'60'sE.Piano	60'sE.Piano	'
+005+	$Hard Rhodes	25	2	4	Piano	SC-88	5	005+	'Hard Rhodes	Hard Rhodes	'
+005+	$MellwRhodes	26	2	4	Piano	SC-88	5	005+	'MellwRhodes	MellwRhodes	'
+6	$E.Piano 2	0	2	5	Piano	SC-88	6	006	'E.Piano 2	E.Piano 2	'
+006+	$Detuned EP2	8	2	5	Piano	SC-88	6	006+	'Detuned EP2	Detuned EP2	'
+006+	$St.FM EP	16	2	5	Piano	SC-88	6	006+	'St.FM EP	St.FM EP	'
+006+	$Hard FM EP	24	2	5	Piano	SC-88	6	006+	'Hard FM EP	Hard FM EP	'
+7	$Harpsichord	0	2	6	Piano	SC-88	7	007	'Harpsichord	Harpsichord	'
+007+	$Coupled Hps	8	2	6	Piano	SC-88	7	007+	'Coupled Hps	Coupled Hps	'
+007+	$Harpsi.w	16	2	6	Piano	SC-88	7	007+	'Harpsi.w	Harpsi.w	'
+007+	$Harpsi.o	24	2	6	Piano	SC-88	7	007+	'Harpsi.o	Harpsi.o	'
+8	$Clav.	0	2	7	Piano	SC-88	8	008	'Clav.	Clav.	'
+1	*Piano 1	0	1	0	Piano	SC-55	1	001	"Piano 1	Piano 1	"
+001+	*Piano 1w	8	1	0	Piano	SC-55	1	001+	"Piano 1w	Piano 1w	"
+001+	*Piano 1d	16	1	0	Piano	SC-55	1	001+	"Piano 1d	Piano 1d	"
+2	*Piano 2	0	1	1	Piano	SC-55	2	002	"Piano 2	Piano 2	"
+002+	*Piano 2w	8	1	1	Piano	SC-55	2	002+	"Piano 2w	Piano 2w	"
+3	*Piano 3	0	1	2	Piano	SC-55	3	003	"Piano 3	Piano 3	"
+003+	*Piano 3w	8	1	2	Piano	SC-55	3	003+	"Piano 3w	Piano 3w	"
+4	*Honky-tonk	0	1	3	Piano	SC-55	4	004	"Honky-tonk	Honky-tonk	"
+004+	*HonkyTonk w	8	1	3	Piano	SC-55	4	004+	"HonkyTonk w	HonkyTonk w	"
+5	*E.Piano 1	0	1	4	Piano	SC-55	5	005	"E.Piano 1	E.Piano 1	"
+005+	*Detuned EP1	8	1	4	Piano	SC-55	5	005+	"Detuned EP1	Detuned EP1	"
+005+	*E.Piano 1v	16	1	4	Piano	SC-55	5	005+	"E.Piano 1v	E.Piano 1v	"
+005+	*60s E.Piano	24	1	4	Piano	SC-55	5	005+	"60s E.Piano	60s E.Piano	"
+6	*E.Piano 2	0	1	5	Piano	SC-55	6	006	"E.Piano 2	E.Piano 2	"
+006+	*Detuned EP2	8	1	5	Piano	SC-55	6	006+	"Detuned EP2	Detuned EP2	"
+006+	*E.Piano 2v	16	1	5	Piano	SC-55	6	006+	"E.Piano 2v	E.Piano 2v	"
+7	*Harpsichord	0	1	6	Piano	SC-55	7	007	"Harpsichord	Harpsichord	"
+007+	*Coupled Hps	8	1	6	Piano	SC-55	7	007+	"Coupled Hps	Coupled Hps	"
+007+	*Harpsi.w	16	1	6	Piano	SC-55	7	007+	"Harpsi.w	Harpsi.w	"
+007+	*Harpsi.o	24	1	6	Piano	SC-55	7	007+	"Harpsi.o	Harpsi.o	"
+8	*Clav.	0	1	7	Piano	SC-55	8	008	"Clav.	Clav.	"
+1	#Piano 2	126	1	0	Piano	CM-64	1	001	#"Piano 2	Piano 2	#"
+2	#Piano 2	126	1	1	Piano	CM-64	2	002	#"Piano 2	Piano 2	#"
+3	#Piano 2	126	1	2	Piano	CM-64	3	003	#"Piano 2	Piano 2	#"
+4	#Honky-tonk	126	1	3	Piano	CM-64	4	004	#"Honky-tonk	Honky-tonk	#"
+5	#Piano 1	126	1	4	Piano	CM-64	5	005	#"Piano 1	Piano 1	#"
+6	#Piano 2	126	1	5	Piano	CM-64	6	006	#"Piano 2	Piano 2	#"
+7	#Piano 2	126	1	6	Piano	CM-64	7	007	#"Piano 2	Piano 2	#"
+8	#E.Piano 1	126	1	7	Piano	CM-64	8	008	#"E.Piano 1	E.Piano 1	#"
+9	#Detuned EP1	126	1	8	Piano	CM-64	9	009	#"Detuned EP1	Detuned EP1	#"
+10	#E.Piano 2	126	1	9	Piano	CM-64	10	010	#"E.Piano 2	E.Piano 2	#"
+1	#Acou Piano1	127	1	0	Piano	CM-64	1	001	#"Acou Piano1	Acou Piano1	#"
+2	#Acou Piano2	127	1	1	Piano	CM-64	2	002	#"Acou Piano2	Acou Piano2	#"
+3	#Acou Piano3	127	1	2	Piano	CM-64	3	003	#"Acou Piano3	Acou Piano3	#"
+4	#Elec Piano1	127	1	3	Piano	CM-64	4	004	#"Elec Piano1	Elec Piano1	#"
+5	#Elec Piano2	127	1	4	Piano	CM-64	5	005	#"Elec Piano2	Elec Piano2	#"
+6	#Elec Piano3	127	1	5	Piano	CM-64	6	006	#"Elec Piano3	Elec Piano3	#"
+7	#Elec Piano4	127	1	6	Piano	CM-64	7	007	#"Elec Piano4	Elec Piano4	#"
+8	#Honkytonk	127	1	7	Piano	CM-64	8	008	#"Honkytonk	Honkytonk	#"
+17	#Harpsi 1	127	1	16	Piano	CM-64	17	017	#"Harpsi 1	Harpsi 1	#"
+18	#Harpsi 2	127	1	17	Piano	CM-64	18	018	#"Harpsi 2	Harpsi 2	#"
+19	#Harpsi 3	127	1	18	Piano	CM-64	19	019	#"Harpsi 3	Harpsi 3	#"
+20	#Clavi 1	127	1	19	Piano	CM-64	20	020	#"Clavi 1	Clavi 1	#"
+21	#Clavi 2	127	1	20	Piano	CM-64	21	021	#"Clavi 2	Clavi 2	#"
+22	#Clavi 3	127	1	21	Piano	CM-64	22	022	#"Clavi 3	Clavi 3	#"
+9	Celesta	0	3	8	Chromatic Percussion	SC-88Pro	9	009	Celesta	elesta	
+009+	Pop Celesta	1	3	8	Chromatic Percussion	SC-88Pro	9	009+	Pop Celesta	op Celesta	
+10	Glockenspiel	0	3	9	Chromatic Percussion	SC-88Pro	10	010	Glockenspiel	lockenspiel	
+11	Music Box	0	3	10	Chromatic Percussion	SC-88Pro	11	011	Music Box	usic Box	
+12	Vibraphone	0	3	11	Chromatic Percussion	SC-88Pro	12	012	Vibraphone	ibraphone	
+012+	Pop Vibe.	1	3	11	Chromatic Percussion	SC-88Pro	12	012+	Pop Vibe.	op Vibe.	
+012+	Vibraphone w	8	3	11	Chromatic Percussion	SC-88Pro	12	012+	Vibraphone w	ibraphone w	
+012+	Vibraphones	9	3	11	Chromatic Percussion	SC-88Pro	12	012+	Vibraphones	ibraphones	
+13	Marimba	0	3	12	Chromatic Percussion	SC-88Pro	13	013	Marimba	arimba	
+013+	Marimba w	8	3	12	Chromatic Percussion	SC-88Pro	13	013+	Marimba w	arimba w	
+013+	Barafon	16	3	12	Chromatic Percussion	SC-88Pro	13	013+	Barafon	arafon	
+013+	Barafon 2	17	3	12	Chromatic Percussion	SC-88Pro	13	013+	Barafon 2	arafon 2	
+013+	Log drum	24	3	12	Chromatic Percussion	SC-88Pro	13	013+	Log drum	og drum	
+14	Xylophone	0	3	13	Chromatic Percussion	SC-88Pro	14	014	Xylophone	ylophone	
+15	Tubular-bell	0	3	14	Chromatic Percussion	SC-88Pro	15	015	Tubular-bell	ubular-bell	
+015+	Church Bell	8	3	14	Chromatic Percussion	SC-88Pro	15	015+	Church Bell	hurch Bell	
+015+	Carillon	9	3	14	Chromatic Percussion	SC-88Pro	15	015+	Carillon	arillon	
+16	Santur	0	3	15	Chromatic Percussion	SC-88Pro	16	016	Santur	antur	
+016+	Santur 2	1	3	15	Chromatic Percussion	SC-88Pro	16	016+	Santur 2	antur 2	
+016+	Cimbalom	8	3	15	Chromatic Percussion	SC-88Pro	16	016+	Cimbalom	imbalom	
+016+	Zither 1	16	3	15	Chromatic Percussion	SC-88Pro	16	016+	Zither 1	ither 1	
+016+	Zither 2	17	3	15	Chromatic Percussion	SC-88Pro	16	016+	Zither 2	ither 2	
+016+	Dulcimer	24	3	15	Chromatic Percussion	SC-88Pro	16	016+	Dulcimer	ulcimer	
+9	$Celesta	0	2	8	Chromatic Percussion	SC-88	9	009	'Celesta	Celesta	'
+10	$Glocknspiel	0	2	9	Chromatic Percussion	SC-88	10	010	'Glocknspiel	Glocknspiel	'
+11	$Music Box	0	2	10	Chromatic Percussion	SC-88	11	011	'Music Box	Music Box	'
+12	$Vibraphone	0	2	11	Chromatic Percussion	SC-88	12	012	'Vibraphone	Vibraphone	'
+012+	$Hard Vibe	1	2	11	Chromatic Percussion	SC-88	12	012+	'Hard Vibe	Hard Vibe	'
+012+	$Vib.w	8	2	11	Chromatic Percussion	SC-88	12	012+	'Vib.w	Vib.w	'
+13	$Marimba	0	2	12	Chromatic Percussion	SC-88	13	013	'Marimba	Marimba	'
+013+	$Marimba w	8	2	12	Chromatic Percussion	SC-88	13	013+	'Marimba w	Marimba w	'
+013+	$Barafon	16	2	12	Chromatic Percussion	SC-88	13	013+	'Barafon	Barafon	'
+013+	$Barafon 2	17	2	12	Chromatic Percussion	SC-88	13	013+	'Barafon 2	Barafon 2	'
+013+	$Log drum	24	2	12	Chromatic Percussion	SC-88	13	013+	'Log drum	Log drum	'
+14	$Xylophone	0	2	13	Chromatic Percussion	SC-88	14	014	'Xylophone	Xylophone	'
+15	$Tubularbell	0	2	14	Chromatic Percussion	SC-88	15	015	'Tubularbell	Tubularbell	'
+015+	$Church Bell	8	2	14	Chromatic Percussion	SC-88	15	015+	'Church Bell	Church Bell	'
+015+	$Carillon	9	2	14	Chromatic Percussion	SC-88	15	015+	'Carillon	Carillon	'
+16	$Santur	0	2	15	Chromatic Percussion	SC-88	16	016	'Santur	Santur	'
+16	$Santur 2	1	2	15	Chromatic Percussion	SC-88	16	016	'Santur 2	Santur 2	'
+16	$Cimbalon	8	2	15	Chromatic Percussion	SC-88	16	016	'Cimbalon	Cimbalon	'
+9	*Celesta	0	1	8	Chromatic Percussion	SC-55	9	009	"Celesta	Celesta	"
+10	*Glockenspl	0	1	9	Chromatic Percussion	SC-55	10	010	"Glockenspl	Glockenspl	"
+11	*Music Box	0	1	10	Chromatic Percussion	SC-55	11	011	"Music Box	Music Box	"
+12	*Vibraphone	0	1	11	Chromatic Percussion	SC-55	12	012	"Vibraphone	Vibraphone	"
+012+	*Vib.w	8	1	11	Chromatic Percussion	SC-55	12	012+	"Vib.w	Vib.w	"
+13	*Marimba	0	1	12	Chromatic Percussion	SC-55	13	013	"Marimba	Marimba	"
+013+	*Marimba w	8	1	12	Chromatic Percussion	SC-55	13	013+	"Marimba w	Marimba w	"
+14	*Xylophone	0	1	13	Chromatic Percussion	SC-55	14	014	"Xylophone	Xylophone	"
+15	*Tubularbell	0	1	14	Chromatic Percussion	SC-55	15	015	"Tubularbell	Tubularbell	"
+015+	*Church Bell	8	1	14	Chromatic Percussion	SC-55	15	015+	"Church Bell	Church Bell	"
+015+	*Carillon	9	1	14	Chromatic Percussion	SC-55	15	015+	"Carillon	Carillon	"
+16	*Santur	0	1	15	Chromatic Percussion	SC-55	16	016	"Santur	Santur	"
+23	#Celesta 1	127	1	22	Chromatic Percussion	CM-64	23	023	#"Celesta 1	Celesta 1	#"
+24	#Celesta 2	127	1	23	Chromatic Percussion	CM-64	24	024	#"Celesta 2	Celesta 2	#"
+98	#Vibe 1	127	1	97	Chromatic Percussion	CM-64	98	098	#"Vibe 1	Vibe 1	#"
+99	#Vibe 2	127	1	98	Chromatic Percussion	CM-64	99	099	#"Vibe 2	Vibe 2	#"
+102	#Glock	127	1	101	Chromatic Percussion	CM-64	102	102	#"Glock	Glock	#"
+103	#Tube Bell	127	1	102	Chromatic Percussion	CM-64	103	103	#"Tube Bell	Tube Bell	#"
+104	#Xylophone	127	1	103	Chromatic Percussion	CM-64	104	104	#"Xylophone	Xylophone	#"
+105	#Marimba	127	1	104	Chromatic Percussion	CM-64	105	105	#"Marimba	Marimba	#"
+17	Organ 1	0	3	16	Organ	SC-88Pro	17	017	Organ 1	rgan 1	
+017+	Organ 101	1	3	16	Organ	SC-88Pro	17	017+	Organ 101	rgan 101	
+017+	Trem. Organ	8	3	16	Organ	SC-88Pro	17	017+	Trem. Organ	rem. Organ	
+017+	Organ o	9	3	16	Organ	SC-88Pro	17	017+	Organ o	rgan o	
+017+	60's Organ 1	16	3	16	Organ	SC-88Pro	17	017+	60's Organ 1	0's Organ 1	
+017+	60's Organ 2	17	3	16	Organ	SC-88Pro	17	017+	60's Organ 2	0's Organ 2	
+017+	60's Organ 3	18	3	16	Organ	SC-88Pro	17	017+	60's Organ 3	0's Organ 3	
+017+	Farf Organ	19	3	16	Organ	SC-88Pro	17	017+	Farf Organ	arf Organ	
+017+	Cheese Organ	24	3	16	Organ	SC-88Pro	17	017+	Cheese Organ	heese Organ	
+017+	D-50 Organ	25	3	16	Organ	SC-88Pro	17	017+	D-50 Organ	-50 Organ	
+017+	JUNO Organ	26	3	16	Organ	SC-88Pro	17	017+	JUNO Organ	UNO Organ	
+017+	Hybrid Organ	27	3	16	Organ	SC-88Pro	17	017+	Hybrid Organ	ybrid Organ	
+017+	VS Organ	28	3	16	Organ	SC-88Pro	17	017+	VS Organ	S Organ	
+017+	Digi Church	29	3	16	Organ	SC-88Pro	17	017+	Digi Church	igi Church	
+017+	70's E.Organ	32	3	16	Organ	SC-88Pro	17	017+	70's E.Organ	0's E.Organ	
+017+	Even Bar	33	3	16	Organ	SC-88Pro	17	017+	Even Bar	ven Bar	
+017+	Organ Bass	40	3	16	Organ	SC-88Pro	17	017+	Organ Bass	rgan Bass	
+017+	5th Organ	48	3	16	Organ	SC-88Pro	17	017+	5th Organ	th Organ	
+18	Organ 2	0	3	17	Organ	SC-88Pro	18	018	Organ 2	rgan 2	
+018+	Jazz Organ	1	3	17	Organ	SC-88Pro	18	018+	Jazz Organ	azz Organ	
+018+	E.Organ 16+2	2	3	17	Organ	SC-88Pro	18	018+	E.Organ 16+2	.Organ 16+2	
+018+	Chorus Or.2	8	3	17	Organ	SC-88Pro	18	018+	Chorus Or.2	horus Or.2	
+018+	Octave Organ	9	3	17	Organ	SC-88Pro	18	018+	Octave Organ	ctave Organ	
+018+	Perc. Organ	32	3	17	Organ	SC-88Pro	18	018+	Perc. Organ	erc. Organ	
+19	Organ 3	0	3	18	Organ	SC-88Pro	19	019	Organ 3	rgan 3	
+019+	Rotary Org.	8	3	18	Organ	SC-88Pro	19	019+	Rotary Org.	otary Org.	
+019+	Rotary Org.S	16	3	18	Organ	SC-88Pro	19	019+	Rotary Org.S	otary Org.S	
+019+	Rock Organ 1	17	3	18	Organ	SC-88Pro	19	019+	Rock Organ 1	ock Organ 1	
+019+	Rock Organ 2	18	3	18	Organ	SC-88Pro	19	019+	Rock Organ 2	ock Organ 2	
+019+	Rotary Org.F	24	3	18	Organ	SC-88Pro	19	019+	Rotary Org.F	otary Org.F	
+20	Church Org.1	0	3	19	Organ	SC-88Pro	20	020	Church Org.1	hurch Org.1	
+020+	Church Org.2	8	3	19	Organ	SC-88Pro	20	020+	Church Org.2	hurch Org.2	
+020+	Church Org.3	16	3	19	Organ	SC-88Pro	20	020+	Church Org.3	hurch Org.3	
+020+	Organ Flute	24	3	19	Organ	SC-88Pro	20	020+	Organ Flute	rgan Flute	
+020+	Trem.Flute	32	3	19	Organ	SC-88Pro	20	020+	Trem.Flute	rem.Flute	
+020+	Theater Org.	33	3	19	Organ	SC-88Pro	20	020+	Theater Org.	heater Org.	
+21	Reed Organ	0	3	20	Organ	SC-88Pro	21	021	Reed Organ	eed Organ	
+21	Wind Organ	8	3	20	Organ	SC-88Pro	21	021	Wind Organ	ind Organ	
+22	Accordion Fr	0	3	21	Organ	SC-88Pro	22	022	Accordion Fr	ccordion Fr	
+022+	Accordion It	8	3	21	Organ	SC-88Pro	22	022+	Accordion It	ccordion It	
+022+	Dist. Accord	9	3	21	Organ	SC-88Pro	22	022+	Dist. Accord	ist. Accord	
+022+	Cho. Accord	16	3	21	Organ	SC-88Pro	22	022+	Cho. Accord	ho. Accord	
+022+	Hard Accord	24	3	21	Organ	SC-88Pro	22	022+	Hard Accord	ard Accord	
+022+	Soft Accord	25	3	21	Organ	SC-88Pro	22	022+	Soft Accord	oft Accord	
+23	Harmonica	0	3	22	Organ	SC-88Pro	23	023	Harmonica	armonica	
+023+	Harmonica 2	1	3	22	Organ	SC-88Pro	23	023+	Harmonica 2	armonica 2	
+24	Bandoneon	0	3	23	Organ	SC-88Pro	24	024	Bandoneon	andoneon	
+024+	Bandoneon 2	8	3	23	Organ	SC-88Pro	24	024+	Bandoneon 2	andoneon 2	
+024+	Bandoneon 3	16	3	23	Organ	SC-88Pro	24	024+	Bandoneon 3	andoneon 3	
+17	$Organ 1	0	2	16	Organ	SC-88	17	017	'Organ 1	Organ 1	'
+017+	$Organ 101	1	2	16	Organ	SC-88	17	017+	'Organ 101	Organ 101	'
+017+	$Detuned Or.1	8	2	16	Organ	SC-88	17	017+	'Detuned Or.1	Detuned Or.1	'
+017+	$Organ 109	9	2	16	Organ	SC-88	17	017+	'Organ 109	Organ 109	'
+017+	$60'sOrgan 1	16	2	16	Organ	SC-88	17	017+	'60'sOrgan 1	60'sOrgan 1	'
+017+	$60'sOrgan 2	17	2	16	Organ	SC-88	17	017+	'60'sOrgan 2	60'sOrgan 2	'
+017+	$60'sOrgan 3	18	2	16	Organ	SC-88	17	017+	'60'sOrgan 3	60'sOrgan 3	'
+017+	$CheeseOrgan	24	2	16	Organ	SC-88	17	017+	'CheeseOrgan	CheeseOrgan	'
+017+	$Organ 4	32	2	16	Organ	SC-88	17	017+	'Organ 4	Organ 4	'
+017+	$Even Bar	33	2	16	Organ	SC-88	17	017+	'Even Bar	Even Bar	'
+017+	$Organ Bass	40	2	16	Organ	SC-88	17	017+	'Organ Bass	Organ Bass	'
+18	$Organ 2	0	2	17	Organ	SC-88	18	018	'Organ 2	Organ 2	'
+018+	$Organ 201	1	2	17	Organ	SC-88	18	018+	'Organ 201	Organ 201	'
+018+	$DetunedOr.2	8	2	17	Organ	SC-88	18	018+	'DetunedOr.2	DetunedOr.2	'
+018+	$Organ 5	32	2	17	Organ	SC-88	18	018+	'Organ 5	Organ 5	'
+19	$Organ 3	0	2	18	Organ	SC-88	19	019	'Organ 3	Organ 3	'
+019+	$Rotary Org.	8	2	18	Organ	SC-88	19	019+	'Rotary Org.	Rotary Org.	'
+019+	$RotaryOrg.S	16	2	18	Organ	SC-88	19	019+	'RotaryOrg.S	RotaryOrg.S	'
+019+	$RotaryOrg.F	24	2	18	Organ	SC-88	19	019+	'RotaryOrg.F	RotaryOrg.F	'
+20	$ChurchOrg.1	0	2	19	Organ	SC-88	20	020	'ChurchOrg.1	ChurchOrg.1	'
+020+	$ChurchOrg.2	8	2	19	Organ	SC-88	20	020+	'ChurchOrg.2	ChurchOrg.2	'
+020+	$ChurchOrg.3	16	2	19	Organ	SC-88	20	020+	'ChurchOrg.3	ChurchOrg.3	'
+020+	$Organ Flute	24	2	19	Organ	SC-88	20	020+	'Organ Flute	Organ Flute	'
+020+	$Trem.Flute	32	2	19	Organ	SC-88	20	020+	'Trem.Flute	Trem.Flute	'
+21	$Reed Organ	0	2	20	Organ	SC-88	21	021	'Reed Organ	Reed Organ	'
+22	$AccordionFr	0	2	21	Organ	SC-88	22	022	'AccordionFr	AccordionFr	'
+022+	$AccordionIt	8	2	21	Organ	SC-88	22	022+	'AccordionIt	AccordionIt	'
+23	$Harmonica	0	2	22	Organ	SC-88	23	023	'Harmonica	Harmonica	'
+023+	$Harmonica 2	1	2	22	Organ	SC-88	23	023+	'Harmonica 2	Harmonica 2	'
+24	$Bandoneon	0	2	23	Organ	SC-88	24	024	'Bandoneon	Bandoneon	'
+17	*Organ 1	0	1	16	Organ	SC-55	17	017	"Organ 1	Organ 1	"
+017+	*Detuned Or1	8	1	16	Organ	SC-55	17	017+	"Detuned Or1	Detuned Or1	"
+017+	*60's Organ1	16	1	16	Organ	SC-55	17	017+	"60's Organ1	60's Organ1	"
+017+	*Organ 4	32	1	16	Organ	SC-55	17	017+	"Organ 4	Organ 4	"
+18	*Organ 2	0	1	17	Organ	SC-55	18	018	"Organ 2	Organ 2	"
+018+	*Detuned Or2	8	1	17	Organ	SC-55	18	018+	"Detuned Or2	Detuned Or2	"
+018+	*Organ 5	32	1	17	Organ	SC-55	18	018+	"Organ 5	Organ 5	"
+19	*Organ 3	0	1	18	Organ	SC-55	19	019	"Organ 3	Organ 3	"
+20	*Church Org1	0	1	19	Organ	SC-55	20	020	"Church Org1	Church Org1	"
+020+	*Church Org2	8	1	19	Organ	SC-55	20	020+	"Church Org2	Church Org2	"
+020+	*Church Org3	16	1	19	Organ	SC-55	20	020+	"Church Org3	Church Org3	"
+21	*Reed Organ	0	1	20	Organ	SC-55	21	021	"Reed Organ	Reed Organ	"
+22	*Accordion F	0	1	21	Organ	SC-55	22	022	"Accordion F	Accordion F	"
+022+	*Accordion I	8	1	21	Organ	SC-55	22	022+	"Accordion I	Accordion I	"
+23	*Harmonica	0	1	22	Organ	SC-55	23	023	"Harmonica	Harmonica	"
+24	*Bandoneon	0	1	23	Organ	SC-55	24	024	"Bandoneon	Bandoneon	"
+38	#Organ 1	126	1	37	Organ	CM-64	38	038	#"Organ 1	Organ 1	#"
+39	#Organ 1	126	1	38	Organ	CM-64	39	039	#"Organ 1	Organ 1	#"
+40	#Organ 1	126	1	39	Organ	CM-64	40	040	#"Organ 1	Organ 1	#"
+41	#Organ 2	126	1	40	Organ	CM-64	41	041	#"Organ 2	Organ 2	#"
+42	#Organ 1	126	1	41	Organ	CM-64	42	042	#"Organ 1	Organ 1	#"
+43	#Organ 1	126	1	42	Organ	CM-64	43	043	#"Organ 1	Organ 1	#"
+44	#Organ 2	126	1	43	Organ	CM-64	44	044	#"Organ 2	Organ 2	#"
+45	#Organ 2	126	1	44	Organ	CM-64	45	045	#"Organ 2	Organ 2	#"
+46	#Organ 2	126	1	45	Organ	CM-64	46	046	#"Organ 2	Organ 2	#"
+9	#Elec Org 1	127	1	8	Organ	CM-64	9	009	#"Elec Org 1	Elec Org 1	#"
+10	#Elec Org 2	127	1	9	Organ	CM-64	10	010	#"Elec Org 2	Elec Org 2	#"
+11	#Elec Org 3	127	1	10	Organ	CM-64	11	011	#"Elec Org 3	Elec Org 3	#"
+12	#Elec Org 4	127	1	11	Organ	CM-64	12	012	#"Elec Org 4	Elec Org 4	#"
+13	#Pipe Org 1	127	1	12	Organ	CM-64	13	013	#"Pipe Org 1	Pipe Org 1	#"
+14	#Pipe Org 2	127	1	13	Organ	CM-64	14	014	#"Pipe Org 2	Pipe Org 2	#"
+15	#Pipe Org 3	127	1	14	Organ	CM-64	15	015	#"Pipe Org 3	Pipe Org 3	#"
+16	#Accordion	127	1	15	Organ	CM-64	16	016	#"Accordion	Accordion	#"
+88	#Harmonica	127	1	87	Organ	CM-64	88	088	#"Harmonica	Harmonica	#"
+25	Nylon-str.Gt	0	3	24	Guitar	SC-88Pro	25	025	Nylon-str.Gt	ylon-str.Gt	
+025+	Ukulele	8	3	24	Guitar	SC-88Pro	25	025+	Ukulele	kulele	
+025+	Nylon Gt.o	16	3	24	Guitar	SC-88Pro	25	025+	Nylon Gt.o	ylon Gt.o	
+025+	Velo Harmnix	24	3	24	Guitar	SC-88Pro	25	025+	Velo Harmnix	elo Harmnix	
+025+	Nylon Gt.2	32	3	24	Guitar	SC-88Pro	25	025+	Nylon Gt.2	ylon Gt.2	
+025+	Lequint Gt.	40	3	24	Guitar	SC-88Pro	25	025+	Lequint Gt.	equint Gt.	
+26	Steel-str.Gt	0	3	25	Guitar	SC-88Pro	26	026	Steel-str.Gt	teel-str.Gt	
+026+	12-str.Gt	8	3	25	Guitar	SC-88Pro	26	026+	12-str.Gt	2-str.Gt	
+026+	Nylon+Steel	9	3	25	Guitar	SC-88Pro	26	026+	Nylon+Steel	ylon+Steel	
+026+	Mandolin	16	3	25	Guitar	SC-88Pro	26	026+	Mandolin	andolin	
+026+	Mandolin 2	17	3	25	Guitar	SC-88Pro	26	026+	Mandolin 2	andolin 2	
+026+	MandolinTrem	18	3	25	Guitar	SC-88Pro	26	026+	MandolinTrem	andolinTrem	
+026+	Steel Gt.2	32	3	25	Guitar	SC-88Pro	26	026+	Steel Gt.2	teel Gt.2	
+27	Jazz Gt.	0	3	26	Guitar	SC-88Pro	27	027	Jazz Gt.	azz Gt.	
+027+	Mellow Gt.	1	3	26	Guitar	SC-88Pro	27	027+	Mellow Gt.	ellow Gt.	
+027+	Pedal Steel	8	3	26	Guitar	SC-88Pro	27	027+	Pedal Steel	edal Steel	
+28	Clean Gt.	0	3	27	Guitar	SC-88Pro	28	028	Clean Gt.	lean Gt.	
+028+	Clean Half	1	3	27	Guitar	SC-88Pro	28	028+	Clean Half	lean Half	
+028+	Open Hard 1	2	3	27	Guitar	SC-88Pro	28	028+	Open Hard 1	pen Hard 1	
+028+	Open Hard 2	3	3	27	Guitar	SC-88Pro	28	028+	Open Hard 2	pen Hard 2	
+028+	JC Clean Gt.	4	3	27	Guitar	SC-88Pro	28	028+	JC Clean Gt.	C Clean Gt.	
+028+	Chorus Gt.	8	3	27	Guitar	SC-88Pro	28	028+	Chorus Gt.	horus Gt.	
+028+	JC Chorus Gt	9	3	27	Guitar	SC-88Pro	28	028+	JC Chorus Gt	C Chorus Gt	
+028+	TC FrontPick	16	3	27	Guitar	SC-88Pro	28	028+	TC FrontPick	C FrontPick	
+028+	TC Rear Pick	17	3	27	Guitar	SC-88Pro	28	028+	TC Rear Pick	C Rear Pick	
+028+	TC Clean ff	18	3	27	Guitar	SC-88Pro	28	028+	TC Clean ff	C Clean ff	
+028+	TC Clean 2:	19	3	27	Guitar	SC-88Pro	28	028+	TC Clean 2:	C Clean 2:	
+29	Muted Gt.	0	3	28	Guitar	SC-88Pro	29	029	Muted Gt.	uted Gt.	
+029+	Muted Dis.Gt	1	3	28	Guitar	SC-88Pro	29	029+	Muted Dis.Gt	uted Dis.Gt	
+029+	TC Muted Gt.	2	3	28	Guitar	SC-88Pro	29	029+	TC Muted Gt.	C Muted Gt.	
+029+	Funk Pop	8	3	28	Guitar	SC-88Pro	29	029+	Funk Pop	unk Pop	
+029+	Funk Gt.2	16	3	28	Guitar	SC-88Pro	29	029+	Funk Gt.2	unk Gt.2	
+30	Overdrive Gt	0	3	29	Guitar	SC-88Pro	30	030	Overdrive Gt	verdrive Gt	
+030+	Overdrive 2	1	3	29	Guitar	SC-88Pro	30	030+	Overdrive 2	verdrive 2	
+030+	Overdrive 3	2	3	29	Guitar	SC-88Pro	30	030+	Overdrive 3	verdrive 3	
+030+	More Drive	3	3	29	Guitar	SC-88Pro	30	030+	More Drive	ore Drive	
+030+	LP OverDrvGt	8	3	29	Guitar	SC-88Pro	30	030+	LP OverDrvGt	P OverDrvGt	
+030+	LP OverDrv:	9	3	29	Guitar	SC-88Pro	30	030+	LP OverDrv:	P OverDrv:	
+31	DistortionGt	0	3	30	Guitar	SC-88Pro	31	031	DistortionGt	istortionGt	
+031+	Dist. Gt2 :	1	3	30	Guitar	SC-88Pro	31	031+	Dist. Gt2 :	ist. Gt2 :	
+031+	Dazed Guitar	2	3	30	Guitar	SC-88Pro	31	031+	Dazed Guitar	azed Guitar	
+031+	Distortion:	3	3	30	Guitar	SC-88Pro	31	031+	Distortion:	istortion:	
+031+	Dist.Fast :	4	3	30	Guitar	SC-88Pro	31	031+	Dist.Fast :	ist.Fast :	
+031+	Feedback Gt.	8	3	30	Guitar	SC-88Pro	31	031+	Feedback Gt.	eedback Gt.	
+031+	Feedback Gt2	9	3	30	Guitar	SC-88Pro	31	031+	Feedback Gt2	eedback Gt2	
+031+	Power Guitar	16	3	30	Guitar	SC-88Pro	31	031+	Power Guitar	ower Guitar	
+031+	Power Gt.2	17	3	30	Guitar	SC-88Pro	31	031+	Power Gt.2	ower Gt.2	
+031+	5th Dist.	18	3	30	Guitar	SC-88Pro	31	031+	5th Dist.	th Dist.	
+031+	Rock Rhythm	24	3	30	Guitar	SC-88Pro	31	031+	Rock Rhythm	ock Rhythm	
+031+	Rock Rhythm2	25	3	30	Guitar	SC-88Pro	31	031+	Rock Rhythm2	ock Rhythm2	
+32	Gt.Harmonics	0	3	31	Guitar	SC-88Pro	32	032	Gt.Harmonics	t.Harmonics	
+032+	Gt. Feedback	8	3	31	Guitar	SC-88Pro	32	032+	Gt. Feedback	t. Feedback	
+032+	Gt.Feedback2	9	3	31	Guitar	SC-88Pro	32	032+	Gt.Feedback2	t.Feedback2	
+032+	Ac.Gt.Harmnx	16	3	31	Guitar	SC-88Pro	32	032+	Ac.Gt.Harmnx	c.Gt.Harmnx	
+032+	E.Bass Harm.	24	3	31	Guitar	SC-88Pro	32	032+	E.Bass Harm.	.Bass Harm.	
+25	$Nylonstr.Gt	0	2	24	Guitar	SC-88	25	025	'Nylonstr.Gt	Nylonstr.Gt	'
+025+	$Ukulele	8	2	24	Guitar	SC-88	25	025+	'Ukulele	Ukulele	'
+025+	$Nylon Gt.o	16	2	24	Guitar	SC-88	25	025+	'Nylon Gt.o	Nylon Gt.o	'
+025+	$VeloHarmnix	24	2	24	Guitar	SC-88	25	025+	'VeloHarmnix	VeloHarmnix	'
+025+	$Nylon Gt.2	32	2	24	Guitar	SC-88	25	025+	'Nylon Gt.2	Nylon Gt.2	'
+025+	$Lequint Gt.	40	2	24	Guitar	SC-88	25	025+	'Lequint Gt.	Lequint Gt.	'
+26	$Steelstr.Gt	0	2	25	Guitar	SC-88	26	026	'Steelstr.Gt	Steelstr.Gt	'
+026+	$12-str.Gt	8	2	25	Guitar	SC-88	26	026+	'12-str.Gt	12-str.Gt	'
+026+	$Nylon+Steel	9	2	25	Guitar	SC-88	26	026+	'Nylon+Steel	Nylon+Steel	'
+026+	$Mandolin	16	2	25	Guitar	SC-88	26	026+	'Mandolin	Mandolin	'
+026+	$Steel Gt.2	32	2	25	Guitar	SC-88	26	026+	'Steel Gt.2	Steel Gt.2	'
+27	$Jazz Gt.	0	2	26	Guitar	SC-88	27	027	'Jazz Gt.	Jazz Gt.	'
+027+	$Mellow Gt.	1	2	26	Guitar	SC-88	27	027+	'Mellow Gt.	Mellow Gt.	'
+027+	$Pedal Steel	8	2	26	Guitar	SC-88	27	027+	'Pedal Steel	Pedal Steel	'
+28	$Clean Gt.	0	2	27	Guitar	SC-88	28	028	'Clean Gt.	Clean Gt.	'
+028+	$Chorus Gt.	8	2	27	Guitar	SC-88	28	028+	'Chorus Gt.	Chorus Gt.	'
+29	$Muted Gt.	0	2	28	Guitar	SC-88	29	029	'Muted Gt.	Muted Gt.	'
+029+	$MutedDis.Gt	1	2	28	Guitar	SC-88	29	029+	'MutedDis.Gt	MutedDis.Gt	'
+029+	$Funk Pop	8	2	28	Guitar	SC-88	29	029+	'Funk Pop	Funk Pop	'
+029+	$Funk Gt.2	16	2	28	Guitar	SC-88	29	029+	'Funk Gt.2	Funk Gt.2	'
+30	$OverdriveGt	0	2	29	Guitar	SC-88	30	030	'OverdriveGt	OverdriveGt	'
+31	$DistortionG	0	2	30	Guitar	SC-88	31	031	'DistortionG	DistortionG	'
+031+	$Dist. Gt2	1	2	30	Guitar	SC-88	31	031+	'Dist. Gt2	Dist. Gt2	'
+031+	$DazedGuitar	2	2	30	Guitar	SC-88	31	031+	'DazedGuitar	DazedGuitar	'
+031+	$FeedbackGt.	8	2	30	Guitar	SC-88	31	031+	'FeedbackGt.	FeedbackGt.	'
+031+	$FeedbackGt2	9	2	30	Guitar	SC-88	31	031+	'FeedbackGt2	FeedbackGt2	'
+031+	$PowerGuitar	16	2	30	Guitar	SC-88	31	031+	'PowerGuitar	PowerGuitar	'
+031+	$Power Gt.2	17	2	30	Guitar	SC-88	31	031+	'Power Gt.2	Power Gt.2	'
+031+	$5th Dist.	18	2	30	Guitar	SC-88	31	031+	'5th Dist.	5th Dist.	'
+031+	$Rock Rhythm	24	2	30	Guitar	SC-88	31	031+	'Rock Rhythm	Rock Rhythm	'
+031+	$RockRhythm2	25	2	30	Guitar	SC-88	31	031+	'RockRhythm2	RockRhythm2	'
+32	$Gt.Harmonix	0	2	31	Guitar	SC-88	32	032	'Gt.Harmonix	Gt.Harmonix	'
+032+	$Gt.Feedback	8	2	31	Guitar	SC-88	32	032+	'Gt.Feedback	Gt.Feedback	'
+032+	$Ac.Gt.Harm.	16	2	31	Guitar	SC-88	32	032+	'Ac.Gt.Harm.	Ac.Gt.Harm.	'
+25	*Nylon Gt.	0	1	24	Guitar	SC-55	25	025	"Nylon Gt.	Nylon Gt.	"
+025+	*Ukulele	8	1	24	Guitar	SC-55	25	025+	"Ukulele	Ukulele	"
+025+	*Nylon Gt.o	16	1	24	Guitar	SC-55	25	025+	"Nylon Gt.o	Nylon Gt.o	"
+025+	*Nylon Gt.2	32	1	24	Guitar	SC-55	25	025+	"Nylon Gt.2	Nylon Gt.2	"
+26	*Steel Gt.	0	1	25	Guitar	SC-55	26	026	"Steel Gt.	Steel Gt.	"
+026+	*12-str.Gt	8	1	25	Guitar	SC-55	26	026+	"12-str.Gt	12-str.Gt	"
+026+	*Mandolin	16	1	25	Guitar	SC-55	26	026+	"Mandolin	Mandolin	"
+27	*Jazz Gt.	0	1	26	Guitar	SC-55	27	027	"Jazz Gt.	Jazz Gt.	"
+027+	*Hawaiian Gt	8	1	26	Guitar	SC-55	27	027+	"Hawaiian Gt	Hawaiian Gt	"
+28	*Clean Gt.	0	1	27	Guitar	SC-55	28	028	"Clean Gt.	Clean Gt.	"
+028+	*Chorus Gt.	8	1	27	Guitar	SC-55	28	028+	"Chorus Gt.	Chorus Gt.	"
+29	*Muted Gt.	0	1	28	Guitar	SC-55	29	029	"Muted Gt.	Muted Gt.	"
+029+	*Funk Gt.	8	1	28	Guitar	SC-55	29	029+	"Funk Gt.	Funk Gt.	"
+029+	*Funk Gt.2	16	1	28	Guitar	SC-55	29	029+	"Funk Gt.2	Funk Gt.2	"
+30	*OverdriveGt	0	1	29	Guitar	SC-55	30	030	"OverdriveGt	OverdriveGt	"
+31	*Dist.Gt.	0	1	30	Guitar	SC-55	31	031	"Dist.Gt.	Dist.Gt.	"
+031+	*Feedback Gt.	8	1	30	Guitar	SC-55	31	031+	"Feedback Gt.	Feedback Gt.	"
+32	*Gt.Harmonix	0	1	31	Guitar	SC-55	32	032	"Gt.Harmonix	Gt.Harmonix	"
+032+	*Gt.Feedback	8	1	31	Guitar	SC-55	32	032+	"Gt.Feedback	Gt.Feedback	"
+11	#Steel Gt.	126	1	10	Guitar	CM-64	11	011	#"Steel Gt.	Steel Gt.	#"
+12	#Steel Gt.	126	1	11	Guitar	CM-64	12	012	#"Steel Gt.	Steel Gt.	#"
+13	#12-str.Gt	126	1	12	Guitar	CM-64	13	013	#"12-str.Gt	12-str.Gt	#"
+14	#Funk Gt.	126	1	13	Guitar	CM-64	14	014	#"Funk Gt.	Funk Gt.	#"
+15	#Muted Gt.	126	1	14	Guitar	CM-64	15	015	#"Muted Gt.	Muted Gt.	#"
+60	#Guitar 1	127	1	59	Guitar	CM-64	60	060	#"Guitar 1	Guitar 1	#"
+61	#Guitar 2	127	1	60	Guitar	CM-64	61	061	#"Guitar 2	Guitar 2	#"
+62	#Elec Gtr 1	127	1	61	Guitar	CM-64	62	062	#"Elec Gtr 1	Elec Gtr 1	#"
+63	#Elec Gtr 2	127	1	62	Guitar	CM-64	63	063	#"Elec Gtr 2	Elec Gtr 2	#"
+33	Acoustic Bs.	0	3	32	Bass	SC-88Pro	33	033	Acoustic Bs.	coustic Bs.	
+033+	Rockabilly	1	3	32	Bass	SC-88Pro	33	033+	Rockabilly	ockabilly	
+033+	Wild A.Bass	8	3	32	Bass	SC-88Pro	33	033+	Wild A.Bass	ild A.Bass	
+033+	Bass + OHH	16	3	32	Bass	SC-88Pro	33	033+	Bass + OHH	ass + OHH	
+34	Fingered Bs.	0	3	33	Bass	SC-88Pro	34	034	Fingered Bs.	ingered Bs.	
+034+	Fingered Bs2	1	3	33	Bass	SC-88Pro	34	034+	Fingered Bs2	ingered Bs2	
+034+	Jazz Bass	2	3	33	Bass	SC-88Pro	34	034+	Jazz Bass	azz Bass	
+034+	Jazz Bass 2	3	3	33	Bass	SC-88Pro	34	034+	Jazz Bass 2	azz Bass 2	
+034+	Rock Bass	4	3	33	Bass	SC-88Pro	34	034+	Rock Bass	ock Bass	
+034+	ChorusJazzBs	8	3	33	Bass	SC-88Pro	34	034+	ChorusJazzBs	horusJazzBs	
+034+	F.Bass/Harm.	16	3	33	Bass	SC-88Pro	34	034+	F.Bass/Harm.	.Bass/Harm.	
+35	Picked Bass	0	3	34	Bass	SC-88Pro	35	035	Picked Bass	icked Bass	
+035+	Picked Bass2	1	3	34	Bass	SC-88Pro	35	035+	Picked Bass2	icked Bass2	
+035+	Picked Bass3	2	3	34	Bass	SC-88Pro	35	035+	Picked Bass3	icked Bass3	
+035+	Picked Bass4	3	3	34	Bass	SC-88Pro	35	035+	Picked Bass4	icked Bass4	
+035+	Mute PickBs	8	3	34	Bass	SC-88Pro	35	035+	Mute PickBs	ute PickBs	
+035+	P.Bass/Harm.	16	3	34	Bass	SC-88Pro	35	035+	P.Bass/Harm.	.Bass/Harm.	
+36	Fretless Bs.	0	3	35	Bass	SC-88Pro	36	036	Fretless Bs.	retless Bs.	
+036+	Fretless Bs2	1	3	35	Bass	SC-88Pro	36	036+	Fretless Bs2	retless Bs2	
+036+	Fretless Bs3	2	3	35	Bass	SC-88Pro	36	036+	Fretless Bs3	retless Bs3	
+036+	Fretless Bs4	3	3	35	Bass	SC-88Pro	36	036+	Fretless Bs4	retless Bs4	
+036+	Syn Fretless	4	3	35	Bass	SC-88Pro	36	036+	Syn Fretless	yn Fretless	
+036+	Mr.Smooth	5	3	35	Bass	SC-88Pro	36	036+	Mr.Smooth	r.Smooth	
+036+	Wood+FlessBs	8	3	35	Bass	SC-88Pro	36	036+	Wood+FlessBs	ood+FlessBs	
+37	Slap Bass 1	0	3	36	Bass	SC-88Pro	37	037	Slap Bass 1	lap Bass 1	
+037+	Slap Pop	1	3	36	Bass	SC-88Pro	37	037+	Slap Pop	lap Pop	
+037+	Reso Slap	8	3	36	Bass	SC-88Pro	37	037+	Reso Slap	eso Slap	
+037+	Unison Slap	9	3	36	Bass	SC-88Pro	37	037+	Unison Slap	nison Slap	
+38	Slap Bass 2	0	3	37	Bass	SC-88Pro	38	038	Slap Bass 2	lap Bass 2	
+038+	FM Slap	8	3	37	Bass	SC-88Pro	38	038+	FM Slap	M Slap	
+39	Synth Bass 1	0	3	38	Bass	SC-88Pro	39	039	Synth Bass 1	ynth Bass 1	
+039+	SynthBass101	1	3	38	Bass	SC-88Pro	39	039+	SynthBass101	ynthBass101	
+039+	CS Bass	2	3	38	Bass	SC-88Pro	39	039+	CS Bass	S Bass	
+039+	JP-4 Bass	3	3	38	Bass	SC-88Pro	39	039+	JP-4 Bass	P-4 Bass	
+039+	JP-8 Bass	4	3	38	Bass	SC-88Pro	39	039+	JP-8 Bass	P-8 Bass	
+039+	P5 Bass	5	3	38	Bass	SC-88Pro	39	039+	P5 Bass	5 Bass	
+039+	JPMG Bass	6	3	38	Bass	SC-88Pro	39	039+	JPMG Bass	PMG Bass	
+039+	Acid Bass	8	3	38	Bass	SC-88Pro	39	039+	Acid Bass	cid Bass	
+039+	TB303 Bass	9	3	38	Bass	SC-88Pro	39	039+	TB303 Bass	B303 Bass	
+039+	Tekno Bass	10	3	38	Bass	SC-88Pro	39	039+	Tekno Bass	ekno Bass	
+039+	TB303 Bass 2	11	3	38	Bass	SC-88Pro	39	039+	TB303 Bass 2	B303 Bass 2	
+039+	Kicked TB303	12	3	38	Bass	SC-88Pro	39	039+	Kicked TB303	icked TB303	
+039+	TB303 Saw Bs	13	3	38	Bass	SC-88Pro	39	039+	TB303 Saw Bs	B303 Saw Bs	
+039+	Rubber303 Bs	14	3	38	Bass	SC-88Pro	39	039+	Rubber303 Bs	ubber303 Bs	
+039+	Reso 303 Bs	15	3	38	Bass	SC-88Pro	39	039+	Reso 303 Bs	eso 303 Bs	
+039+	Reso SH Bass	16	3	38	Bass	SC-88Pro	39	039+	Reso SH Bass	eso SH Bass	
+039+	TB303 Sqr Bs	17	3	38	Bass	SC-88Pro	39	039+	TB303 Sqr Bs	B303 Sqr Bs	
+039+	TB303 DistBs	18	3	38	Bass	SC-88Pro	39	039+	TB303 DistBs	B303 DistBs	
+039+	Arpeggio Bs	24	3	38	Bass	SC-88Pro	39	039+	Arpeggio Bs	rpeggio Bs	
+40	Synth Bass 2	0	3	39	Bass	SC-88Pro	40	040	Synth Bass 2	ynth Bass 2	
+040+	SynthBass201	1	3	39	Bass	SC-88Pro	40	040+	SynthBass201	ynthBass201	
+040+	Modular Bass	2	3	39	Bass	SC-88Pro	40	040+	Modular Bass	odular Bass	
+040+	Seq Bass	3	3	39	Bass	SC-88Pro	40	040+	Seq Bass	eq Bass	
+040+	MG Bass	4	3	39	Bass	SC-88Pro	40	040+	MG Bass	G Bass	
+040+	Mg Oct Bass1	5	3	39	Bass	SC-88Pro	40	040+	Mg Oct Bass1	g Oct Bass1	
+040+	MG Oct Bass2	6	3	39	Bass	SC-88Pro	40	040+	MG Oct Bass2	G Oct Bass2	
+040+	MG Blip Bs:	7	3	39	Bass	SC-88Pro	40	040+	MG Blip Bs:	G Blip Bs:	
+040+	Beef FM Bass	8	3	39	Bass	SC-88Pro	40	040+	Beef FM Bass	eef FM Bass	
+040+	Dly Bass	9	3	39	Bass	SC-88Pro	40	040+	Dly Bass	ly Bass	
+040+	X Wire Bass	10	3	39	Bass	SC-88Pro	40	040+	X Wire Bass	 Wire Bass	
+040+	WireStr Bass	11	3	39	Bass	SC-88Pro	40	040+	WireStr Bass	ireStr Bass	
+040+	Blip Bass :	12	3	39	Bass	SC-88Pro	40	040+	Blip Bass :	lip Bass :	
+040+	RubberBass 1	13	3	39	Bass	SC-88Pro	40	040+	RubberBass 1	ubberBass 1	
+040+	RubberBass 2	16	3	39	Bass	SC-88Pro	40	040+	RubberBass 2	ubberBass 2	
+040+	SH101 Bass 1	17	3	39	Bass	SC-88Pro	40	040+	SH101 Bass 1	H101 Bass 1	
+040+	SH101 Bass 2	18	3	39	Bass	SC-88Pro	40	040+	SH101 Bass 2	H101 Bass 2	
+040+	Smooth Bass	19	3	39	Bass	SC-88Pro	40	040+	Smooth Bass	mooth Bass	
+040+	SH101 Bass 3	20	3	39	Bass	SC-88Pro	40	040+	SH101 Bass 3	H101 Bass 3	
+040+	Spike Bass	21	3	39	Bass	SC-88Pro	40	040+	Spike Bass	pike Bass	
+040+	House Bass:	22	3	39	Bass	SC-88Pro	40	040+	House Bass:	ouse Bass:	
+040+	KG Bass	23	3	39	Bass	SC-88Pro	40	040+	KG Bass	G Bass	
+040+	Sync Bass	24	3	39	Bass	SC-88Pro	40	040+	Sync Bass	ync Bass	
+040+	MG 5th Bass	25	3	39	Bass	SC-88Pro	40	040+	MG 5th Bass	G 5th Bass	
+040+	RND Bass	26	3	39	Bass	SC-88Pro	40	040+	RND Bass	ND Bass	
+040+	WowMG Bass	27	3	39	Bass	SC-88Pro	40	040+	WowMG Bass	owMG Bass	
+040+	Bubble Bass	28	3	39	Bass	SC-88Pro	40	040+	Bubble Bass	ubble Bass	
+33	$AcousticBs.	0	2	32	Bass	SC-88	33	033	'AcousticBs.	AcousticBs.	'
+34	$FingeredBs.	0	2	33	Bass	SC-88	34	034	'FingeredBs.	FingeredBs.	'
+034+	$FingeredBs2	1	2	33	Bass	SC-88	34	034+	'FingeredBs2	FingeredBs2	'
+034+	$Jazz Bass	2	2	33	Bass	SC-88	34	034+	'Jazz Bass	Jazz Bass	'
+35	$Picked Bass	0	2	34	Bass	SC-88	35	035	'Picked Bass	Picked Bass	'
+035+	$MutePickBs.	8	2	34	Bass	SC-88	35	035+	'MutePickBs.	MutePickBs.	'
+36	$FretlessBs.	0	2	35	Bass	SC-88	36	036	'FretlessBs.	FretlessBs.	'
+036+	$FretlessBs2	1	2	35	Bass	SC-88	36	036+	'FretlessBs2	FretlessBs2	'
+036+	$FretlessBs3	2	2	35	Bass	SC-88	36	036+	'FretlessBs3	FretlessBs3	'
+036+	$FretlessBs4	3	2	35	Bass	SC-88	36	036+	'FretlessBs4	FretlessBs4	'
+036+	$SynFretless	4	2	35	Bass	SC-88	36	036+	'SynFretless	SynFretless	'
+036+	$Mr.Smooth	5	2	35	Bass	SC-88	36	036+	'Mr.Smooth	Mr.Smooth	'
+37	$Slap Bass 1	0	2	36	Bass	SC-88	37	037	'Slap Bass 1	Slap Bass 1	'
+037+	$Reso Slap	8	2	36	Bass	SC-88	37	037+	'Reso Slap	Reso Slap	'
+38	$Slap Bass 2	0	2	37	Bass	SC-88	38	038	'Slap Bass 2	Slap Bass 2	'
+39	$SynthBass 1	0	2	38	Bass	SC-88	39	039	'SynthBass 1	SynthBass 1	'
+039+	$Syn.Bass101	1	2	38	Bass	SC-88	39	039+	'Syn.Bass101	Syn.Bass101	'
+039+	$Acid Bass	8	2	38	Bass	SC-88	39	039+	'Acid Bass	Acid Bass	'
+039+	$TB303 Bass	9	2	38	Bass	SC-88	39	039+	'TB303 Bass	TB303 Bass	'
+039+	$Tekno Bass	10	2	38	Bass	SC-88	39	039+	'Tekno Bass	Tekno Bass	'
+039+	$Reso SHBass	16	2	38	Bass	SC-88	39	039+	'Reso SHBass	Reso SHBass	'
+40	$SynthBass 2	0	2	39	Bass	SC-88	40	040	'SynthBass 2	SynthBass 2	'
+040+	$Syn.Bass201	1	2	39	Bass	SC-88	40	040+	'Syn.Bass201	Syn.Bass201	'
+040+	$ModularBass	2	2	39	Bass	SC-88	40	040+	'ModularBass	ModularBass	'
+040+	$Seq Bass	3	2	39	Bass	SC-88	40	040+	'Seq Bass	Seq Bass	'
+040+	$Beef FMBass	8	2	39	Bass	SC-88	40	040+	'Beef FMBass	Beef FMBass	'
+040+	$X Wire Bass	9	2	39	Bass	SC-88	40	040+	'X Wire Bass	X Wire Bass	'
+040+	$Rubber Bass	16	2	39	Bass	SC-88	40	040+	'Rubber Bass	Rubber Bass	'
+040+	$SH101Bass 1	17	2	39	Bass	SC-88	40	040+	'SH101Bass 1	SH101Bass 1	'
+040+	$SH101Bass 2	18	2	39	Bass	SC-88	40	040+	'SH101Bass 2	SH101Bass 2	'
+040+	$Smooth Bass	19	2	39	Bass	SC-88	40	040+	'Smooth Bass	Smooth Bass	'
+33	*Acoustic Bs	0	1	32	Bass	SC-55	33	033	"Acoustic Bs	Acoustic Bs	"
+34	*Fingered Bs	0	1	33	Bass	SC-55	34	034	"Fingered Bs	Fingered Bs	"
+35	*Picked Bass	0	1	34	Bass	SC-55	35	035	"Picked Bass	Picked Bass	"
+36	*Fretless Bs	0	1	35	Bass	SC-55	36	036	"Fretless Bs	Fretless Bs	"
+37	*Slap Bass 1	0	1	36	Bass	SC-55	37	037	"Slap Bass 1	Slap Bass 1	"
+38	*Slap Bass 2	0	1	37	Bass	SC-55	38	038	"Slap Bass 2	Slap Bass 2	"
+39	*Syn.Bass 1	0	1	38	Bass	SC-55	39	039	"Syn.Bass 1	Syn.Bass 1	"
+039+	*Syn.Bass101	1	1	38	Bass	SC-55	39	039+	"Syn.Bass101	Syn.Bass101	"
+039+	*Syn.Bass 3	8	1	38	Bass	SC-55	39	039+	"Syn.Bass 3	Syn.Bass 3	"
+40	*Syn.Bass 2	0	1	39	Bass	SC-55	40	040	"Syn.Bass 2	Syn.Bass 2	"
+040+	*Syn.Bass 4	8	1	39	Bass	SC-55	40	040+	"Syn.Bass 4	Syn.Bass 4	"
+040+	*Rubber Bass	16	1	39	Bass	SC-55	40	040+	"Rubber Bass	Rubber Bass	"
+16	#Slap Bass 1	126	1	15	Bass	CM-64	16	016	#"Slap Bass 1	Slap Bass 1	#"
+17	#Slap Bass 1	126	1	16	Bass	CM-64	17	017	#"Slap Bass 1	Slap Bass 1	#"
+18	#Slap Bass 1	126	1	17	Bass	CM-64	18	018	#"Slap Bass 1	Slap Bass 1	#"
+19	#Slap Bass 1	126	1	18	Bass	CM-64	19	019	#"Slap Bass 1	Slap Bass 1	#"
+20	#Slap Bass 2	126	1	19	Bass	CM-64	20	020	#"Slap Bass 2	Slap Bass 2	#"
+21	#Slap Bass 2	126	1	20	Bass	CM-64	21	021	#"Slap Bass 2	Slap Bass 2	#"
+22	#Slap Bass 2	126	1	21	Bass	CM-64	22	022	#"Slap Bass 2	Slap Bass 2	#"
+23	#Slap Bass 2	126	1	22	Bass	CM-64	23	023	#"Slap Bass 2	Slap Bass 2	#"
+24	#Fingered Bs	126	1	23	Bass	CM-64	24	024	#"Fingered Bs	Fingered Bs	#"
+25	#Fingered Bs	126	1	24	Bass	CM-64	25	025	#"Fingered Bs	Fingered Bs	#"
+26	#Picked Bass	126	1	25	Bass	CM-64	26	026	#"Picked Bass	Picked Bass	#"
+27	#Picked Bass	126	1	26	Bass	CM-64	27	027	#"Picked Bass	Picked Bass	#"
+28	#Fretless Bs	126	1	27	Bass	CM-64	28	028	#"Fretless Bs	Fretless Bs	#"
+29	#Acoustic Bs	126	1	28	Bass	CM-64	29	029	#"Acoustic Bs	Acoustic Bs	#"
+29	#Syn Bass 1	127	1	28	Bass	CM-64	29	029	#"Syn Bass 1	Syn Bass 1	#"
+30	#Syn Bass 2	127	1	29	Bass	CM-64	30	030	#"Syn Bass 2	Syn Bass 2	#"
+31	#Syn Bass 3	127	1	30	Bass	CM-64	31	031	#"Syn Bass 3	Syn Bass 3	#"
+32	#Syn Bass 4	127	1	31	Bass	CM-64	32	032	#"Syn Bass 4	Syn Bass 4	#"
+65	#Acou Bass 1	127	1	64	Bass	CM-64	65	065	#"Acou Bass 1	Acou Bass 1	#"
+66	#Acou Bass 2	127	1	65	Bass	CM-64	66	066	#"Acou Bass 2	Acou Bass 2	#"
+67	#Elec Bass 1	127	1	66	Bass	CM-64	67	067	#"Elec Bass 1	Elec Bass 1	#"
+68	#Elec Bass 2	127	1	67	Bass	CM-64	68	068	#"Elec Bass 2	Elec Bass 2	#"
+69	#Slap Bass 1	127	1	68	Bass	CM-64	69	069	#"Slap Bass 1	Slap Bass 1	#"
+70	#Slap Bass 2	127	1	69	Bass	CM-64	70	070	#"Slap Bass 2	Slap Bass 2	#"
+71	#Fretless 1	127	1	70	Bass	CM-64	71	071	#"Fretless 1	Fretless 1	#"
+72	#Fretless 2	127	1	71	Bass	CM-64	72	072	#"Fretless 2	Fretless 2	#"
+41	Violin :	0	3	40	Strings/Orchestra	SC-88Pro	41	041	Violin :	iolin :	
+041+	Violin Atk:	1	3	40	Strings/Orchestra	SC-88Pro	41	041+	Violin Atk:	iolin Atk:	
+041+	Slow Violin	8	3	40	Strings/Orchestra	SC-88Pro	41	041+	Slow Violin	low Violin	
+42	Viola :	0	3	41	Strings/Orchestra	SC-88Pro	42	042	Viola :	iola :	
+042+	Viola Atk.:	1	3	41	Strings/Orchestra	SC-88Pro	42	042+	Viola Atk.:	iola Atk.:	
+43	Cello :	0	3	42	Strings/Orchestra	SC-88Pro	43	043	Cello :	ello :	
+043+	Cello Atk.:	1	3	42	Strings/Orchestra	SC-88Pro	43	043+	Cello Atk.:	ello Atk.:	
+44	Contrabass	0	3	43	Strings/Orchestra	SC-88Pro	44	044	Contrabass	ontrabass	
+45	Tremolo Str	0	3	44	Strings/Orchestra	SC-88Pro	45	045	Tremolo Str	remolo Str	
+45	Slow Tremolo	8	3	44	Strings/Orchestra	SC-88Pro	45	045	Slow Tremolo	low Tremolo	
+45	Suspense Str	9	3	44	Strings/Orchestra	SC-88Pro	45	045	Suspense Str	uspense Str	
+46	PizzicatoStr	0	3	45	Strings/Orchestra	SC-88Pro	46	046	PizzicatoStr	izzicatoStr	
+046+	Vcs&Cbs Pizz	1	3	45	Strings/Orchestra	SC-88Pro	46	046+	Vcs&Cbs Pizz	cs&Cbs Pizz	
+046+	Chamber Pizz	2	3	45	Strings/Orchestra	SC-88Pro	46	046+	Chamber Pizz	hamber Pizz	
+046+	St.Pizzicato	3	3	45	Strings/Orchestra	SC-88Pro	46	046+	St.Pizzicato	t.Pizzicato	
+046+	Solo Pizz.	8	3	45	Strings/Orchestra	SC-88Pro	46	046+	Solo Pizz.	olo Pizz.	
+046+	Solo Spic.	16	3	45	Strings/Orchestra	SC-88Pro	46	046+	Solo Spic.	olo Spic.	
+47	Harp	0	3	46	Strings/Orchestra	SC-88Pro	47	047	Harp	arp	
+047+	Synth Harp	16	3	46	Strings/Orchestra	SC-88Pro	47	047+	Synth Harp	ynth Harp	
+48	Timpani	0	3	47	Strings/Orchestra	SC-88Pro	48	048	Timpani	impani	
+41	$Violin	0	2	40	Strings/Orchestra	SC-88	41	041	'Violin	Violin	'
+041+	$Slow Violin	8	2	40	Strings/Orchestra	SC-88	41	041+	'Slow Violin	Slow Violin	'
+42	$Viola	0	2	41	Strings/Orchestra	SC-88	42	042	'Viola	Viola	'
+43	$Cello	0	2	42	Strings/Orchestra	SC-88	43	043	'Cello	Cello	'
+44	$Contrabass	0	2	43	Strings/Orchestra	SC-88	44	044	'Contrabass	Contrabass	'
+45	$Tremolo Str	0	2	44	Strings/Orchestra	SC-88	45	045	'Tremolo Str	Tremolo Str	'
+045+	$SlowTremolo	8	2	44	Strings/Orchestra	SC-88	45	045+	'SlowTremolo	SlowTremolo	'
+045+	$SuspenseStr	9	2	44	Strings/Orchestra	SC-88	45	045+	'SuspenseStr	SuspenseStr	'
+46	$Pizz. Str.	0	2	45	Strings/Orchestra	SC-88	46	046	'Pizz. Str.	Pizz. Str.	'
+47	$Harp	0	2	46	Strings/Orchestra	SC-88	47	047	'Harp	Harp	'
+48	$Timpani	0	2	47	Strings/Orchestra	SC-88	48	048	'Timpani	Timpani	'
+41	*Violin	0	1	40	Strings/Orchestra	SC-55	41	041	"Violin	Violin	"
+041+	*Slow Violin	8	1	40	Strings/Orchestra	SC-55	41	041+	"Slow Violin	Slow Violin	"
+42	*Viola	0	1	41	Strings/Orchestra	SC-55	42	042	"Viola	Viola	"
+43	*Cello	0	1	42	Strings/Orchestra	SC-55	43	043	"Cello	Cello	"
+44	*Contrabass	0	1	43	Strings/Orchestra	SC-55	44	044	"Contrabass	Contrabass	"
+45	*Tremolo Str	0	1	44	Strings/Orchestra	SC-55	45	045	"Tremolo Str	Tremolo Str	"
+46	*Pizzicato	0	1	45	Strings/Orchestra	SC-55	46	046	"Pizzicato	Pizzicato	"
+47	*Harp	0	1	46	Strings/Orchestra	SC-55	47	047	"Harp	Harp	"
+48	*Timpani	0	1	47	Strings/Orchestra	SC-55	48	048	"Timpani	Timpani	"
+49	#Str Sect 1	127	1	48	Strings/Orchestra	CM-64	49	049	#"Str Sect 1	Str Sect 1	#"
+50	#Str Sect 2	127	1	49	Strings/Orchestra	CM-64	50	050	#"Str Sect 2	Str Sect 2	#"
+51	#Str Sect 3	127	1	50	Strings/Orchestra	CM-64	51	051	#"Str Sect 3	Str Sect 3	#"
+52	#Pizzicato	127	1	51	Strings/Orchestra	CM-64	52	052	#"Pizzicato	Pizzicato	#"
+53	#Violin 1	127	1	52	Strings/Orchestra	CM-64	53	053	#"Violin 1	Violin 1	#"
+54	#Violin 2	127	1	53	Strings/Orchestra	CM-64	54	054	#"Violin 2	Violin 2	#"
+55	#Cello 1	127	1	54	Strings/Orchestra	CM-64	55	055	#"Cello 1	Cello 1	#"
+56	#Cello 2	127	1	55	Strings/Orchestra	CM-64	56	056	#"Cello 2	Cello 2	#"
+57	#Contrabass	127	1	56	Strings/Orchestra	CM-64	57	057	#"Contrabass	Contrabass	#"
+58	#Harp 1	127	1	57	Strings/Orchestra	CM-64	58	058	#"Harp 1	Harp 1	#"
+59	#Harp 2	127	1	58	Strings/Orchestra	CM-64	59	059	#"Harp 2	Harp 2	#"
+113	#Timpani	127	1	112	Strings/Orchestra	CM-64	113	113	#"Timpani	Timpani	#"
+49	Strings :	0	3	48	Ensemble	SC-88Pro	49	049	Strings :	trings :	
+049+	Bright Str:	1	3	48	Ensemble	SC-88Pro	49	049+	Bright Str:	right Str:	
+049+	ChamberStr:	2	3	48	Ensemble	SC-88Pro	49	049+	ChamberStr:	hamberStr:	
+049+	Cello sect.	3	3	48	Ensemble	SC-88Pro	49	049+	Cello sect.	ello sect.	
+049+	Orchestra	8	3	48	Ensemble	SC-88Pro	49	049+	Orchestra	rchestra	
+049+	Orchestra 2	9	3	48	Ensemble	SC-88Pro	49	049+	Orchestra 2	rchestra 2	
+049+	Tremolo Orch	10	3	48	Ensemble	SC-88Pro	49	049+	Tremolo Orch	remolo Orch	
+049+	Choir Str.	11	3	48	Ensemble	SC-88Pro	49	049+	Choir Str.	hoir Str.	
+049+	Strings+Horn	12	3	48	Ensemble	SC-88Pro	49	049+	Strings+Horn	trings+Horn	
+049+	St. Strings	16	3	48	Ensemble	SC-88Pro	49	049+	St. Strings	t. Strings	
+049+	Velo Strings	24	3	48	Ensemble	SC-88Pro	49	049+	Velo Strings	elo Strings	
+049+	Oct Strings1	32	3	48	Ensemble	SC-88Pro	49	049+	Oct Strings1	ct Strings1	
+049+	Oct Strings2	33	3	48	Ensemble	SC-88Pro	49	049+	Oct Strings2	ct Strings2	
+50	Slow Strings	0	3	49	Ensemble	SC-88Pro	50	050	Slow Strings	low Strings	
+050+	SlowStrings2	1	3	49	Ensemble	SC-88Pro	50	050+	SlowStrings2	lowStrings2	
+050+	Legato Str.	8	3	49	Ensemble	SC-88Pro	50	050+	Legato Str.	egato Str.	
+050+	Warm Strings	9	3	49	Ensemble	SC-88Pro	50	050+	Warm Strings	arm Strings	
+050+	St.Slow Str.	10	3	49	Ensemble	SC-88Pro	50	050+	St.Slow Str.	t.Slow Str.	
+51	Syn.Strings1	0	3	50	Ensemble	SC-88Pro	51	051	Syn.Strings1	yn.Strings1	
+051+	OB Strings	1	3	50	Ensemble	SC-88Pro	51	051+	OB Strings	B Strings	
+051+	StackStrings	2	3	50	Ensemble	SC-88Pro	51	051+	StackStrings	tackStrings	
+051+	JP Strings	3	3	50	Ensemble	SC-88Pro	51	051+	JP Strings	P Strings	
+051+	Syn.Strings3	8	3	50	Ensemble	SC-88Pro	51	051+	Syn.Strings3	yn.Strings3	
+051+	Syn.Strings4	9	3	50	Ensemble	SC-88Pro	51	051+	Syn.Strings4	yn.Strings4	
+051+	High Strings	16	3	50	Ensemble	SC-88Pro	51	051+	High Strings	igh Strings	
+051+	Hybrid Str.	17	3	50	Ensemble	SC-88Pro	51	051+	Hybrid Str.	ybrid Str.	
+051+	Tron Strings	24	3	50	Ensemble	SC-88Pro	51	051+	Tron Strings	ron Strings	
+051+	Noiz Strings	25	3	50	Ensemble	SC-88Pro	51	051+	Noiz Strings	oiz Strings	
+52	Syn.Strings2	0	3	51	Ensemble	SC-88Pro	52	052	Syn.Strings2	yn.Strings2	
+052+	Syn.Strings5	1	3	51	Ensemble	SC-88Pro	52	052+	Syn.Strings5	yn.Strings5	
+052+	JUNO Strings	2	3	51	Ensemble	SC-88Pro	52	052+	JUNO Strings	UNO Strings	
+052+	Air Strings	8	3	51	Ensemble	SC-88Pro	52	052+	Air Strings	ir Strings	
+53	Choir Aahs	0	3	52	Ensemble	SC-88Pro	53	053	Choir Aahs	hoir Aahs	
+053+	St.ChoirAahs	8	3	52	Ensemble	SC-88Pro	53	053+	St.ChoirAahs	t.ChoirAahs	
+053+	Melted Choir	9	3	52	Ensemble	SC-88Pro	53	053+	Melted Choir	elted Choir	
+053+	Church Choir	10	3	52	Ensemble	SC-88Pro	53	053+	Church Choir	hurch Choir	
+053+	Choir Hahs	16	3	52	Ensemble	SC-88Pro	53	053+	Choir Hahs	hoir Hahs	
+053+	Choir Lahs	24	3	52	Ensemble	SC-88Pro	53	053+	Choir Lahs	hoir Lahs	
+053+	Chorus Aahs	32	3	52	Ensemble	SC-88Pro	53	053+	Chorus Aahs	horus Aahs	
+053+	Male Aah+Str	33	3	52	Ensemble	SC-88Pro	53	053+	Male Aah+Str	ale Aah+Str	
+54	Voice Oohs	0	3	53	Ensemble	SC-88Pro	54	054	Voice Oohs	oice Oohs	
+054+	Voice Dahs	8	3	53	Ensemble	SC-88Pro	54	054+	Voice Dahs	oice Dahs	
+55	SynVox	0	3	54	Ensemble	SC-88Pro	55	055	SynVox	ynVox	
+055+	Syn.Voice	8	3	54	Ensemble	SC-88Pro	55	055+	Syn.Voice	yn.Voice	
+055+	Silent Night	9	3	54	Ensemble	SC-88Pro	55	055+	Silent Night	ilent Night	
+055+	VP330 Choir	16	3	54	Ensemble	SC-88Pro	55	055+	VP330 Choir	P330 Choir	
+055+	Vinyl Choir	17	3	54	Ensemble	SC-88Pro	55	055+	Vinyl Choir	inyl Choir	
+56	OrchestraHit	0	3	55	Ensemble	SC-88Pro	56	056	OrchestraHit	rchestraHit	
+056+	Impact Hit	8	3	55	Ensemble	SC-88Pro	56	056+	Impact Hit	mpact Hit	
+056+	Philly Hit	9	3	55	Ensemble	SC-88Pro	56	056+	Philly Hit	hilly Hit	
+056+	Double Hit	10	3	55	Ensemble	SC-88Pro	56	056+	Double Hit	ouble Hit	
+056+	Perc. Hit	11	3	55	Ensemble	SC-88Pro	56	056+	Perc. Hit	erc. Hit	
+056+	Shock Wave	12	3	55	Ensemble	SC-88Pro	56	056+	Shock Wave	hock Wave	
+056+	Lo Fi Rave	16	3	55	Ensemble	SC-88Pro	56	056+	Lo Fi Rave	o Fi Rave	
+056+	Techno Hit	17	3	55	Ensemble	SC-88Pro	56	056+	Techno Hit	echno Hit	
+056+	Dist. Hit	18	3	55	Ensemble	SC-88Pro	56	056+	Dist. Hit	ist. Hit	
+056+	Bam Hit	19	3	55	Ensemble	SC-88Pro	56	056+	Bam Hit	am Hit	
+056+	Bit Hit	20	3	55	Ensemble	SC-88Pro	56	056+	Bit Hit	it Hit	
+056+	Bim Hit	21	3	55	Ensemble	SC-88Pro	56	056+	Bim Hit	im Hit	
+056+	Technorg Hit	22	3	55	Ensemble	SC-88Pro	56	056+	Technorg Hit	echnorg Hit	
+056+	Rave Hit	23	3	55	Ensemble	SC-88Pro	56	056+	Rave Hit	ave Hit	
+056+	Strings Hit	24	3	55	Ensemble	SC-88Pro	56	056+	Strings Hit	trings Hit	
+056+	Stack Hit	25	3	55	Ensemble	SC-88Pro	56	056+	Stack Hit	tack Hit	
+49	$Strings	0	2	48	Ensemble	SC-88	49	049	'Strings	Strings	'
+049+	$Strings 2	1	2	48	Ensemble	SC-88	49	049+	'Strings 2	Strings 2	'
+049+	$Orchestra	8	2	48	Ensemble	SC-88	49	049+	'Orchestra	Orchestra	'
+049+	$Orchestra 2	9	2	48	Ensemble	SC-88	49	049+	'Orchestra 2	Orchestra 2	'
+049+	$TremoloOrch	10	2	48	Ensemble	SC-88	49	049+	'TremoloOrch	TremoloOrch	'
+049+	$Choir Str.	11	2	48	Ensemble	SC-88	49	049+	'Choir Str.	Choir Str.	'
+049+	$St.Strings	16	2	48	Ensemble	SC-88	49	049+	'St.Strings	St.Strings	'
+049+	$VeloStrings	24	2	48	Ensemble	SC-88	49	049+	'VeloStrings	VeloStrings	'
+50	$SlowStrings	0	2	49	Ensemble	SC-88	50	050	'SlowStrings	SlowStrings	'
+050+	$Slow Str. 2	1	2	49	Ensemble	SC-88	50	050+	'Slow Str. 2	Slow Str. 2	'
+050+	$Legato Str.	8	2	49	Ensemble	SC-88	50	050+	'Legato Str.	Legato Str.	'
+050+	$WarmStrings	9	2	49	Ensemble	SC-88	50	050+	'WarmStrings	WarmStrings	'
+050+	$St.SlowStr.	10	2	49	Ensemble	SC-88	50	050+	'St.SlowStr.	St.SlowStr.	'
+51	$SynStrings1	0	2	50	Ensemble	SC-88	51	051	'SynStrings1	SynStrings1	'
+051+	$OB Strings	1	2	50	Ensemble	SC-88	51	051+	'OB Strings	OB Strings	'
+051+	$SynStrings3	8	2	50	Ensemble	SC-88	51	051+	'SynStrings3	SynStrings3	'
+52	$SynStrings2	0	2	51	Ensemble	SC-88	52	052	'SynStrings2	SynStrings2	'
+53	$Choir Aahs	0	2	52	Ensemble	SC-88	53	053	'Choir Aahs	Choir Aahs	'
+053+	$St.Choir	8	2	52	Ensemble	SC-88	53	053+	'St.Choir	St.Choir	'
+053+	$Mello Choir	9	2	52	Ensemble	SC-88	53	053+	'Mello Choir	Mello Choir	'
+053+	$ChoirAahs 2	32	2	52	Ensemble	SC-88	53	053+	'ChoirAahs 2	ChoirAahs 2	'
+54	$Voice Oohs	0	2	53	Ensemble	SC-88	54	054	'Voice Oohs	Voice Oohs	'
+55	$SynVox	0	2	54	Ensemble	SC-88	55	055	'SynVox	SynVox	'
+055+	$Syn.Voice	8	2	54	Ensemble	SC-88	55	055+	'Syn.Voice	Syn.Voice	'
+56	$Orch. Hit	0	2	55	Ensemble	SC-88	56	056	'Orch. Hit	Orch. Hit	'
+056+	$Impact Hit	8	2	55	Ensemble	SC-88	56	056+	'Impact Hit	Impact Hit	'
+056+	$Philly Hit	9	2	55	Ensemble	SC-88	56	056+	'Philly Hit	Philly Hit	'
+056+	$Double Hit	10	2	55	Ensemble	SC-88	56	056+	'Double Hit	Double Hit	'
+056+	$Lo Fi Rave	16	2	55	Ensemble	SC-88	56	056+	'Lo Fi Rave	Lo Fi Rave	'
+49	*Strings	0	1	48	Ensemble	SC-55	49	049	"Strings	Strings	"
+049+	*Orchestra	8	1	48	Ensemble	SC-55	49	049+	"Orchestra	Orchestra	"
+50	*SlowStrings	0	1	49	Ensemble	SC-55	50	050	"SlowStrings	SlowStrings	"
+51	*SynStrings1	0	1	50	Ensemble	SC-55	51	051	"SynStrings1	SynStrings1	"
+051+	*SynStrings3	8	1	50	Ensemble	SC-55	51	051+	"SynStrings3	SynStrings3	"
+52	*SynStrings2	0	1	51	Ensemble	SC-55	52	052	"SynStrings2	SynStrings2	"
+53	*Choir Aahs	0	1	52	Ensemble	SC-55	53	053	"Choir Aahs	Choir Aahs	"
+053+	*Choir Aahs2	32	1	52	Ensemble	SC-55	53	053+	"Choir Aahs2	Choir Aahs2	"
+54	*Voice Oohs	0	1	53	Ensemble	SC-55	54	054	"Voice Oohs	Voice Oohs	"
+55	*SynVox	0	1	54	Ensemble	SC-55	55	055	"SynVox	SynVox	"
+56	*Orchest.Hit	0	1	55	Ensemble	SC-55	56	056	"Orchest.Hit	Orchest.Hit	"
+30	#Choir Aahs	126	1	29	Ensemble	CM-64	30	030	#"Choir Aahs	Choir Aahs	#"
+31	#Choir Aahs	126	1	30	Ensemble	CM-64	31	031	#"Choir Aahs	Choir Aahs	#"
+32	#Choir Aahs	126	1	31	Ensemble	CM-64	32	032	#"Choir Aahs	Choir Aahs	#"
+33	#Choir Aahs	126	1	32	Ensemble	CM-64	33	033	#"Choir Aahs	Choir Aahs	#"
+34	#SlowStrings	126	1	33	Ensemble	CM-64	34	034	#"SlowStrings	SlowStrings	#"
+35	#Strings	126	1	34	Ensemble	CM-64	35	035	#"Strings	Strings	#"
+36	#SynStrings3	126	1	35	Ensemble	CM-64	36	036	#"SynStrings3	SynStrings3	#"
+37	#SynStrings3	126	1	36	Ensemble	CM-64	37	037	#"SynStrings3	SynStrings3	#"
+64	#Orchest.Hit	126	1	63	Ensemble	CM-64	64	064	#"Orchest.Hit	Orchest.Hit	#"
+123	#Orche Hit	127	1	122	Ensemble	CM-64	123	123	#"Orche Hit	Orche Hit	#"
+57	Trumpet	0	3	56	Brass	SC-88Pro	57	057	Trumpet	rumpet	
+057+	Trumpet 2	1	3	56	Brass	SC-88Pro	57	057+	Trumpet 2	rumpet 2	
+057+	Trumpet   :	2	3	56	Brass	SC-88Pro	57	057+	Trumpet   :	rumpet   :	
+057+	Flugel Horn	8	3	56	Brass	SC-88Pro	57	057+	Flugel Horn	lugel Horn	
+057+	4th Trumpets	16	3	56	Brass	SC-88Pro	57	057+	4th Trumpets	th Trumpets	
+057+	Bright Tp.	24	3	56	Brass	SC-88Pro	57	057+	Bright Tp.	right Tp.	
+057+	Warm Tp.	25	3	56	Brass	SC-88Pro	57	057+	Warm Tp.	arm Tp.	
+057+	Syn. Trumpet	32	3	56	Brass	SC-88Pro	57	057+	Syn. Trumpet	yn. Trumpet	
+58	Trombone	0	3	57	Brass	SC-88Pro	58	058	Trombone	rombone	
+058+	Trombone 2	1	3	57	Brass	SC-88Pro	58	058+	Trombone 2	rombone 2	
+058+	Twin bones	2	3	57	Brass	SC-88Pro	58	058+	Twin bones	win bones	
+058+	Bs. Trombone	8	3	57	Brass	SC-88Pro	58	058+	Bs. Trombone	s. Trombone	
+59	Tuba	0	3	58	Brass	SC-88Pro	59	059	Tuba	uba	
+059+	Tuba 2	1	3	58	Brass	SC-88Pro	59	059+	Tuba 2	uba 2	
+60	MutedTrumpet	0	3	59	Brass	SC-88Pro	60	060	MutedTrumpet	utedTrumpet	
+060+	Muted Horns	8	3	59	Brass	SC-88Pro	60	060+	Muted Horns	uted Horns	
+61	French Horns	0	3	60	Brass	SC-88Pro	61	061	French Horns	rench Horns	
+061+	Fr.Horn 2	1	3	60	Brass	SC-88Pro	61	061+	Fr.Horn 2	r.Horn 2	
+061+	Horn + Orche	2	3	60	Brass	SC-88Pro	61	061+	Horn + Orche	orn + Orche	
+061+	Wide FreHrns	3	3	60	Brass	SC-88Pro	61	061+	Wide FreHrns	ide FreHrns	
+061+	F.Hrn Slow:	8	3	60	Brass	SC-88Pro	61	061+	F.Hrn Slow:	.Hrn Slow:	
+061+	Dual Horns	9	3	60	Brass	SC-88Pro	61	061+	Dual Horns	ual Horns	
+061+	Synth Horn	16	3	60	Brass	SC-88Pro	61	061+	Synth Horn	ynth Horn	
+061+	F.Horn Rip	24	3	60	Brass	SC-88Pro	61	061+	F.Horn Rip	.Horn Rip	
+62	Brass 1	0	3	61	Brass	SC-88Pro	62	062	Brass 1	rass 1	
+062+	Brass ff	1	3	61	Brass	SC-88Pro	62	062+	Brass ff	rass ff	
+062+	Bones Sect.	2	3	61	Brass	SC-88Pro	62	062+	Bones Sect.	ones Sect.	
+062+	Brass 2	8	3	61	Brass	SC-88Pro	62	062+	Brass 2	rass 2	
+062+	Brass 3	9	3	61	Brass	SC-88Pro	62	062+	Brass 3	rass 3	
+062+	Brass sfz	10	3	61	Brass	SC-88Pro	62	062+	Brass sfz	rass sfz	
+062+	Brass Fall	16	3	61	Brass	SC-88Pro	62	062+	Brass Fall	rass Fall	
+062+	Trumpet Fall	17	3	61	Brass	SC-88Pro	62	062+	Trumpet Fall	rumpet Fall	
+062+	Octave Brass	24	3	61	Brass	SC-88Pro	62	062+	Octave Brass	ctave Brass	
+062+	Brass + Reed	25	3	61	Brass	SC-88Pro	62	062+	Brass + Reed	rass + Reed	
+63	Synth Brass1	0	3	62	Brass	SC-88Pro	63	063	Synth Brass1	ynth Brass1	
+063+	JUNO Brass	1	3	62	Brass	SC-88Pro	63	063+	JUNO Brass	UNO Brass	
+063+	Stack Brass	2	3	62	Brass	SC-88Pro	63	063+	Stack Brass	tack Brass	
+063+	SH-5 Brass	3	3	62	Brass	SC-88Pro	63	063+	SH-5 Brass	H-5 Brass	
+063+	MKS Brass	4	3	62	Brass	SC-88Pro	63	063+	MKS Brass	KS Brass	
+063+	Pro Brass	8	3	62	Brass	SC-88Pro	63	063+	Pro Brass	ro Brass	
+063+	P5 Brass	9	3	62	Brass	SC-88Pro	63	063+	P5 Brass	5 Brass	
+063+	Oct SynBrass	16	3	62	Brass	SC-88Pro	63	063+	Oct SynBrass	ct SynBrass	
+063+	Hybrid Brass	17	3	62	Brass	SC-88Pro	63	063+	Hybrid Brass	ybrid Brass	
+64	Synth Brass2	0	3	63	Brass	SC-88Pro	64	064	Synth Brass2	ynth Brass2	
+064+	Soft Brass	1	3	63	Brass	SC-88Pro	64	064+	Soft Brass	oft Brass	
+064+	Warm Brass	2	3	63	Brass	SC-88Pro	64	064+	Warm Brass	arm Brass	
+064+	SynBrass sfz	8	3	63	Brass	SC-88Pro	64	064+	SynBrass sfz	ynBrass sfz	
+064+	OB Brass	9	3	63	Brass	SC-88Pro	64	064+	OB Brass	B Brass	
+064+	Reso Brass	10	3	63	Brass	SC-88Pro	64	064+	Reso Brass	eso Brass	
+064+	Velo Brass 1	16	3	63	Brass	SC-88Pro	64	064+	Velo Brass 1	elo Brass 1	
+064+	Transbrass	17	3	63	Brass	SC-88Pro	64	064+	Transbrass	ransbrass	
+57	$Trumpet	0	2	56	Brass	SC-88	57	057	'Trumpet	Trumpet	'
+057+	$Trumpet 2	1	2	56	Brass	SC-88	57	057+	'Trumpet 2	Trumpet 2	'
+057+	$Flugel Horn	8	2	56	Brass	SC-88	57	057+	'Flugel Horn	Flugel Horn	'
+057+	$Bright Tp.	24	2	56	Brass	SC-88	57	057+	'Bright Tp.	Bright Tp.	'
+057+	$Warm Tp.	25	2	56	Brass	SC-88	57	057+	'Warm Tp.	Warm Tp.	'
+58	$Trombone	0	2	57	Brass	SC-88	58	058	'Trombone	Trombone	'
+058+	$Trombone 2	1	2	57	Brass	SC-88	58	058+	'Trombone 2	Trombone 2	'
+59	$Tuba	0	2	58	Brass	SC-88	59	059	'Tuba	Tuba	'
+059+	$Tuba 2	1	2	58	Brass	SC-88	59	059+	'Tuba 2	Tuba 2	'
+60	$Muted Tp.	0	2	59	Brass	SC-88	60	060	'Muted Tp.	Muted Tp.	'
+61	$FrenchHorns	0	2	60	Brass	SC-88	61	061	'FrenchHorns	FrenchHorns	'
+061+	$Fr.Horns 2	1	2	60	Brass	SC-88	61	061+	'Fr.Horns 2	Fr.Horns 2	'
+061+	$Fr.HornSolo	8	2	60	Brass	SC-88	61	061+	'Fr.HornSolo	Fr.HornSolo	'
+061+	$Horn Orch	16	2	60	Brass	SC-88	61	061+	'Horn Orch	Horn Orch	'
+62	$Brass 1	0	2	61	Brass	SC-88	62	062	'Brass 1	Brass 1	'
+062+	$Brass 2	8	2	61	Brass	SC-88	62	062+	'Brass 2	Brass 2	'
+062+	$Brass Fall	16	2	61	Brass	SC-88	62	062+	'Brass Fall	Brass Fall	'
+63	$SynthBrass1	0	2	62	Brass	SC-88	63	063	'SynthBrass1	SynthBrass1	'
+063+	$Poly Brass	1	2	62	Brass	SC-88	63	063+	'Poly Brass	Poly Brass	'
+063+	$Syn.Brass 3	8	2	62	Brass	SC-88	63	063+	'Syn.Brass 3	Syn.Brass 3	'
+063+	$Quack Brass	9	2	62	Brass	SC-88	63	063+	'Quack Brass	Quack Brass	'
+063+	$OctaveBrass	16	2	62	Brass	SC-88	63	063+	'OctaveBrass	OctaveBrass	'
+64	$Syn.Brass 2	0	2	63	Brass	SC-88	64	064	'Syn.Brass 2	Syn.Brass 2	'
+064+	$Soft Brass	1	2	63	Brass	SC-88	64	064+	'Soft Brass	Soft Brass	'
+064+	$Syn.Brass 4	8	2	63	Brass	SC-88	64	064+	'Syn.Brass 4	Syn.Brass 4	'
+064+	$VeloBrass 1	16	2	63	Brass	SC-88	64	064+	'VeloBrass 1	VeloBrass 1	'
+064+	$VeloBrass 2	17	2	63	Brass	SC-88	64	064+	'VeloBrass 2	VeloBrass 2	'
+57	*Trumpet	0	1	56	Brass	SC-55	57	057	"Trumpet	Trumpet	"
+58	*Trombone	0	1	57	Brass	SC-55	58	058	"Trombone	Trombone	"
+58	*Trombone 2	1	1	57	Brass	SC-55	58	058	"Trombone 2	Trombone 2	"
+59	*Tuba	0	1	58	Brass	SC-55	59	059	"Tuba	Tuba	"
+60	*MuteTrumpet	0	1	59	Brass	SC-55	60	060	"MuteTrumpet	MuteTrumpet	"
+61	*French Horn	0	1	60	Brass	SC-55	61	061	"French Horn	French Horn	"
+061+	*Fr.Horn 2	1	1	60	Brass	SC-55	61	061+	"Fr.Horn 2	Fr.Horn 2	"
+62	*Brass 1	0	1	61	Brass	SC-55	62	062	"Brass 1	Brass 1	"
+062+	*Brass 2	8	1	61	Brass	SC-55	62	062+	"Brass 2	Brass 2	"
+63	*Syn.Brass 1	0	1	62	Brass	SC-55	63	063	"Syn.Brass 1	Syn.Brass 1	"
+63	*Syn.Brass 3	8	1	62	Brass	SC-55	63	063	"Syn.Brass 3	Syn.Brass 3	"
+063+	*Analog Brs1	16	1	62	Brass	SC-55	63	063+	"Analog Brs1	Analog Brs1	"
+64	*Syn.Brass 2	0	1	63	Brass	SC-55	64	064	"Syn.Brass 2	Syn.Brass 2	"
+064+	*Syn.Brass 4	8	1	63	Brass	SC-55	64	064+	"Syn.Brass 4	Syn.Brass 4	"
+064+	*Analog Brs2	16	1	63	Brass	SC-55	64	064+	"Analog Brs2	Analog Brs2	"
+47	#Trumpet	126	1	46	Brass	CM-64	47	047	#"Trumpet	Trumpet	#"
+48	#Trumpet	126	1	47	Brass	CM-64	48	048	#"Trumpet	Trumpet	#"
+49	#Trombone	126	1	48	Brass	CM-64	49	049	#"Trombone	Trombone	#"
+50	#Trombone	126	1	49	Brass	CM-64	50	050	#"Trombone	Trombone	#"
+51	#Trombone	126	1	50	Brass	CM-64	51	051	#"Trombone	Trombone	#"
+52	#Trombone	126	1	51	Brass	CM-64	52	052	#"Trombone	Trombone	#"
+53	#Trombone	126	1	52	Brass	CM-64	53	053	#"Trombone	Trombone	#"
+54	#Trombone	126	1	53	Brass	CM-64	54	054	#"Trombone	Trombone	#"
+59	#Brass 1	126	1	58	Brass	CM-64	59	059	#"Brass 1	Brass 1	#"
+60	#Brass 1	126	1	59	Brass	CM-64	60	060	#"Brass 1	Brass 1	#"
+61	#Brass 2	126	1	60	Brass	CM-64	61	061	#"Brass 2	Brass 2	#"
+62	#Brass 2	126	1	61	Brass	CM-64	62	062	#"Brass 2	Brass 2	#"
+63	#Brass 1	126	1	62	Brass	CM-64	63	063	#"Brass 1	Brass 1	#"
+25	#Syn Brass 1	127	1	24	Brass	CM-64	25	025	#"Syn Brass 1	Syn Brass 1	#"
+26	#Syn Brass 2	127	1	25	Brass	CM-64	26	026	#"Syn Brass 2	Syn Brass 2	#"
+27	#Syn Brass 3	127	1	26	Brass	CM-64	27	027	#"Syn Brass 3	Syn Brass 3	#"
+28	#Syn Brass 4	127	1	27	Brass	CM-64	28	028	#"Syn Brass 4	Syn Brass 4	#"
+89	#Trumpet 1	127	1	88	Brass	CM-64	89	089	#"Trumpet 1	Trumpet 1	#"
+90	#Trumpet 2	127	1	89	Brass	CM-64	90	090	#"Trumpet 2	Trumpet 2	#"
+91	#Trombone 1	127	1	90	Brass	CM-64	91	091	#"Trombone 1	Trombone 1	#"
+92	#Trombone 2	127	1	91	Brass	CM-64	92	092	#"Trombone 2	Trombone 2	#"
+93	#Fr Horn 1	127	1	92	Brass	CM-64	93	093	#"Fr Horn 1	Fr Horn 1	#"
+94	#Fr Horn 2	127	1	93	Brass	CM-64	94	094	#"Fr Horn 2	Fr Horn 2	#"
+95	#Tuba	127	1	94	Brass	CM-64	95	095	#"Tuba	Tuba	#"
+96	#Brs Sect 1	127	1	95	Brass	CM-64	96	096	#"Brs Sect 1	Brs Sect 1	#"
+97	#Brs Sect 2	127	1	96	Brass	CM-64	97	097	#"Brs Sect 2	Brs Sect 2	#"
+65	Soprano Sax	0	3	64	Reed	SC-88Pro	65	065	Soprano Sax	oprano Sax	
+065+	Soprano Exp.	8	3	64	Reed	SC-88Pro	65	065+	Soprano Exp.	oprano Exp.	
+66	Alto Sax	0	3	65	Reed	SC-88Pro	66	066	Alto Sax	lto Sax	
+066+	AltoSax Exp.	8	3	65	Reed	SC-88Pro	66	066+	AltoSax Exp.	ltoSax Exp.	
+066+	Grow Sax	9	3	65	Reed	SC-88Pro	66	066+	Grow Sax	row Sax	
+066+	AltoSax + Tp	16	3	65	Reed	SC-88Pro	66	066+	AltoSax + Tp	ltoSax + Tp	
+67	Tenor Sax	0	3	66	Reed	SC-88Pro	67	067	Tenor Sax	enor Sax	
+067+	Tenor Sax :	1	3	66	Reed	SC-88Pro	67	067+	Tenor Sax :	enor Sax :	
+067+	BreathyTn.:	8	3	66	Reed	SC-88Pro	67	067+	BreathyTn.:	reathyTn.:	
+067+	St. Tenor Sax	9	3	66	Reed	SC-88Pro	67	067+	St. Tenor Sax	t. Tenor Sax	
+68	Baritone Sax	0	3	67	Reed	SC-88Pro	68	068	Baritone Sax	aritone Sax	
+068+	Bari. Sax :	1	3	67	Reed	SC-88Pro	68	068+	Bari. Sax :	ari. Sax :	
+69	Oboe	0	3	68	Reed	SC-88Pro	69	069	Oboe	boe	
+069+	Oboe Exp.	8	3	68	Reed	SC-88Pro	69	069+	Oboe Exp.	boe Exp.	
+069+	Multi Reed	16	3	68	Reed	SC-88Pro	69	069+	Multi Reed	ulti Reed	
+70	English Horn	0	3	69	Reed	SC-88Pro	70	070	English Horn	nglish Horn	
+71	Bassoon	0	3	70	Reed	SC-88Pro	71	071	Bassoon	assoon	
+72	Clarinet	0	3	71	Reed	SC-88Pro	72	072	Clarinet	larinet	
+072+	Bs Clarinet	8	3	71	Reed	SC-88Pro	72	072+	Bs Clarinet	s Clarinet	
+072+	Multi Wind	16	3	71	Reed	SC-88Pro	72	072+	Multi Wind	ulti Wind	
+65	$Soprano Sax	0	2	64	Reed	SC-88	65	065	'Soprano Sax	Soprano Sax	'
+66	$Alto Sax	0	2	65	Reed	SC-88	66	066	'Alto Sax	Alto Sax	'
+066+	$Hyper Alto	8	2	65	Reed	SC-88	66	066+	'Hyper Alto	Hyper Alto	'
+67	$Tenor Sax	0	2	66	Reed	SC-88	67	067	'Tenor Sax	Tenor Sax	'
+067+	$BreathyTnr.	8	2	66	Reed	SC-88	67	067+	'BreathyTnr.	BreathyTnr.	'
+68	$BaritoneSax	0	2	67	Reed	SC-88	68	068	'BaritoneSax	BaritoneSax	'
+69	$Oboe	0	2	68	Reed	SC-88	69	069	'Oboe	Oboe	'
+70	$EnglishHorn	0	2	69	Reed	SC-88	70	070	'EnglishHorn	EnglishHorn	'
+71	$Bassoon	0	2	70	Reed	SC-88	71	071	'Bassoon	Bassoon	'
+72	$Clarinet	0	2	71	Reed	SC-88	72	072	'Clarinet	Clarinet	'
+072+	$Bs Clarinet	8	2	71	Reed	SC-88	72	072+	'Bs Clarinet	Bs Clarinet	'
+65	*Soprano Sax	0	1	64	Reed	SC-55	65	065	"Soprano Sax	Soprano Sax	"
+66	*Alto Sax	0	1	65	Reed	SC-55	66	066	"Alto Sax	Alto Sax	"
+67	*Tenor Sax	0	1	66	Reed	SC-55	67	067	"Tenor Sax	Tenor Sax	"
+68	*BaritoneSax	0	1	67	Reed	SC-55	68	068	"BaritoneSax	BaritoneSax	"
+69	*Oboe	0	1	68	Reed	SC-55	69	069	"Oboe	Oboe	"
+70	*EnglishHorn	0	1	69	Reed	SC-55	70	070	"EnglishHorn	EnglishHorn	"
+71	*Bassoon	0	1	70	Reed	SC-55	71	071	"Bassoon	Bassoon	"
+72	*Clarinet	0	1	71	Reed	SC-55	72	072	"Clarinet	Clarinet	"
+55	#Alto Sax 	126	1	54	Reed	CM-64	55	055	#"Alto Sax 	Alto Sax 	#"
+56	#Tenor Sax	126	1	55	Reed	CM-64	56	056	#"Tenor Sax	Tenor Sax	#"
+57	#BaritoneSax	126	1	56	Reed	CM-64	57	057	#"BaritoneSax	BaritoneSax	#"
+58	#Alto Sax	126	1	57	Reed	CM-64	58	058	#"Alto Sax	Alto Sax	#"
+43	#Oboe 2001	127	1	42	Reed	CM-64	43	043	#"Oboe 2001	Oboe 2001	#"
+79	#Sax 1	127	1	78	Reed	CM-64	79	079	#"Sax 1	Sax 1	#"
+80	#Sax 2	127	1	79	Reed	CM-64	80	080	#"Sax 2	Sax 2	#"
+81	#Sax 3	127	1	80	Reed	CM-64	81	081	#"Sax 3	Sax 3	#"
+82	#Sax 4	127	1	81	Reed	CM-64	82	082	#"Sax 4	Sax 4	#"
+83	#Clarinet 1	127	1	82	Reed	CM-64	83	083	#"Clarinet 1	Clarinet 1	#"
+84	#Clarinet 2	127	1	83	Reed	CM-64	84	084	#"Clarinet 2	Clarinet 2	#"
+85	#Oboe	127	1	84	Reed	CM-64	85	085	#"Oboe	Oboe	#"
+86	#Engl Horn	127	1	85	Reed	CM-64	86	086	#"Engl Horn	Engl Horn	#"
+87	#Bassoon	127	1	86	Reed	CM-64	87	087	#"Bassoon	Bassoon	#"
+73	Piccolo	0	3	72	Pipe	SC-88Pro	73	073	Piccolo	iccolo	
+073+	Piccolo   :	1	3	72	Pipe	SC-88Pro	73	073+	Piccolo   :	iccolo   :	
+073+	Nay	8	3	72	Pipe	SC-88Pro	73	073+	Nay	ay	
+073+	Nay Tremolo	9	3	72	Pipe	SC-88Pro	73	073+	Nay Tremolo	ay Tremolo	
+073+	Di	16	3	72	Pipe	SC-88Pro	73	073+	Di	i	
+74	Flute	0	3	73	Pipe	SC-88Pro	74	074	Flute	lute	
+074+	Flute 2   :	1	3	73	Pipe	SC-88Pro	74	074+	Flute 2   :	lute 2   :	
+074+	Flute Exp.	2	3	73	Pipe	SC-88Pro	74	074+	Flute Exp.	lute Exp.	
+074+	Flt Travelso	3	3	73	Pipe	SC-88Pro	74	074+	Flt Travelso	lt Travelso	
+074+	Flute + Vln	8	3	73	Pipe	SC-88Pro	74	074+	Flute + Vln	lute + Vln	
+074+	Tron Flute	16	3	73	Pipe	SC-88Pro	74	074+	Tron Flute	ron Flute	
+75	Recorder	0	3	74	Pipe	SC-88Pro	75	075	Recorder	ecorder	
+76	Pan Flute	0	3	75	Pipe	SC-88Pro	76	076	Pan Flute	an Flute	
+076+	Kawala	8	3	75	Pipe	SC-88Pro	76	076+	Kawala	awala	
+076+	Zampona	16	3	75	Pipe	SC-88Pro	76	076+	Zampona	ampona	
+076+	Zampona Atk	17	3	75	Pipe	SC-88Pro	76	076+	Zampona Atk	ampona Atk	
+77	Bottle Blow	0	3	76	Pipe	SC-88Pro	77	077	Bottle Blow	ottle Blow	
+78	Shakuhachi	0	3	77	Pipe	SC-88Pro	78	078	Shakuhachi	hakuhachi	
+078+	Shakuhachi:	1	3	77	Pipe	SC-88Pro	78	078+	Shakuhachi:	hakuhachi:	
+79	Whistle	0	3	78	Pipe	SC-88Pro	79	079	Whistle	histle	
+079+	Whistle 2	1	3	78	Pipe	SC-88Pro	79	079+	Whistle 2	histle 2	
+80	Ocarina	0	3	79	Pipe	SC-88Pro	80	080	Ocarina	carina	
+73	$Piccolo	0	2	72	Pipe	SC-88	73	073	'Piccolo	Piccolo	'
+74	$Flute	0	2	73	Pipe	SC-88	74	074	'Flute	Flute	'
+75	$Recorder	0	2	74	Pipe	SC-88	75	075	'Recorder	Recorder	'
+76	$Pan Flute	0	2	75	Pipe	SC-88	76	076	'Pan Flute	Pan Flute	'
+076+	$Kawala	8	2	75	Pipe	SC-88	76	076+	'Kawala	Kawala	'
+77	$Bottle Blow	0	2	76	Pipe	SC-88	77	077	'Bottle Blow	Bottle Blow	'
+78	$Shakuhachi	0	2	77	Pipe	SC-88	78	078	'Shakuhachi	Shakuhachi	'
+79	$Whistle	0	2	78	Pipe	SC-88	79	079	'Whistle	Whistle	'
+80	$Ocarina	0	2	79	Pipe	SC-88	80	080	'Ocarina	Ocarina	'
+73	*Piccolo	0	1	72	Pipe	SC-55	73	073	"Piccolo	Piccolo	"
+74	*Flute	0	1	73	Pipe	SC-55	74	074	"Flute	Flute	"
+75	*Recorder	0	1	74	Pipe	SC-55	75	075	"Recorder	Recorder	"
+76	*Pan Flute	0	1	75	Pipe	SC-55	76	076	"Pan Flute	Pan Flute	"
+77	*Bottle Blow	0	1	76	Pipe	SC-55	77	077	"Bottle Blow	Bottle Blow	"
+78	*Shakuhachi	0	1	77	Pipe	SC-55	78	078	"Shakuhachi	Shakuhachi	"
+79	*Whistle	0	1	78	Pipe	SC-55	79	079	"Whistle	Whistle	"
+80	*Ocarina	0	1	79	Pipe	SC-55	80	080	"Ocarina	Ocarina	"
+73	#Flute 1	127	1	72	Pipe	CM-64	73	073	#"Flute 1	Flute 1	#"
+74	#Flute 2	127	1	73	Pipe	CM-64	74	074	#"Flute 2	Flute 2	#"
+75	#Piccolo 1	127	1	74	Pipe	CM-64	75	075	#"Piccolo 1	Piccolo 1	#"
+76	#Piccolo 2	127	1	75	Pipe	CM-64	76	076	#"Piccolo 2	Piccolo 2	#"
+77	#Recorder	127	1	76	Pipe	CM-64	77	077	#"Recorder	Recorder	#"
+78	#Pan Pipes	127	1	77	Pipe	CM-64	78	078	#"Pan Pipes	Pan Pipes	#"
+108	#Shakuhachi	127	1	107	Pipe	CM-64	108	108	#"Shakuhachi	Shakuhachi	#"
+109	#Whistle 1	127	1	108	Pipe	CM-64	109	109	#"Whistle 1	Whistle 1	#"
+110	#Whistle 2	127	1	109	Pipe	CM-64	110	110	#"Whistle 2	Whistle 2	#"
+111	#Bottleblow	127	1	110	Pipe	CM-64	111	111	#"Bottleblow	Bottleblow	#"
+112	#Breathpipe	127	1	111	Pipe	CM-64	112	112	#"Breathpipe	Breathpipe	#"
+81	Square Wave	0	3	80	Synth Lead	SC-88Pro	81	081	Square Wave	quare Wave	
+081+	MG Square	1	3	80	Synth Lead	SC-88Pro	81	081+	MG Square	G Square	
+081+	Hollow Mini	2	3	80	Synth Lead	SC-88Pro	81	081+	Hollow Mini	ollow Mini	
+081+	Mellow FM	3	3	80	Synth Lead	SC-88Pro	81	081+	Mellow FM	ellow FM	
+081+	CC Solo	4	3	80	Synth Lead	SC-88Pro	81	081+	CC Solo	C Solo	
+081+	Shmoog	5	3	80	Synth Lead	SC-88Pro	81	081+	Shmoog	hmoog	
+081+	LM Square	6	3	80	Synth Lead	SC-88Pro	81	081+	LM Square	M Square	
+081+	2600 Sine	8	3	80	Synth Lead	SC-88Pro	81	081+	2600 Sine	600 Sine	
+081+	Sine Lead	9	3	80	Synth Lead	SC-88Pro	81	081+	Sine Lead	ine Lead	
+081+	KG Lead	10	3	80	Synth Lead	SC-88Pro	81	081+	KG Lead	G Lead	
+081+	P5 Square	16	3	80	Synth Lead	SC-88Pro	81	081+	P5 Square	5 Square	
+081+	OB Square	17	3	80	Synth Lead	SC-88Pro	81	081+	OB Square	B Square	
+081+	JP-8 Square	18	3	80	Synth Lead	SC-88Pro	81	081+	JP-8 Square	P-8 Square	
+081+	Pulse Lead	24	3	80	Synth Lead	SC-88Pro	81	081+	Pulse Lead	ulse Lead	
+081+	JP8 PulseLd1	25	3	80	Synth Lead	SC-88Pro	81	081+	JP8 PulseLd1	P8 PulseLd1	
+081+	JP8 PulseLd2	26	3	80	Synth Lead	SC-88Pro	81	081+	JP8 PulseLd2	P8 PulseLd2	
+081+	MG Reso. Pls	27	3	80	Synth Lead	SC-88Pro	81	081+	MG Reso. Pls	G Reso. Pls	
+82	Saw Wave	0	3	81	Synth Lead	SC-88Pro	82	082	Saw Wave	aw Wave	
+082+	OB2 Saw	1	3	81	Synth Lead	SC-88Pro	82	082+	OB2 Saw	B2 Saw	
+082+	Pulse Saw	2	3	81	Synth Lead	SC-88Pro	82	082+	Pulse Saw	ulse Saw	
+082+	Feline GR	3	3	81	Synth Lead	SC-88Pro	82	082+	Feline GR	eline GR	
+082+	Big Lead	4	3	81	Synth Lead	SC-88Pro	82	082+	Big Lead	ig Lead	
+082+	Velo Lead	5	3	81	Synth Lead	SC-88Pro	82	082+	Velo Lead	elo Lead	
+082+	GR-300	6	3	81	Synth Lead	SC-88Pro	82	082+	GR-300	R-300	
+082+	LA Saw	7	3	81	Synth Lead	SC-88Pro	82	082+	LA Saw	A Saw	
+082+	Doctor Solo	8	3	81	Synth Lead	SC-88Pro	82	082+	Doctor Solo	octor Solo	
+082+	Fat Saw Lead	9	3	81	Synth Lead	SC-88Pro	82	082+	Fat Saw Lead	at Saw Lead	
+082+	D-50 Fat Saw	11	3	81	Synth Lead	SC-88Pro	82	082+	D-50 Fat Saw	-50 Fat Saw	
+082+	Waspy Synth	16	3	81	Synth Lead	SC-88Pro	82	082+	Waspy Synth	aspy Synth	
+082+	PM Lead	17	3	81	Synth Lead	SC-88Pro	82	082+	PM Lead	M Lead	
+082+	CS Saw Lead	18	3	81	Synth Lead	SC-88Pro	82	082+	CS Saw Lead	S Saw Lead	
+082+	MG Saw 1	24	3	81	Synth Lead	SC-88Pro	82	082+	MG Saw 1	G Saw 1	
+082+	MG Saw 2	25	3	81	Synth Lead	SC-88Pro	82	082+	MG Saw 2	G Saw 2	
+082+	OB Saw 1	26	3	81	Synth Lead	SC-88Pro	82	082+	OB Saw 1	B Saw 1	
+082+	OB Saw 2	27	3	81	Synth Lead	SC-88Pro	82	082+	OB Saw 2	B Saw 2	
+082+	D50 Saw	28	3	81	Synth Lead	SC-88Pro	82	082+	D50 Saw	50 Saw	
+082+	SH-101 Saw	29	3	81	Synth Lead	SC-88Pro	82	082+	SH-101 Saw	H-101 Saw	
+082+	CS Saw	30	3	81	Synth Lead	SC-88Pro	82	082+	CS Saw	S Saw	
+082+	MG Saw Lead	31	3	81	Synth Lead	SC-88Pro	82	082+	MG Saw Lead	G Saw Lead	
+082+	OB Saw Lead	32	3	81	Synth Lead	SC-88Pro	82	082+	OB Saw Lead	B Saw Lead	
+082+	P5 Saw Lead	33	3	81	Synth Lead	SC-88Pro	82	082+	P5 Saw Lead	5 Saw Lead	
+082+	MG unison	34	3	81	Synth Lead	SC-88Pro	82	082+	MG unison	G unison	
+082+	Oct Saw Lead	35	3	81	Synth Lead	SC-88Pro	82	082+	Oct Saw Lead	ct Saw Lead	
+082+	SequenceSaw1	40	3	81	Synth Lead	SC-88Pro	82	082+	SequenceSaw1	equenceSaw1	
+082+	SequenceSaw2	41	3	81	Synth Lead	SC-88Pro	82	082+	SequenceSaw2	equenceSaw2	
+082+	Reso Saw	42	3	81	Synth Lead	SC-88Pro	82	082+	Reso Saw	eso Saw	
+082+	Cheese Saw 1	43	3	81	Synth Lead	SC-88Pro	82	082+	Cheese Saw 1	heese Saw 1	
+082+	Cheese Saw 2	44	3	81	Synth Lead	SC-88Pro	82	082+	Cheese Saw 2	heese Saw 2	
+082+	Rhythmic Saw	45	3	81	Synth Lead	SC-88Pro	82	082+	Rhythmic Saw	hythmic Saw	
+83	Syn.Calliope	0	3	82	Synth Lead	SC-88Pro	83	083	Syn.Calliope	yn.Calliope	
+083+	Vent Synth	1	3	82	Synth Lead	SC-88Pro	83	083+	Vent Synth	ent Synth	
+083+	Pure PanLead	2	3	82	Synth Lead	SC-88Pro	83	083+	Pure PanLead	ure PanLead	
+84	Chiffer Lead	0	3	83	Synth Lead	SC-88Pro	84	084	Chiffer Lead	hiffer Lead	
+084+	TB Lead	1	3	83	Synth Lead	SC-88Pro	84	084+	TB Lead	B Lead	
+084+	Mad Lead	8	3	83	Synth Lead	SC-88Pro	84	084+	Mad Lead	ad Lead	
+85	Charang	0	3	84	Synth Lead	SC-88Pro	85	085	Charang	harang	
+085+	Dist.Lead	8	3	84	Synth Lead	SC-88Pro	85	085+	Dist.Lead	ist.Lead	
+085+	Acid Guitar1	9	3	84	Synth Lead	SC-88Pro	85	085+	Acid Guitar1	cid Guitar1	
+085+	Acid Guitar2	10	3	84	Synth Lead	SC-88Pro	85	085+	Acid Guitar2	cid Guitar2	
+085+	P5 Sync Lead	16	3	84	Synth Lead	SC-88Pro	85	085+	P5 Sync Lead	5 Sync Lead	
+085+	Fat SyncLead	17	3	84	Synth Lead	SC-88Pro	85	085+	Fat SyncLead	at SyncLead	
+085+	Rock Lead	18	3	84	Synth Lead	SC-88Pro	85	085+	Rock Lead	ock Lead	
+085+	5th DecaSync	19	3	84	Synth Lead	SC-88Pro	85	085+	5th DecaSync	th DecaSync	
+085+	Dirty Sync	20	3	84	Synth Lead	SC-88Pro	85	085+	Dirty Sync	irty Sync	
+085+	JUNO Sub Osc	24	3	84	Synth Lead	SC-88Pro	85	085+	JUNO Sub Osc	UNO Sub Osc	
+86	Solo Vox	0	3	85	Synth Lead	SC-88Pro	86	086	Solo Vox	olo Vox	
+086+	Vox Lead	8	3	85	Synth Lead	SC-88Pro	86	086+	Vox Lead	ox Lead	
+086+	LFO Vox	9	3	85	Synth Lead	SC-88Pro	86	086+	LFO Vox	FO Vox	
+87	5th Saw Wave	0	3	86	Synth Lead	SC-88Pro	87	087	5th Saw Wave	th Saw Wave	
+087+	Big Fives	1	3	86	Synth Lead	SC-88Pro	87	087+	Big Fives	ig Fives	
+087+	5th Lead	2	3	86	Synth Lead	SC-88Pro	87	087+	5th Lead	th Lead	
+087+	5th Ana.Clav	3	3	86	Synth Lead	SC-88Pro	87	087+	5th Ana.Clav	th Ana.Clav	
+087+	4th Lead	8	3	86	Synth Lead	SC-88Pro	87	087+	4th Lead	th Lead	
+88	Bass & Lead	0	3	87	Synth Lead	SC-88Pro	88	088	Bass & Lead	ass & Lead	
+088+	Big & Raw	1	3	87	Synth Lead	SC-88Pro	88	088+	Big & Raw	ig & Raw	
+088+	Fat & Perky	2	3	87	Synth Lead	SC-88Pro	88	088+	Fat & Perky	at & Perky	
+088+	JUNO Rave	3	3	87	Synth Lead	SC-88Pro	88	088+	JUNO Rave	UNO Rave	
+088+	JP8 BsLead 1	4	3	87	Synth Lead	SC-88Pro	88	088+	JP8 BsLead 1	P8 BsLead 1	
+088+	JP8 BsLead 2	5	3	87	Synth Lead	SC-88Pro	88	088+	JP8 BsLead 2	P8 BsLead 2	
+088+	SH-5 Bs.Lead	6	3	87	Synth Lead	SC-88Pro	88	088+	SH-5 Bs.Lead	H-5 Bs.Lead	
+81	$Square Wave	0	2	80	Synth Lead	SC-88	81	081	'Square Wave	Square Wave	'
+081+	$Square	1	2	80	Synth Lead	SC-88	81	081+	'Square	Square	'
+081+	$Hollow Mini	2	2	80	Synth Lead	SC-88	81	081+	'Hollow Mini	Hollow Mini	'
+081+	$Mellow FM	3	2	80	Synth Lead	SC-88	81	081+	'Mellow FM	Mellow FM	'
+081+	$CC Solo	4	2	80	Synth Lead	SC-88	81	081+	'CC Solo	CC Solo	'
+081+	$Shmoog	5	2	80	Synth Lead	SC-88	81	081+	'Shmoog	Shmoog	'
+081+	$LM Square	6	2	80	Synth Lead	SC-88	81	081+	'LM Square	LM Square	'
+081+	$Sine Wave	8	2	80	Synth Lead	SC-88	81	081+	'Sine Wave	Sine Wave	'
+82	$Saw Wave	0	2	81	Synth Lead	SC-88	82	082	'Saw Wave	Saw Wave	'
+082+	$Saw	1	2	81	Synth Lead	SC-88	82	082+	'Saw	Saw	'
+082+	$Pulse Saw	2	2	81	Synth Lead	SC-88	82	082+	'Pulse Saw	Pulse Saw	'
+082+	$Feline GR	3	2	81	Synth Lead	SC-88	82	082+	'Feline GR	Feline GR	'
+082+	$Big Lead	4	2	81	Synth Lead	SC-88	82	082+	'Big Lead	Big Lead	'
+082+	$Velo Lead	5	2	81	Synth Lead	SC-88	82	082+	'Velo Lead	Velo Lead	'
+082+	$GR-300	6	2	81	Synth Lead	SC-88	82	082+	'GR-300	GR-300	'
+082+	$LA Saw	7	2	81	Synth Lead	SC-88	82	082+	'LA Saw	LA Saw	'
+082+	$Doctor Solo	8	2	81	Synth Lead	SC-88	82	082+	'Doctor Solo	Doctor Solo	'
+082+	$Waspy Synth	16	2	81	Synth Lead	SC-88	82	082+	'Waspy Synth	Waspy Synth	'
+83	$SynCalliope	0	2	82	Synth Lead	SC-88	83	083	'SynCalliope	SynCalliope	'
+083+	$Vent Synth	1	2	82	Synth Lead	SC-88	83	083+	'Vent Synth	Vent Synth	'
+083+	$PurePanLead	2	2	82	Synth Lead	SC-88	83	083+	'PurePanLead	PurePanLead	'
+84	$ChifferLead	0	2	83	Synth Lead	SC-88	84	084	'ChifferLead	ChifferLead	'
+85	$Charang	0	2	84	Synth Lead	SC-88	85	085	'Charang	Charang	'
+085+	$Dist.Lead	8	2	84	Synth Lead	SC-88	85	085+	'Dist.Lead	Dist.Lead	'
+86	$Solo Vox	0	2	85	Synth Lead	SC-88	86	086	'Solo Vox	Solo Vox	'
+87	$5th Saw	0	2	86	Synth Lead	SC-88	87	087	'5th Saw	5th Saw	'
+087+	$Big Fives	1	2	86	Synth Lead	SC-88	87	087+	'Big Fives	Big Fives	'
+88	$Bass & Lead	0	2	87	Synth Lead	SC-88	88	088	'Bass & Lead	Bass & Lead	'
+088+	$Big & Raw	1	2	87	Synth Lead	SC-88	88	088+	'Big & Raw	Big & Raw	'
+088+	$Fat & Perky	2	2	87	Synth Lead	SC-88	88	088+	'Fat & Perky	Fat & Perky	'
+81	*Square Wave	0	1	80	Synth Lead	SC-55	81	081	"Square Wave	Square Wave	"
+081+	*Square	1	1	80	Synth Lead	SC-55	81	081+	"Square	Square	"
+081+	*Sine Wave	8	1	80	Synth Lead	SC-55	81	081+	"Sine Wave	Sine Wave	"
+82	*Saw Wave	0	1	81	Synth Lead	SC-55	82	082	"Saw Wave	Saw Wave	"
+082+	*Saw	1	1	81	Synth Lead	SC-55	82	082+	"Saw	Saw	"
+082+	*Doctor Solo	8	1	81	Synth Lead	SC-55	82	082+	"Doctor Solo	Doctor Solo	"
+83	*SynCalliope	0	1	82	Synth Lead	SC-55	83	083	"SynCalliope	SynCalliope	"
+84	*ChifferLead	0	1	83	Synth Lead	SC-55	84	084	"ChifferLead	ChifferLead	"
+85	*Charang	0	1	84	Synth Lead	SC-55	85	085	"Charang	Charang	"
+86	*Solo Vox	0	1	85	Synth Lead	SC-55	86	086	"Solo Vox	Solo Vox	"
+87	*5th Saw	0	1	86	Synth Lead	SC-55	87	087	"5th Saw	5th Saw	"
+88	*Bass & Lead	0	1	87	Synth Lead	SC-55	88	088	"Bass & Lead	Bass & Lead	"
+45	#Doctor Solo	127	1	44	Synth Lead	CM-64	45	045	#"Doctor Solo	Doctor Solo	#"
+46	#School Daze	127	1	45	Synth Lead	CM-64	46	046	#"School Daze	School Daze	#"
+47	#Bellsinger	127	1	46	Synth Lead	CM-64	47	047	#"Bellsinger	Bellsinger	#"
+48	#Square Wave	127	1	47	Synth Lead	CM-64	48	048	#"Square Wave	Square Wave	#"
+89	Fantasia	0	3	88	Synth Pad, etc.	SC-88Pro	89	089	Fantasia	antasia	
+089+	Fantasia 2	1	3	88	Synth Pad, etc.	SC-88Pro	89	089+	Fantasia 2	antasia 2	
+089+	New Age Pad	2	3	88	Synth Pad, etc.	SC-88Pro	89	089+	New Age Pad	ew Age Pad	
+089+	Bell Heaven	3	3	88	Synth Pad, etc.	SC-88Pro	89	089+	Bell Heaven	ell Heaven	
+90	Warm Pad	0	3	89	Synth Pad, etc.	SC-88Pro	90	090	Warm Pad	arm Pad	
+090+	Thick Matrix	1	3	89	Synth Pad, etc.	SC-88Pro	90	090+	Thick Matrix	hick Matrix	
+090+	Horn Pad	2	3	89	Synth Pad, etc.	SC-88Pro	90	090+	Horn Pad	orn Pad	
+090+	Rotary Strng	3	3	89	Synth Pad, etc.	SC-88Pro	90	090+	Rotary Strng	otary Strng	
+090+	OB Soft Pad	4	3	89	Synth Pad, etc.	SC-88Pro	90	090+	OB Soft Pad	B Soft Pad	
+090+	Octave Pad	8	3	89	Synth Pad, etc.	SC-88Pro	90	090+	Octave Pad	ctave Pad	
+090+	Stack Pad	9	3	89	Synth Pad, etc.	SC-88Pro	90	090+	Stack Pad	tack Pad	
+91	Polysynth	0	3	90	Synth Pad, etc.	SC-88Pro	91	091	Polysynth	olysynth	
+091+	80's PolySyn	1	3	90	Synth Pad, etc.	SC-88Pro	91	091+	80's PolySyn	0's PolySyn	
+091+	Polysynth 2	2	3	90	Synth Pad, etc.	SC-88Pro	91	091+	Polysynth 2	olysynth 2	
+091+	Poly King	3	3	90	Synth Pad, etc.	SC-88Pro	91	091+	Poly King	oly King	
+091+	Power Stack	8	3	90	Synth Pad, etc.	SC-88Pro	91	091+	Power Stack	ower Stack	
+091+	Octave Stack	9	3	90	Synth Pad, etc.	SC-88Pro	91	091+	Octave Stack	ctave Stack	
+091+	Reso Stack	10	3	90	Synth Pad, etc.	SC-88Pro	91	091+	Reso Stack	eso Stack	
+091+	Techno Stack	11	3	90	Synth Pad, etc.	SC-88Pro	91	091+	Techno Stack	echno Stack	
+92	Space Voice	0	3	91	Synth Pad, etc.	SC-88Pro	92	092	Space Voice	pace Voice	
+092+	Heaven II	1	3	91	Synth Pad, etc.	SC-88Pro	92	092+	Heaven II	eaven II	
+092+	SC Heaven	2	3	91	Synth Pad, etc.	SC-88Pro	92	092+	SC Heaven	C Heaven	
+092+	Cosmic Voice	8	3	91	Synth Pad, etc.	SC-88Pro	92	092+	Cosmic Voice	osmic Voice	
+092+	Auh Vox	9	3	91	Synth Pad, etc.	SC-88Pro	92	092+	Auh Vox	uh Vox	
+092+	AuhAuh	10	3	91	Synth Pad, etc.	SC-88Pro	92	092+	AuhAuh	uhAuh	
+092+	Vocorderman	11	3	91	Synth Pad, etc.	SC-88Pro	92	092+	Vocorderman	ocorderman	
+93	Bowed Glass	0	3	92	Synth Pad, etc.	SC-88Pro	93	093	Bowed Glass	owed Glass	
+093+	SoftBellPad	1	3	92	Synth Pad, etc.	SC-88Pro	93	093+	SoftBellPad	oftBellPad	
+093+	JP8 Sqr Pad	2	3	92	Synth Pad, etc.	SC-88Pro	93	093+	JP8 Sqr Pad	P8 Sqr Pad	
+093+	7thBelPad	3	3	92	Synth Pad, etc.	SC-88Pro	93	093+	7thBelPad	thBelPad	
+94	Metal Pad	0	3	93	Synth Pad, etc.	SC-88Pro	94	094	Metal Pad	etal Pad	
+094+	Tine Pad	1	3	93	Synth Pad, etc.	SC-88Pro	94	094+	Tine Pad	ine Pad	
+094+	Panner Pad	2	3	93	Synth Pad, etc.	SC-88Pro	94	094+	Panner Pad	anner Pad	
+95	Halo Pad	0	3	94	Synth Pad, etc.	SC-88Pro	95	095	Halo Pad	alo Pad	
+095+	Vox Pad	1	3	94	Synth Pad, etc.	SC-88Pro	95	095+	Vox Pad	ox Pad	
+095+	Vox Sweep	2	3	94	Synth Pad, etc.	SC-88Pro	95	095+	Vox Sweep	ox Sweep	
+095+	Horror Pad	8	3	94	Synth Pad, etc.	SC-88Pro	95	095+	Horror Pad	orror Pad	
+96	Sweep Pad	0	3	95	Synth Pad, etc.	SC-88Pro	96	096	Sweep Pad	weep Pad	
+096+	Polar Pad	1	3	95	Synth Pad, etc.	SC-88Pro	96	096+	Polar Pad	olar Pad	
+096+	Converge	8	3	95	Synth Pad, etc.	SC-88Pro	96	096+	Converge	onverge	
+096+	Shwimmer	9	3	95	Synth Pad, etc.	SC-88Pro	96	096+	Shwimmer	hwimmer	
+096+	Celestial Pd	10	3	95	Synth Pad, etc.	SC-88Pro	96	096+	Celestial Pd	elestial Pd	
+096+	Bag Sweep	11	3	95	Synth Pad, etc.	SC-88Pro	96	096+	Bag Sweep	ag Sweep	
+89	$Fantasia	0	2	88	Synth Pad, etc.	SC-88	89	089	'Fantasia	Fantasia	'
+089+	$Fantasia 2	1	2	88	Synth Pad, etc.	SC-88	89	089+	'Fantasia 2	Fantasia 2	'
+90	$Warm Pad	0	2	89	Synth Pad, etc.	SC-88	90	090	'Warm Pad	Warm Pad	'
+090+	$Thick Pad	1	2	89	Synth Pad, etc.	SC-88	90	090+	'Thick Pad	Thick Pad	'
+090+	$Horn Pad	2	2	89	Synth Pad, etc.	SC-88	90	090+	'Horn Pad	Horn Pad	'
+090+	$RotaryStrng	3	2	89	Synth Pad, etc.	SC-88	90	090+	'RotaryStrng	RotaryStrng	'
+090+	$Soft Pad	4	2	89	Synth Pad, etc.	SC-88	90	090+	'Soft Pad	Soft Pad	'
+91	$Polysynth	0	2	90	Synth Pad, etc.	SC-88	91	091	'Polysynth	Polysynth	'
+091+	$80'sPolySyn	1	2	90	Synth Pad, etc.	SC-88	91	091+	'80'sPolySyn	80'sPolySyn	'
+92	$Space Voice	0	2	91	Synth Pad, etc.	SC-88	92	092	'Space Voice	Space Voice	'
+092+	$Heaven II	1	2	91	Synth Pad, etc.	SC-88	92	092+	'Heaven II	Heaven II	'
+93	$Bowed Glass	0	2	92	Synth Pad, etc.	SC-88	93	093	'Bowed Glass	Bowed Glass	'
+94	$Metal Pad	0	2	93	Synth Pad, etc.	SC-88	94	094	'Metal Pad	Metal Pad	'
+094+	$Tine Pad	1	2	93	Synth Pad, etc.	SC-88	94	094+	'Tine Pad	Tine Pad	'
+094+	$Panner Pad	2	2	93	Synth Pad, etc.	SC-88	94	094+	'Panner Pad	Panner Pad	'
+95	$Halo Pad	0	2	94	Synth Pad, etc.	SC-88	95	095	'Halo Pad	Halo Pad	'
+96	$Sweep Pad	0	2	95	Synth Pad, etc.	SC-88	96	096	'Sweep Pad	Sweep Pad	'
+096+	$Polar Pad	1	2	95	Synth Pad, etc.	SC-88	96	096+	'Polar Pad	Polar Pad	'
+096+	$Converge	8	2	95	Synth Pad, etc.	SC-88	96	096+	'Converge	Converge	'
+096+	$Shwimmer	9	2	95	Synth Pad, etc.	SC-88	96	096+	'Shwimmer	Shwimmer	'
+096+	$CelestialPd	10	2	95	Synth Pad, etc.	SC-88	96	096+	'CelestialPd	CelestialPd	'
+89	*Fantasia	0	1	88	Synth Pad, etc.	SC-55	89	089	"Fantasia	Fantasia	"
+90	*Warm Pad	0	1	89	Synth Pad, etc.	SC-55	90	090	"Warm Pad	Warm Pad	"
+91	*Polysynth	0	1	90	Synth Pad, etc.	SC-55	91	091	"Polysynth	Polysynth	"
+92	*Space Voice	0	1	91	Synth Pad, etc.	SC-55	92	092	"Space Voice	Space Voice	"
+93	*Bowed Glass	0	1	92	Synth Pad, etc.	SC-55	93	093	"Bowed Glass	Bowed Glass	"
+94	*Metal Pad	0	1	93	Synth Pad, etc.	SC-55	94	094	"Metal Pad	Metal Pad	"
+95	*Halo Pad	0	1	94	Synth Pad, etc.	SC-55	95	095	"Halo Pad	Halo Pad	"
+96	*Sweep Pad	0	1	95	Synth Pad, etc.	SC-55	96	096	"Sweep Pad	Sweep Pad	"
+33	#Fantasy	127	1	32	Synth Pad, etc.	CM-64	33	033	#"Fantasy	Fantasy	#"
+34	#Harmo Pan	127	1	33	Synth Pad, etc.	CM-64	34	034	#"Harmo Pan	Harmo Pan	#"
+35	#Chorale	127	1	34	Synth Pad, etc.	CM-64	35	035	#"Chorale	Chorale	#"
+36	#Glasses	127	1	35	Synth Pad, etc.	CM-64	36	036	#"Glasses	Glasses	#"
+97	Ice Rain	0	3	96	Synth SFX	SC-88Pro	97	097	Ice Rain	ce Rain	
+097+	Harmo Rain	1	3	96	Synth SFX	SC-88Pro	97	097+	Harmo Rain	armo Rain	
+097+	African wood	2	3	96	Synth SFX	SC-88Pro	97	097+	African wood	frican wood	
+097+	Anklung Pad	3	3	96	Synth SFX	SC-88Pro	97	097+	Anklung Pad	nklung Pad	
+097+	Rattle Pad	4	3	96	Synth SFX	SC-88Pro	97	097+	Rattle Pad	attle Pad	
+097+	Clavi Pad	8	3	96	Synth SFX	SC-88Pro	97	097+	Clavi Pad	lavi Pad	
+98	Soundtrack	0	3	97	Synth SFX	SC-88Pro	98	098	Soundtrack	oundtrack	
+098+	Ancestral	1	3	97	Synth SFX	SC-88Pro	98	098+	Ancestral	ncestral	
+098+	Prologue	2	3	97	Synth SFX	SC-88Pro	98	098+	Prologue	rologue	
+098+	Prologue 2	3	3	97	Synth SFX	SC-88Pro	98	098+	Prologue 2	rologue 2	
+098+	Hols Strings	4	3	97	Synth SFX	SC-88Pro	98	098+	Hols Strings	ols Strings	
+098+	Rave	8	3	97	Synth SFX	SC-88Pro	98	098+	Rave	ave	
+99	Crystal	0	3	98	Synth SFX	SC-88Pro	99	099	Crystal	rystal	
+099+	Syn Mallet	1	3	98	Synth SFX	SC-88Pro	99	099+	Syn Mallet	yn Mallet	
+099+	Soft Crystal	2	3	98	Synth SFX	SC-88Pro	99	099+	Soft Crystal	oft Crystal	
+099+	Round Glock	3	3	98	Synth SFX	SC-88Pro	99	099+	Round Glock	ound Glock	
+099+	Loud Glock	4	3	98	Synth SFX	SC-88Pro	99	099+	Loud Glock	oud Glock	
+099+	GlockenChime	5	3	98	Synth SFX	SC-88Pro	99	099+	GlockenChime	lockenChime	
+099+	Clear Bells	6	3	98	Synth SFX	SC-88Pro	99	099+	Clear Bells	lear Bells	
+099+	ChristmasBel	7	3	98	Synth SFX	SC-88Pro	99	099+	ChristmasBel	hristmasBel	
+099+	Vibra Bells	8	3	98	Synth SFX	SC-88Pro	99	099+	Vibra Bells	ibra Bells	
+099+	Digi Bells	9	3	98	Synth SFX	SC-88Pro	99	099+	Digi Bells	igi Bells	
+099+	Music Bell	10	3	98	Synth SFX	SC-88Pro	99	099+	Music Bell	usic Bell	
+099+	Analog Bell	11	3	98	Synth SFX	SC-88Pro	99	099+	Analog Bell	nalog Bell	
+099+	Choral Bells	16	3	98	Synth SFX	SC-88Pro	99	099+	Choral Bells	horal Bells	
+099+	Air Bells	17	3	98	Synth SFX	SC-88Pro	99	099+	Air Bells	ir Bells	
+099+	Bell Harp	18	3	98	Synth SFX	SC-88Pro	99	099+	Bell Harp	ell Harp	
+099+	Gamelimba	19	3	98	Synth SFX	SC-88Pro	99	099+	Gamelimba	amelimba	
+099+	JUNO Bell	20	3	98	Synth SFX	SC-88Pro	99	099+	JUNO Bell	UNO Bell	
+100	Atmosphere	0	3	99	Synth SFX	SC-88Pro	100	100	Atmosphere	tmosphere	
+100+	Warm Atmos	1	3	99	Synth SFX	SC-88Pro	100	100+	Warm Atmos	arm Atmos	
+100+	Nylon Harp	2	3	99	Synth SFX	SC-88Pro	100	100+	Nylon Harp	ylon Harp	
+100+	Harpvox	3	3	99	Synth SFX	SC-88Pro	100	100+	Harpvox	arpvox	
+100+	HollowReleas	4	3	99	Synth SFX	SC-88Pro	100	100+	HollowReleas	ollowReleas	
+100+	Nylon+Rhodes	5	3	99	Synth SFX	SC-88Pro	100	100+	Nylon+Rhodes	ylon+Rhodes	
+100+	Ambient Pad	6	3	99	Synth SFX	SC-88Pro	100	100+	Ambient Pad	mbient Pad	
+100+	Invisible	7	3	99	Synth SFX	SC-88Pro	100	100+	Invisible	nvisible	
+100+	Pulsey Key	8	3	99	Synth SFX	SC-88Pro	100	100+	Pulsey Key	ulsey Key	
+100+	Noise Piano	9	3	99	Synth SFX	SC-88Pro	100	100+	Noise Piano	oise Piano	
+101	Brightness	0	3	100	Synth SFX	SC-88Pro	101	101	Brightness	rightness	
+101+	Shining Star	1	3	100	Synth SFX	SC-88Pro	101	101+	Shining Star	hining Star	
+101+	OB Stab	2	3	100	Synth SFX	SC-88Pro	101	101+	OB Stab	B Stab	
+101+	Org Bell	8	3	100	Synth SFX	SC-88Pro	101	101+	Org Bell	rg Bell	
+102	Goblin	0	3	101	Synth SFX	SC-88Pro	102	102	Goblin	oblin	
+102+	Goblinson	1	3	101	Synth SFX	SC-88Pro	102	102+	Goblinson	oblinson	
+102+	50's Sci-Fi	2	3	101	Synth SFX	SC-88Pro	102	102+	50's Sci-Fi	0's Sci-Fi	
+102+	Abduction	3	3	101	Synth SFX	SC-88Pro	102	102+	Abduction	bduction	
+102+	Auhbient	4	3	101	Synth SFX	SC-88Pro	102	102+	Auhbient	uhbient	
+102+	LFO Pad	5	3	101	Synth SFX	SC-88Pro	102	102+	LFO Pad	FO Pad	
+102+	Random Str	6	3	101	Synth SFX	SC-88Pro	102	102+	Random Str	andom Str	
+102+	Random Pad	7	3	101	Synth SFX	SC-88Pro	102	102+	Random Pad	andom Pad	
+102+	LowBirds Pad	8	3	101	Synth SFX	SC-88Pro	102	102+	LowBirds Pad	owBirds Pad	
+102+	Falling Down	9	3	101	Synth SFX	SC-88Pro	102	102+	Falling Down	alling Down	
+102+	LFO RAVE	10	3	101	Synth SFX	SC-88Pro	102	102+	LFO RAVE	FO RAVE	
+102+	LFO Horror	11	3	101	Synth SFX	SC-88Pro	102	102+	LFO Horror	FO Horror	
+102+	LFO Techno	12	3	101	Synth SFX	SC-88Pro	102	102+	LFO Techno	FO Techno	
+102+	Alternative	13	3	101	Synth SFX	SC-88Pro	102	102+	Alternative	lternative	
+102+	UFO FX	14	3	101	Synth SFX	SC-88Pro	102	102+	UFO FX	FO FX	
+102+	Gargle Man	15	3	101	Synth SFX	SC-88Pro	102	102+	Gargle Man	argle Man	
+102+	Sweep FX	16	3	101	Synth SFX	SC-88Pro	102	102+	Sweep FX	weep FX	
+103	Echo Drops	0	3	102	Synth SFX	SC-88Pro	103	103	Echo Drops	cho Drops	
+103+	Echo Bell	1	3	102	Synth SFX	SC-88Pro	103	103+	Echo Bell	cho Bell	
+103+	Echo Pan	2	3	102	Synth SFX	SC-88Pro	103	103+	Echo Pan	cho Pan	
+103+	Echo Pan 2	3	3	102	Synth SFX	SC-88Pro	103	103+	Echo Pan 2	cho Pan 2	
+103+	Big Panner	4	3	102	Synth SFX	SC-88Pro	103	103+	Big Panner	ig Panner	
+103+	Reso Panner	5	3	102	Synth SFX	SC-88Pro	103	103+	Reso Panner	eso Panner	
+103+	Water Piano	6	3	102	Synth SFX	SC-88Pro	103	103+	Water Piano	ater Piano	
+103+	Pan Sequence	8	3	102	Synth SFX	SC-88Pro	103	103+	Pan Sequence	an Sequence	
+103+	Aqua	9	3	102	Synth SFX	SC-88Pro	103	103+	Aqua	qua	
+104	Star Theme	0	3	103	Synth SFX	SC-88Pro	104	104	Star Theme	tar Theme	
+104+	Star Theme 2	1	3	103	Synth SFX	SC-88Pro	104	104+	Star Theme 2	tar Theme 2	
+104+	Dream Pad	8	3	103	Synth SFX	SC-88Pro	104	104+	Dream Pad	ream Pad	
+104+	Silky Pad	9	3	103	Synth SFX	SC-88Pro	104	104+	Silky Pad	ilky Pad	
+104+	New Century	16	3	103	Synth SFX	SC-88Pro	104	104+	New Century	ew Century	
+104+	7th Atmos.	17	3	103	Synth SFX	SC-88Pro	104	104+	7th Atmos.	th Atmos.	
+104+	Galaxy Way	18	3	103	Synth SFX	SC-88Pro	104	104+	Galaxy Way	alaxy Way	
+97	$Ice Rain	0	2	96	Synth SFX	SC-88	97	097	'Ice Rain	Ice Rain	'
+097+	$Harmo Rain	1	2	96	Synth SFX	SC-88	97	097+	'Harmo Rain	Harmo Rain	'
+097+	$AfricanWood	2	2	96	Synth SFX	SC-88	97	097+	'AfricanWood	AfricanWood	'
+097+	$Clavi Pad	8	2	96	Synth SFX	SC-88	97	097+	'Clavi Pad	Clavi Pad	'
+98	$Soundtrack	0	2	97	Synth SFX	SC-88	98	098	'Soundtrack	Soundtrack	'
+098+	$Ancestral	1	2	97	Synth SFX	SC-88	98	098+	'Ancestral	Ancestral	'
+098+	$Prologue	2	2	97	Synth SFX	SC-88	98	098+	'Prologue	Prologue	'
+098+	$Rave	8	2	97	Synth SFX	SC-88	98	098+	'Rave	Rave	'
+99	$Crystal	0	2	98	Synth SFX	SC-88	99	099	'Crystal	Crystal	'
+099+	$Syn Mallet	1	2	98	Synth SFX	SC-88	99	099+	'Syn Mallet	Syn Mallet	'
+099+	$SoftCrystal	2	2	98	Synth SFX	SC-88	99	099+	'SoftCrystal	SoftCrystal	'
+099+	$Round Glock	3	2	98	Synth SFX	SC-88	99	099+	'Round Glock	Round Glock	'
+099+	$Loud Glock	4	2	98	Synth SFX	SC-88	99	099+	'Loud Glock	Loud Glock	'
+099+	$GlocknChime	5	2	98	Synth SFX	SC-88	99	099+	'GlocknChime	GlocknChime	'
+099+	$Clear Bells	6	2	98	Synth SFX	SC-88	99	099+	'Clear Bells	Clear Bells	'
+099+	$Xmas Bell	7	2	98	Synth SFX	SC-88	99	099+	'Xmas Bell	Xmas Bell	'
+099+	$Vibra Bells	8	2	98	Synth SFX	SC-88	99	099+	'Vibra Bells	Vibra Bells	'
+099+	$Digi Bells	9	2	98	Synth SFX	SC-88	99	099+	'Digi Bells	Digi Bells	'
+099+	$ChoralBells	16	2	98	Synth SFX	SC-88	99	099+	'ChoralBells	ChoralBells	'
+099+	$Air Bells	17	2	98	Synth SFX	SC-88	99	099+	'Air Bells	Air Bells	'
+099+	$Bell Harp	18	2	98	Synth SFX	SC-88	99	099+	'Bell Harp	Bell Harp	'
+099+	$Gamelimba	19	2	98	Synth SFX	SC-88	99	099+	'Gamelimba	Gamelimba	'
+100	$Atmosphere	0	2	99	Synth SFX	SC-88	100	100	'Atmosphere	Atmosphere	'
+100+	$Warm Atmos	1	2	99	Synth SFX	SC-88	100	100+	'Warm Atmos	Warm Atmos	'
+100+	$Nylon Harp	2	2	99	Synth SFX	SC-88	100	100+	'Nylon Harp	Nylon Harp	'
+100+	$Harpvox	3	2	99	Synth SFX	SC-88	100	100+	'Harpvox	Harpvox	'
+100+	$HollowRels.	4	2	99	Synth SFX	SC-88	100	100+	'HollowRels.	HollowRels.	'
+100+	$NylonRhodes	5	2	99	Synth SFX	SC-88	100	100+	'NylonRhodes	NylonRhodes	'
+100+	$Ambient Pad	6	2	99	Synth SFX	SC-88	100	100+	'Ambient Pad	Ambient Pad	'
+101	$Brightness	0	2	100	Synth SFX	SC-88	101	101	'Brightness	Brightness	'
+102	$Goblin	0	2	101	Synth SFX	SC-88	102	102	'Goblin	Goblin	'
+102+	$Goblinson	1	2	101	Synth SFX	SC-88	102	102+	'Goblinson	Goblinson	'
+102+	$50's Sci-Fi	2	2	101	Synth SFX	SC-88	102	102+	'50's Sci-Fi	50's Sci-Fi	'
+103	$Echo Drops	0	2	102	Synth SFX	SC-88	103	103	'Echo Drops	Echo Drops	'
+103+	$Echo Bell	1	2	102	Synth SFX	SC-88	103	103+	'Echo Bell	Echo Bell	'
+103+	$Echo Pan	2	2	102	Synth SFX	SC-88	103	103+	'Echo Pan	Echo Pan	'
+103+	$Echo Pan 2	3	2	102	Synth SFX	SC-88	103	103+	'Echo Pan 2	Echo Pan 2	'
+103+	$Big Panner	4	2	102	Synth SFX	SC-88	103	103+	'Big Panner	Big Panner	'
+103+	$Reso Panner	5	2	102	Synth SFX	SC-88	103	103+	'Reso Panner	Reso Panner	'
+103+	$Water Piano	6	2	102	Synth SFX	SC-88	103	103+	'Water Piano	Water Piano	'
+104	$Star Theme	0	2	103	Synth SFX	SC-88	104	104	'Star Theme	Star Theme	'
+104+	$Star Theme 2	1	2	103	Synth SFX	SC-88	104	104+	'Star Theme 2	Star Theme 2	'
+97	*Ice Rain	0	1	96	Synth SFX	SC-55	97	097	"Ice Rain	Ice Rain	"
+98	*Soundtrack	0	1	97	Synth SFX	SC-55	98	098	"Soundtrack	Soundtrack	"
+99	*Crystal	0	1	98	Synth SFX	SC-55	99	099	"Crystal	Crystal	"
+099+	*Syn Mallet	1	1	98	Synth SFX	SC-55	99	099+	"Syn Mallet	Syn Mallet	"
+100	*Atmosphere	0	1	99	Synth SFX	SC-55	100	100	"Atmosphere	Atmosphere	"
+101	*Brightness	0	1	100	Synth SFX	SC-55	101	101	"Brightness	Brightness	"
+102	*Goblin	0	1	101	Synth SFX	SC-55	102	102	"Goblin	Goblin	"
+103	*Echo Drops	0	1	102	Synth SFX	SC-55	103	103	"Echo Drops	Echo Drops	"
+103+	*Echo Bell	1	1	102	Synth SFX	SC-55	103	103+	"Echo Bell	Echo Bell	"
+103+	*Echo Pan	2	1	102	Synth SFX	SC-55	103	103+	"Echo Pan	Echo Pan	"
+104	*Star Theme	0	1	103	Synth SFX	SC-55	104	104	"Star Theme	Star Theme	"
+37	#Soundtrack	127	1	36	Synth SFX	CM-64	37	037	#"Soundtrack	Soundtrack	#"
+38	#Atmosphere	127	1	37	Synth SFX	CM-64	38	038	#"Atmosphere	Atmosphere	#"
+39	#Warm Bell	127	1	38	Synth SFX	CM-64	39	039	#"Warm Bell	Warm Bell	#"
+40	#Funny Vox	127	1	39	Synth SFX	CM-64	40	040	#"Funny Vox	Funny Vox	#"
+41	#Echo Bell	127	1	40	Synth SFX	CM-64	41	041	#"Echo Bell	Echo Bell	#"
+42	#Ice Rain	127	1	41	Synth SFX	CM-64	42	042	#"Ice Rain	Ice Rain	#"
+44	#Echo Pan	127	1	43	Synth SFX	CM-64	44	044	#"Echo Pan	Echo Pan	#"
+100	#Syn Mallet	127	1	99	Synth SFX	CM-64	100	100	#"Syn Mallet	Syn Mallet	#"
+101	#Windbell	127	1	100	Synth SFX	CM-64	101	101	#"Windbell	Windbell	#"
+105	Sitar	0	3	104	Ethnic, etc.	SC-88Pro	105	105	Sitar	itar	
+105+	Sitar 2	1	3	104	Ethnic, etc.	SC-88Pro	105	105+	Sitar 2	itar 2	
+105+	Detune Sitar	2	3	104	Ethnic, etc.	SC-88Pro	105	105+	Detune Sitar	etune Sitar	
+105+	Sitar 3	3	3	104	Ethnic, etc.	SC-88Pro	105	105+	Sitar 3	itar 3	
+105+	Tambra	8	3	104	Ethnic, etc.	SC-88Pro	105	105+	Tambra	ambra	
+105+	Tamboura	16	3	104	Ethnic, etc.	SC-88Pro	105	105+	Tamboura	amboura	
+106	Banjo	0	3	105	Ethnic, etc.	SC-88Pro	106	106	Banjo	anjo	
+106+	Muted Banjo	1	3	105	Ethnic, etc.	SC-88Pro	106	106+	Muted Banjo	uted Banjo	
+106+	Rabab	8	3	105	Ethnic, etc.	SC-88Pro	106	106+	Rabab	abab	
+106+	San Xian	9	3	105	Ethnic, etc.	SC-88Pro	106	106+	San Xian	an Xian	
+106+	Gopichant	16	3	105	Ethnic, etc.	SC-88Pro	106	106+	Gopichant	opichant	
+106+	Oud	24	3	105	Ethnic, etc.	SC-88Pro	106	106+	Oud	ud	
+106+	Oud+Strings	28	3	105	Ethnic, etc.	SC-88Pro	106	106+	Oud+Strings	ud+Strings	
+106+	Pi Pa	32	3	105	Ethnic, etc.	SC-88Pro	106	106+	Pi Pa	i Pa	
+107	Shamisen	0	3	106	Ethnic, etc.	SC-88Pro	107	107	Shamisen	hamisen	
+107+	Tsugaru	1	3	106	Ethnic, etc.	SC-88Pro	107	107+	Tsugaru	sugaru	
+107+	Syn Shamisen	8	3	106	Ethnic, etc.	SC-88Pro	107	107+	Syn Shamisen	yn Shamisen	
+108	Koto	0	3	107	Ethnic, etc.	SC-88Pro	108	108	Koto	oto	
+108+	Gu Zheng	1	3	107	Ethnic, etc.	SC-88Pro	108	108+	Gu Zheng	u Zheng	
+108+	Taisho Koto	8	3	107	Ethnic, etc.	SC-88Pro	108	108+	Taisho Koto	aisho Koto	
+108+	Kanoon	16	3	107	Ethnic, etc.	SC-88Pro	108	108+	Kanoon	anoon	
+108+	Kanoon+Choir	19	3	107	Ethnic, etc.	SC-88Pro	108	108+	Kanoon+Choir	anoon+Choir	
+108+	Oct Harp	24	3	107	Ethnic, etc.	SC-88Pro	108	108+	Oct Harp	ct Harp	
+109	Kalimba	0	3	108	Ethnic, etc.	SC-88Pro	109	109	Kalimba	alimba	
+109+	Sanza	8	3	108	Ethnic, etc.	SC-88Pro	109	109+	Sanza	anza	
+110	Bagpipe	0	3	109	Ethnic, etc.	SC-88Pro	110	110	Bagpipe	agpipe	
+110+	Didgeridoo	8	3	109	Ethnic, etc.	SC-88Pro	110	110+	Didgeridoo	idgeridoo	
+111	Fiddle	0	3	110	Ethnic, etc.	SC-88Pro	111	111	Fiddle	iddle	
+111+	Er Hu	8	3	110	Ethnic, etc.	SC-88Pro	111	111+	Er Hu	r Hu	
+111+	Gao Hu	9	3	110	Ethnic, etc.	SC-88Pro	111	111+	Gao Hu	ao Hu	
+112	Shanai	0	3	111	Ethnic, etc.	SC-88Pro	112	112	Shanai	hanai	
+112+	Shanai 2	1	3	111	Ethnic, etc.	SC-88Pro	112	112+	Shanai 2	hanai 2	
+112+	Pungi	8	3	111	Ethnic, etc.	SC-88Pro	112	112+	Pungi	ungi	
+112+	Hichiriki	16	3	111	Ethnic, etc.	SC-88Pro	112	112+	Hichiriki	ichiriki	
+112+	Mizmar	24	3	111	Ethnic, etc.	SC-88Pro	112	112+	Mizmar	izmar	
+112+	Suona 1	32	3	111	Ethnic, etc.	SC-88Pro	112	112+	Suona 1	uona 1	
+112+	Suona 2	33	3	111	Ethnic, etc.	SC-88Pro	112	112+	Suona 2	uona 2	
+105	$Sitar	0	2	104	Ethnic, etc.	SC-88	105	105	'Sitar	Sitar	'
+105+	$Sitar 2	1	2	104	Ethnic, etc.	SC-88	105	105+	'Sitar 2	Sitar 2	'
+105+	$DetuneSitar	2	2	104	Ethnic, etc.	SC-88	105	105+	'DetuneSitar	DetuneSitar	'
+105+	$Tambra	8	2	104	Ethnic, etc.	SC-88	105	105+	'Tambra	Tambra	'
+105+	$Tamboura	16	2	104	Ethnic, etc.	SC-88	105	105+	'Tamboura	Tamboura	'
+106	$Banjo	0	2	105	Ethnic, etc.	SC-88	106	106	'Banjo	Banjo	'
+106+	$Muted Banjo	1	2	105	Ethnic, etc.	SC-88	106	106+	'Muted Banjo	Muted Banjo	'
+106+	$Rabab	8	2	105	Ethnic, etc.	SC-88	106	106+	'Rabab	Rabab	'
+106+	$Gopichant	16	2	105	Ethnic, etc.	SC-88	106	106+	'Gopichant	Gopichant	'
+106+	$Oud	24	2	105	Ethnic, etc.	SC-88	106	106+	'Oud	Oud	'
+107	$Shamisen	0	2	106	Ethnic, etc.	SC-88	107	107	'Shamisen	Shamisen	'
+107+	$Tsugaru	1	2	106	Ethnic, etc.	SC-88	107	107+	'Tsugaru	Tsugaru	'
+108	$Koto	0	2	107	Ethnic, etc.	SC-88	108	108	'Koto	Koto	'
+108+	$Taisho Koto	8	2	107	Ethnic, etc.	SC-88	108	108+	'Taisho Koto	Taisho Koto	'
+108+	$Kanoon	16	2	107	Ethnic, etc.	SC-88	108	108+	'Kanoon	Kanoon	'
+109	$Kalimba	0	2	108	Ethnic, etc.	SC-88	109	109	'Kalimba	Kalimba	'
+110	$Bagpipe	0	2	109	Ethnic, etc.	SC-88	110	110	'Bagpipe	Bagpipe	'
+111	$Fiddle	0	2	110	Ethnic, etc.	SC-88	111	111	'Fiddle	Fiddle	'
+112	$Shanai	0	2	111	Ethnic, etc.	SC-88	112	112	'Shanai	Shanai	'
+112+	$Shanai 2	1	2	111	Ethnic, etc.	SC-88	112	112+	'Shanai 2	Shanai 2	'
+112+	$Pungi	8	2	111	Ethnic, etc.	SC-88	112	112+	'Pungi	Pungi	'
+112+	$Hichiriki	16	2	111	Ethnic, etc.	SC-88	112	112+	'Hichiriki	Hichiriki	'
+105	*Sitar	0	1	104	Ethnic, etc.	SC-55	105	105	"Sitar	Sitar	"
+105+	*Sitar 2	1	1	104	Ethnic, etc.	SC-55	105	105+	"Sitar 2	Sitar 2	"
+106	*Banjo	0	1	105	Ethnic, etc.	SC-55	106	106	"Banjo	Banjo	"
+107	*Shamisen	0	1	106	Ethnic, etc.	SC-55	107	107	"Shamisen	Shamisen	"
+108	*Koto	0	1	107	Ethnic, etc.	SC-55	108	108	"Koto	Koto	"
+108+	*Taisho Koto	8	1	107	Ethnic, etc.	SC-55	108	108+	"Taisho Koto	Taisho Koto	"
+109	*Kalimba	0	1	108	Ethnic, etc.	SC-55	109	109	"Kalimba	Kalimba	"
+110	*Bagpipe	0	1	109	Ethnic, etc.	SC-55	110	110	"Bagpipe	Bagpipe	"
+111	*Fiddle	0	1	110	Ethnic, etc.	SC-55	111	111	"Fiddle	Fiddle	"
+112	*Shanai	0	1	111	Ethnic, etc.	SC-55	112	112	"Shanai	Shanai	"
+064#	#Sitar	127	1	63	Ethnic, etc.	CM-64	64	064#	#"Sitar	Sitar	#"
+106#	#Koto	127	1	105	Ethnic, etc.	CM-64	106	106#	#"Koto	Koto	#"
+107#	#Sho	127	1	106	Ethnic, etc.	CM-64	107	107#	#"Sho	Sho	#"
+113	Tinkle Bell	0	3	112	Percussive	SC-88Pro	113	113	Tinkle Bell	inkle Bell	
+113+	Bonang	8	3	112	Percussive	SC-88Pro	113	113+	Bonang	onang	
+113+	Gender	9	3	112	Percussive	SC-88Pro	113	113+	Gender	ender	
+113+	Gamelan Gong	10	3	112	Percussive	SC-88Pro	113	113+	Gamelan Gong	amelan Gong	
+113+	St.Gamelan	11	3	112	Percussive	SC-88Pro	113	113+	St.Gamelan	t.Gamelan	
+113+	Jang Gu	12	3	112	Percussive	SC-88Pro	113	113+	Jang Gu	ang Gu	
+113+	RAMA Cymbal	16	3	112	Percussive	SC-88Pro	113	113+	RAMA Cymbal	AMA Cymbal	
+114	Agogo	0	3	113	Percussive	SC-88Pro	114	114	Agogo	gogo	
+114+	Atarigane	8	3	113	Percussive	SC-88Pro	114	114+	Atarigane	tarigane	
+114+	Tambourine	16	3	113	Percussive	SC-88Pro	114	114+	Tambourine	ambourine	
+115	Steel Drums	0	3	114	Percussive	SC-88Pro	115	115	Steel Drums	teel Drums	
+115+	Island Mlt	1	3	114	Percussive	SC-88Pro	115	115+	Island Mlt	sland Mlt	
+116	Woodblock	0	3	115	Percussive	SC-88Pro	116	116	Woodblock	oodblock	
+116+	Castanets	8	3	115	Percussive	SC-88Pro	116	116+	Castanets	astanets	
+116+	Angklung	16	3	115	Percussive	SC-88Pro	116	116+	Angklung	ngklung	
+116+	Angkl Rhythm	17	3	115	Percussive	SC-88Pro	116	116+	Angkl Rhythm	ngkl Rhythm	
+116+	Finger Snaps	24	3	115	Percussive	SC-88Pro	116	116+	Finger Snaps	inger Snaps	
+116+	909 HandClap	32	3	115	Percussive	SC-88Pro	116	116+	909 HandClap	09 HandClap	
+117	Taiko	0	3	116	Percussive	SC-88Pro	117	117	Taiko	aiko	
+117+	Small Taiko	1	3	116	Percussive	SC-88Pro	117	117+	Small Taiko	mall Taiko	
+117+	Concert BD	8	3	116	Percussive	SC-88Pro	117	117+	Concert BD	oncert BD	
+117+	Jungle BD	16	3	116	Percussive	SC-88Pro	117	117+	Jungle BD	ungle BD	
+117+	Techno BD	17	3	116	Percussive	SC-88Pro	117	117+	Techno BD	echno BD	
+117+	Bounce	18	3	116	Percussive	SC-88Pro	117	117+	Bounce	ounce	
+118	Melo. Tom 1	0	3	117	Percussive	SC-88Pro	118	118	Melo. Tom 1	elo. Tom 1	
+118+	Real Tom	1	3	117	Percussive	SC-88Pro	118	118+	Real Tom	eal Tom	
+118+	Melo. Tom 2	8	3	117	Percussive	SC-88Pro	118	118+	Melo. Tom 2	elo. Tom 2	
+118+	Rock Tom	9	3	117	Percussive	SC-88Pro	118	118+	Rock Tom	ock Tom	
+118+	Rash SD	16	3	117	Percussive	SC-88Pro	118	118+	Rash SD	ash SD	
+118+	House SD	17	3	117	Percussive	SC-88Pro	118	118+	House SD	ouse SD	
+118+	Jungle SD	18	3	117	Percussive	SC-88Pro	118	118+	Jungle SD	ungle SD	
+118+	909 SD	19	3	117	Percussive	SC-88Pro	118	118+	909 SD	09 SD	
+119	Synth Drum	0	3	118	Percussive	SC-88Pro	119	119	Synth Drum	ynth Drum	
+119+	808 Tom	8	3	118	Percussive	SC-88Pro	119	119+	808 Tom	08 Tom	
+119+	Elec Perc	9	3	118	Percussive	SC-88Pro	119	119+	Elec Perc	lec Perc	
+119+	Sine Perc.	10	3	118	Percussive	SC-88Pro	119	119+	Sine Perc.	ine Perc.	
+119+	606 Tom	11	3	118	Percussive	SC-88Pro	119	119+	606 Tom	06 Tom	
+119+	909 Tom	12	3	118	Percussive	SC-88Pro	119	119+	909 Tom	09 Tom	
+120	Reverse Cym.	0	3	119	Percussive	SC-88Pro	120	120	Reverse Cym.	everse Cym.	
+120+	Reverse Cym2	1	3	119	Percussive	SC-88Pro	120	120+	Reverse Cym2	everse Cym2	
+120+	Reverse Cym3	2	3	119	Percussive	SC-88Pro	120	120+	Reverse Cym3	everse Cym3	
+120+	Rev.Snare 1	8	3	119	Percussive	SC-88Pro	120	120+	Rev.Snare 1	ev.Snare 1	
+120+	Rev.Snare 2	9	3	119	Percussive	SC-88Pro	120	120+	Rev.Snare 2	ev.Snare 2	
+120+	Rev.Kick 1	16	3	119	Percussive	SC-88Pro	120	120+	Rev.Kick 1	ev.Kick 1	
+120+	Rev.ConBD	17	3	119	Percussive	SC-88Pro	120	120+	Rev.ConBD	ev.ConBD	
+120+	Rev.Tom 1	24	3	119	Percussive	SC-88Pro	120	120+	Rev.Tom 1	ev.Tom 1	
+120+	Rev.Tom 2	25	3	119	Percussive	SC-88Pro	120	120+	Rev.Tom 2	ev.Tom 2	
+113	$Tinkle Bell	0	2	112	Percussive	SC-88	113	113	'Tinkle Bell	Tinkle Bell	'
+113+	$Bonang	8	2	112	Percussive	SC-88	113	113+	'Bonang	Bonang	'
+113+	$Gender	9	2	112	Percussive	SC-88	113	113+	'Gender	Gender	'
+113+	$GamelanGong	10	2	112	Percussive	SC-88	113	113+	'GamelanGong	GamelanGong	'
+113+	$St.Gamelan	11	2	112	Percussive	SC-88	113	113+	'St.Gamelan	St.Gamelan	'
+113+	$RAMA Cymbal	16	2	112	Percussive	SC-88	113	113+	'RAMA Cymbal	RAMA Cymbal	'
+114	$Agogo	0	2	113	Percussive	SC-88	114	114	'Agogo	Agogo	'
+114+	$Atarigane	8	2	113	Percussive	SC-88	114	114+	'Atarigane	Atarigane	'
+115	$Steel Drums	0	2	114	Percussive	SC-88	115	115	'Steel Drums	Steel Drums	'
+116	$Woodblock	0	2	115	Percussive	SC-88	116	116	'Woodblock	Woodblock	'
+116+	$Castanets	8	2	115	Percussive	SC-88	116	116+	'Castanets	Castanets	'
+117	$Taiko	0	2	116	Percussive	SC-88	117	117	'Taiko	Taiko	'
+117+	$Concert BD	8	2	116	Percussive	SC-88	117	117+	'Concert BD	Concert BD	'
+118	$Melo. Tom 1	0	2	117	Percussive	SC-88	118	118	'Melo. Tom 1	Melo. Tom 1	'
+118+	$Real Tom	1	2	117	Percussive	SC-88	118	118+	'Real Tom	Real Tom	'
+118+	$Melo. Tom 2	8	2	117	Percussive	SC-88	118	118+	'Melo. Tom 2	Melo. Tom 2	'
+118+	$Rock Tom	9	2	117	Percussive	SC-88	118	118+	'Rock Tom	Rock Tom	'
+119	$Synth Drum	0	2	118	Percussive	SC-88	119	119	'Synth Drum	Synth Drum	'
+119+	$808 Tom	8	2	118	Percussive	SC-88	119	119+	'808 Tom	808 Tom	'
+119+	$Elec Perc	9	2	118	Percussive	SC-88	119	119+	'Elec Perc	Elec Perc	'
+120	$Reverse Cym	0	2	119	Percussive	SC-88	120	120	'Reverse Cym	Reverse Cym	'
+120+	$ReverseCym2	1	2	119	Percussive	SC-88	120	120+	'ReverseCym2	ReverseCym2	'
+120+	$Rev.Snare 1	8	2	119	Percussive	SC-88	120	120+	'Rev.Snare 1	Rev.Snare 1	'
+120+	$Rev.Snare 2	9	2	119	Percussive	SC-88	120	120+	'Rev.Snare 2	Rev.Snare 2	'
+120+	$Rev.Kick 1	16	2	119	Percussive	SC-88	120	120+	'Rev.Kick 1	Rev.Kick 1	'
+120+	$Rev.ConBD	17	2	119	Percussive	SC-88	120	120+	'Rev.ConBD	Rev.ConBD	'
+120+	$Rev.Tom 1	24	2	119	Percussive	SC-88	120	120+	'Rev.Tom 1	Rev.Tom 1	'
+120+	$Rev.Tom 2	25	2	119	Percussive	SC-88	120	120+	'Rev.Tom 2	Rev.Tom 2	'
+113	*Tinkle Bell	0	1	112	Percussive	SC-55	113	113	"Tinkle Bell	Tinkle Bell	"
+114	*Agogo	0	1	113	Percussive	SC-55	114	114	"Agogo	Agogo	"
+115	*Steel Drums	0	1	114	Percussive	SC-55	115	115	"Steel Drums	Steel Drums	"
+116	*Woodblock	0	1	115	Percussive	SC-55	116	116	"Woodblock	Woodblock	"
+116+	*Castanets	8	1	115	Percussive	SC-55	116	116+	"Castanets	Castanets	"
+117	*Taiko	0	1	116	Percussive	SC-55	117	117	"Taiko	Taiko	"
+117+	*Concert BD	8	1	116	Percussive	SC-55	117	117+	"Concert BD	Concert BD	"
+118	*Melo. Tom 1	0	1	117	Percussive	SC-55	118	118	"Melo. Tom 1	Melo. Tom 1	"
+118+	*Melo. Tom 2	8	1	117	Percussive	SC-55	118	118+	"Melo. Tom 2	Melo. Tom 2	"
+119	*Synth Drum	0	1	118	Percussive	SC-55	119	119	"Synth Drum	Synth Drum	"
+119+	*808 Tom	8	1	118	Percussive	SC-55	119	119+	"808 Tom	808 Tom	"
+119+	*Elec Perc	9	1	118	Percussive	SC-55	119	119+	"Elec Perc	Elec Perc	"
+120	*Reverse Cym	0	1	119	Percussive	SC-55	120	120	"Reverse Cym	Reverse Cym	"
+114#	#Melodic Tom	127	1	113	Percussive	CM-64	114	114#	#"Melodic Tom	Melodic Tom	#"
+115#	#Deep Snare	127	1	114	Percussive	CM-64	115	115#	#"Deep Snare	Deep Snare	#"
+116#	#Elec Perc 1	127	1	115	Percussive	CM-64	116	116#	#"Elec Perc 1	Elec Perc 1	#"
+117#	#Elec Perc 2	127	1	116	Percussive	CM-64	117	117#	#"Elec Perc 2	Elec Perc 2	#"
+118#	#Taiko	127	1	117	Percussive	CM-64	118	118#	#"Taiko	Taiko	#"
+119#	#Taiko Rim	127	1	118	Percussive	CM-64	119	119#	#"Taiko Rim	Taiko Rim	#"
+120#	#Cymbal	127	1	119	Percussive	CM-64	120	120#	#"Cymbal	Cymbal	#"
+121#	#Castanets	127	1	120	Percussive	CM-64	121	121#	#"Castanets	Castanets	#"
+122#	#Triangle	127	1	121	Percussive	CM-64	122	122#	#"Triangle	Triangle	#"
+121	Gt.FretNoise	0	3	120	SFX	SC-88Pro	121	121	Gt.FretNoise	t.FretNoise	
+121+	Gt.Cut Noise	1	3	120	SFX	SC-88Pro	121	121+	Gt.Cut Noise	t.Cut Noise	
+121+	String Slap	2	3	120	SFX	SC-88Pro	121	121+	String Slap	tring Slap	
+121+	Gt.CutNoise2	3	3	120	SFX	SC-88Pro	121	121+	Gt.CutNoise2	t.CutNoise2	
+121+	Dist.CutNoiz	4	3	120	SFX	SC-88Pro	121	121+	Dist.CutNoiz	ist.CutNoiz	
+121+	Bass Slide	5	3	120	SFX	SC-88Pro	121	121+	Bass Slide	ass Slide	
+121+	Pick Scrape	6	3	120	SFX	SC-88Pro	121	121+	Pick Scrape	ick Scrape	
+121+	Gtr. FX Menu	8	3	120	SFX	SC-88Pro	121	121+	Gtr. FX Menu	tr. FX Menu	
+121+	Bartok Pizz.	9	3	120	SFX	SC-88Pro	121	121+	Bartok Pizz.	artok Pizz.	
+121+	Guitar Slap	10	3	120	SFX	SC-88Pro	121	121+	Guitar Slap	uitar Slap	
+121+	Chord Stroke	11	3	120	SFX	SC-88Pro	121	121+	Chord Stroke	hord Stroke	
+121+	Biwa Stroke	12	3	120	SFX	SC-88Pro	121	121+	Biwa Stroke	iwa Stroke	
+121+	Biwa Tremolo	13	3	120	SFX	SC-88Pro	121	121+	Biwa Tremolo	iwa Tremolo	
+122	Breath Noise	0	3	121	SFX	SC-88Pro	122	122	Breath Noise	reath Noise	
+122+	Fl.Key Click	1	3	121	SFX	SC-88Pro	122	122+	Fl.Key Click	l.Key Click	
+123	Seashore	0	3	122	SFX	SC-88Pro	123	123	Seashore	eashore	
+123+	Rain	1	3	122	SFX	SC-88Pro	123	123+	Rain	ain	
+123+	Thunder	2	3	122	SFX	SC-88Pro	123	123+	Thunder	hunder	
+123+	Wind	3	3	122	SFX	SC-88Pro	123	123+	Wind	ind	
+123+	Stream	4	3	122	SFX	SC-88Pro	123	123+	Stream	tream	
+123+	Bubble	5	3	122	SFX	SC-88Pro	123	123+	Bubble	ubble	
+123+	Wind 2	6	3	122	SFX	SC-88Pro	123	123+	Wind 2	ind 2	
+123+	Pink Noise	16	3	122	SFX	SC-88Pro	123	123+	Pink Noise	ink Noise	
+123+	White Noise	17	3	122	SFX	SC-88Pro	123	123+	White Noise	hite Noise	
+124	Bird	0	3	123	SFX	SC-88Pro	124	124	Bird	ird	
+124+	Dog	1	3	123	SFX	SC-88Pro	124	124+	Dog	og	
+124+	Horse-Gallop	2	3	123	SFX	SC-88Pro	124	124+	Horse-Gallop	orse-Gallop	
+124+	Bird 2	3	3	123	SFX	SC-88Pro	124	124+	Bird 2	ird 2	
+124+	Kitty	4	3	123	SFX	SC-88Pro	124	124+	Kitty	itty	
+124+	Growl	5	3	123	SFX	SC-88Pro	124	124+	Growl	rowl	
+125	Telephone 1	0	3	124	SFX	SC-88Pro	125	125	Telephone 1	elephone 1	
+125+	Telephone 2	1	3	124	SFX	SC-88Pro	125	125+	Telephone 2	elephone 2	
+125+	DoorCreaking	2	3	124	SFX	SC-88Pro	125	125+	DoorCreaking	oorCreaking	
+125+	Door	3	3	124	SFX	SC-88Pro	125	125+	Door	oor	
+125+	Scratch	4	3	124	SFX	SC-88Pro	125	125+	Scratch	cratch	
+125+	Wind Chimes	5	3	124	SFX	SC-88Pro	125	125+	Wind Chimes	ind Chimes	
+125+	Scratch 2	7	3	124	SFX	SC-88Pro	125	125+	Scratch 2	cratch 2	
+125+	ScratchKey	8	3	124	SFX	SC-88Pro	125	125+	ScratchKey	cratchKey	
+125+	TapeRewind	9	3	124	SFX	SC-88Pro	125	125+	TapeRewind	apeRewind	
+125+	Phono Noise	10	3	124	SFX	SC-88Pro	125	125+	Phono Noise	hono Noise	
+125+	MC-500 Beep	11	3	124	SFX	SC-88Pro	125	125+	MC-500 Beep	C-500 Beep	
+126	Helicopter	0	3	125	SFX	SC-88Pro	126	126	Helicopter	elicopter	
+126+	Car-Engine	1	3	125	SFX	SC-88Pro	126	126+	Car-Engine	ar-Engine	
+126+	Car-Stop	2	3	125	SFX	SC-88Pro	126	126+	Car-Stop	ar-Stop	
+126+	Car-Pass	3	3	125	SFX	SC-88Pro	126	126+	Car-Pass	ar-Pass	
+126+	Car-Crash	4	3	125	SFX	SC-88Pro	126	126+	Car-Crash	ar-Crash	
+126+	Siren	5	3	125	SFX	SC-88Pro	126	126+	Siren	iren	
+126+	Train	6	3	125	SFX	SC-88Pro	126	126+	Train	rain	
+126+	Jetplane	7	3	125	SFX	SC-88Pro	126	126+	Jetplane	etplane	
+126+	Starship	8	3	125	SFX	SC-88Pro	126	126+	Starship	tarship	
+126+	Burst Noise	9	3	125	SFX	SC-88Pro	126	126+	Burst Noise	urst Noise	
+126+	Calculating	10	3	125	SFX	SC-88Pro	126	126+	Calculating	alculating	
+126+	Perc. Bang	11	3	125	SFX	SC-88Pro	126	126+	Perc. Bang	erc. Bang	
+127	Applause	0	3	126	SFX	SC-88Pro	127	127	Applause	pplause	
+127+	Laughing	1	3	126	SFX	SC-88Pro	127	127+	Laughing	aughing	
+127+	Screaming	2	3	126	SFX	SC-88Pro	127	127+	Screaming	creaming	
+127+	Punch	3	3	126	SFX	SC-88Pro	127	127+	Punch	unch	
+127+	Heart Beat	4	3	126	SFX	SC-88Pro	127	127+	Heart Beat	eart Beat	
+127+	Footsteps	5	3	126	SFX	SC-88Pro	127	127+	Footsteps	ootsteps	
+127+	Applause 2	6	3	126	SFX	SC-88Pro	127	127+	Applause 2	pplause 2	
+127+	Small Club	7	3	126	SFX	SC-88Pro	127	127+	Small Club	mall Club	
+127+	ApplauseWave	8	3	126	SFX	SC-88Pro	127	127+	ApplauseWave	pplauseWave	
+127+	Voice One	16	3	126	SFX	SC-88Pro	127	127+	Voice One	oice One	
+127+	Voice Two	17	3	126	SFX	SC-88Pro	127	127+	Voice Two	oice Two	
+127+	Voice Three	18	3	126	SFX	SC-88Pro	127	127+	Voice Three	oice Three	
+127+	Voice Tah	19	3	126	SFX	SC-88Pro	127	127+	Voice Tah	oice Tah	
+127+	Voice Whey	20	3	126	SFX	SC-88Pro	127	127+	Voice Whey	oice Whey	
+128	Gun Shot	0	3	127	SFX	SC-88Pro	128	128	Gun Shot	un Shot	
+128+	Machine Gun	1	3	127	SFX	SC-88Pro	128	128+	Machine Gun	achine Gun	
+128+	Lasergun	2	3	127	SFX	SC-88Pro	128	128+	Lasergun	asergun	
+128+	Explosion	3	3	127	SFX	SC-88Pro	128	128+	Explosion	xplosion	
+128+	Eruption	4	3	127	SFX	SC-88Pro	128	128+	Eruption	ruption	
+128+	Big Shot	5	3	127	SFX	SC-88Pro	128	128+	Big Shot	ig Shot	
+121	$Gt.FretNoise	0	2	120	SFX	SC-88	121	121	'Gt.FretNoise	Gt.FretNoise	'
+121+	$Gt.CutNoise	1	2	120	SFX	SC-88	121	121+	'Gt.CutNoise	Gt.CutNoise	'
+121+	$String Slap	2	2	120	SFX	SC-88	121	121+	'String Slap	String Slap	'
+121+	$Gt.CutNz. 2	3	2	120	SFX	SC-88	121	121+	'Gt.CutNz. 2	Gt.CutNz. 2	'
+121+	$Dist.CutNz.	4	2	120	SFX	SC-88	121	121+	'Dist.CutNz.	Dist.CutNz.	'
+121+	$Bass Slide	5	2	120	SFX	SC-88	121	121+	'Bass Slide	Bass Slide	'
+121+	$Pick Scrape	6	2	120	SFX	SC-88	121	121+	'Pick Scrape	Pick Scrape	'
+122	$BreathNoise	0	2	121	SFX	SC-88	122	122	'BreathNoise	BreathNoise	'
+122+	$Fl.KeyClick	1	2	121	SFX	SC-88	122	122+	'Fl.KeyClick	Fl.KeyClick	'
+123	$Seashore	0	2	122	SFX	SC-88	123	123	'Seashore	Seashore	'
+123+	$Rain	1	2	122	SFX	SC-88	123	123+	'Rain	Rain	'
+123+	$Thunder	2	2	122	SFX	SC-88	123	123+	'Thunder	Thunder	'
+123+	$Wind	3	2	122	SFX	SC-88	123	123+	'Wind	Wind	'
+123+	$Stream	4	2	122	SFX	SC-88	123	123+	'Stream	Stream	'
+123+	$Bubble	5	2	122	SFX	SC-88	123	123+	'Bubble	Bubble	'
+124	$Bird	0	2	123	SFX	SC-88	124	124	'Bird	Bird	'
+124+	$Dog	1	2	123	SFX	SC-88	124	124+	'Dog	Dog	'
+124+	$HorseGallop	2	2	123	SFX	SC-88	124	124+	'HorseGallop	HorseGallop	'
+124+	$Bird 2	3	2	123	SFX	SC-88	124	124+	'Bird 2	Bird 2	'
+124+	$Kitty	4	2	123	SFX	SC-88	124	124+	'Kitty	Kitty	'
+124+	$Growl	5	2	123	SFX	SC-88	124	124+	'Growl	Growl	'
+125	$Telephone 1	0	2	124	SFX	SC-88	125	125	'Telephone 1	Telephone 1	'
+125+	$Telephone 2	1	2	124	SFX	SC-88	125	125+	'Telephone 2	Telephone 2	'
+125+	$Creaking	2	2	124	SFX	SC-88	125	125+	'Creaking	Creaking	'
+125+	$Door	3	2	124	SFX	SC-88	125	125+	'Door	Door	'
+125+	$Scratch	4	2	124	SFX	SC-88	125	125+	'Scratch	Scratch	'
+125+	$Wind Chimes	5	2	124	SFX	SC-88	125	125+	'Wind Chimes	Wind Chimes	'
+125+	$Scratch 2	7	2	124	SFX	SC-88	125	125+	'Scratch 2	Scratch 2	'
+126	$Helicopter	0	2	125	SFX	SC-88	126	126	'Helicopter	Helicopter	'
+126+	$Car-Engine	1	2	125	SFX	SC-88	126	126+	'Car-Engine	Car-Engine	'
+126+	$Car-Stop	2	2	125	SFX	SC-88	126	126+	'Car-Stop	Car-Stop	'
+126+	$Car-Pass	3	2	125	SFX	SC-88	126	126+	'Car-Pass	Car-Pass	'
+126+	$Car-Crash	4	2	125	SFX	SC-88	126	126+	'Car-Crash	Car-Crash	'
+126+	$Siren	5	2	125	SFX	SC-88	126	126+	'Siren	Siren	'
+126+	$Train	6	2	125	SFX	SC-88	126	126+	'Train	Train	'
+126+	$Jetplane	7	2	125	SFX	SC-88	126	126+	'Jetplane	Jetplane	'
+126+	$Starship	8	2	125	SFX	SC-88	126	126+	'Starship	Starship	'
+126+	$Burst Noise	9	2	125	SFX	SC-88	126	126+	'Burst Noise	Burst Noise	'
+127	$Applause	0	2	126	SFX	SC-88	127	127	'Applause	Applause	'
+127+	$Laughing	1	2	126	SFX	SC-88	127	127+	'Laughing	Laughing	'
+127+	$Screaming	2	2	126	SFX	SC-88	127	127+	'Screaming	Screaming	'
+127+	$Punch	3	2	126	SFX	SC-88	127	127+	'Punch	Punch	'
+127+	$Heart Beat	4	2	126	SFX	SC-88	127	127+	'Heart Beat	Heart Beat	'
+127+	$Footsteps	5	2	126	SFX	SC-88	127	127+	'Footsteps	Footsteps	'
+127+	$Applause 2	6	2	126	SFX	SC-88	127	127+	'Applause 2	Applause 2	'
+128	$Gun Shot	0	2	127	SFX	SC-88	128	128	'Gun Shot	Gun Shot	'
+128+	$Machine Gun	1	2	127	SFX	SC-88	128	128+	'Machine Gun	Machine Gun	'
+128+	$Lasergun	2	2	127	SFX	SC-88	128	128+	'Lasergun	Lasergun	'
+128+	$Explosion	3	2	127	SFX	SC-88	128	128+	'Explosion	Explosion	'
+121	*Gt.FretNoiz	0	1	120	SFX	SC-55	121	121	"Gt.FretNoiz	Gt.FretNoiz	"
+121+	*Gt.CutNoise	1	1	120	SFX	SC-55	121	121+	"Gt.CutNoise	Gt.CutNoise	"
+121+	*String Slap	2	1	120	SFX	SC-55	121	121+	"String Slap	String Slap	"
+122	*BreathNoise	0	1	121	SFX	SC-55	122	122	"BreathNoise	BreathNoise	"
+122+	*Fl.KeyClick	1	1	121	SFX	SC-55	122	122+	"Fl.KeyClick	Fl.KeyClick	"
+123	*Seashore	0	1	122	SFX	SC-55	123	123	"Seashore	Seashore	"
+123+	*Rain	1	1	122	SFX	SC-55	123	123+	"Rain	Rain	"
+123+	*Thunder	2	1	122	SFX	SC-55	123	123+	"Thunder	Thunder	"
+123+	*Wind	3	1	122	SFX	SC-55	123	123+	"Wind	Wind	"
+123+	*Stream	4	1	122	SFX	SC-55	123	123+	"Stream	Stream	"
+123+	*Bubble	5	1	122	SFX	SC-55	123	123+	"Bubble	Bubble	"
+124	*Bird	0	1	123	SFX	SC-55	124	124	"Bird	Bird	"
+124+	*Dog	1	1	123	SFX	SC-55	124	124+	"Dog	Dog	"
+124+	*HorseGallop	2	1	123	SFX	SC-55	124	124+	"HorseGallop	HorseGallop	"
+124+	*Bird 2	3	1	123	SFX	SC-55	124	124+	"Bird 2	Bird 2	"
+125	*Telephone 1	0	1	124	SFX	SC-55	125	125	"Telephone 1	Telephone 1	"
+125+	*Telephone 2	1	1	124	SFX	SC-55	125	125+	"Telephone 2	Telephone 2	"
+125+	*Creaking	2	1	124	SFX	SC-55	125	125+	"Creaking	Creaking	"
+125+	*Door	3	1	124	SFX	SC-55	125	125+	"Door	Door	"
+125+	*Scratch	4	1	124	SFX	SC-55	125	125+	"Scratch	Scratch	"
+125+	*Wind Chimes	5	1	124	SFX	SC-55	125	125+	"Wind Chimes	Wind Chimes	"
+126	*Helicopter	0	1	125	SFX	SC-55	126	126	"Helicopter	Helicopter	"
+126+	*Car-Engine	1	1	125	SFX	SC-55	126	126+	"Car-Engine	Car-Engine	"
+126+	*Car-Stop	2	1	125	SFX	SC-55	126	126+	"Car-Stop	Car-Stop	"
+126+	*Car-Pass	3	1	125	SFX	SC-55	126	126+	"Car-Pass	Car-Pass	"
+126+	*Car-Crash	4	1	125	SFX	SC-55	126	126+	"Car-Crash	Car-Crash	"
+126+	*Siren	5	1	125	SFX	SC-55	126	126+	"Siren	Siren	"
+126+	*Train	6	1	125	SFX	SC-55	126	126+	"Train	Train	"
+126+	*Jetplane	7	1	125	SFX	SC-55	126	126+	"Jetplane	Jetplane	"
+126+	*Starship	8	1	125	SFX	SC-55	126	126+	"Starship	Starship	"
+126+	*Burst Noise	9	1	125	SFX	SC-55	126	126+	"Burst Noise	Burst Noise	"
+127	*Applause	0	1	126	SFX	SC-55	127	127	"Applause	Applause	"
+127+	*Laughing	1	1	126	SFX	SC-55	127	127+	"Laughing	Laughing	"
+127+	*Screaming	2	1	126	SFX	SC-55	127	127+	"Screaming	Screaming	"
+127+	*Punch	3	1	126	SFX	SC-55	127	127+	"Punch	Punch	"
+127+	*Heart Beat	4	1	126	SFX	SC-55	127	127+	"Heart Beat	Heart Beat	"
+127+	*Footsteps	5	1	126	SFX	SC-55	127	127+	"Footsteps	Footsteps	"
+128	*Gun Shot	0	1	127	SFX	SC-55	128	128	"Gun Shot	Gun Shot	"
+128+	*Machine Gun	1	1	127	SFX	SC-55	128	128+	"Machine Gun	Machine Gun	"
+128+	*Lasergun	2	1	127	SFX	SC-55	128	128+	"Lasergun	Lasergun	"
+128+	*Explosion	3	1	127	SFX	SC-55	128	128+	"Explosion	Explosion	"
+124#	#Telephone	127	1	123	SFX	CM-64	124	124#	#"Telephone	Telephone	#"
+125#	#Bird Tweet	127	1	124	SFX	CM-64	125	125#	#"Bird Tweet	Bird Tweet	#"
+126#	#OneNote Jam	127	1	125	SFX	CM-64	126	126#	#"OneNote Jam	OneNote Jam	#"
+127#	#Water Bell	127	1	126	SFX	CM-64	127	127#	#"Water Bell	Water Bell	#"
+128#	#Jungle Tune	127	1	127	SFX	CM-64	128	128#	#"Jungle Tune	Jungle Tune	#"
+1	STANDARD 1	0	3	0	Drum sets	SC-88Pro	1	001*	STANDARD 1	TANDARD 1	
+2	STANDARD 2	0	3	1	Drum sets	SC-88Pro	2	002*	STANDARD 2	TANDARD 2	
+3	STANDARD 3	0	3	2	Drum sets	SC-88Pro	3	003*	STANDARD 3	TANDARD 3	
+9	ROOM	0	3	8	Drum sets	SC-88Pro	9	009*	ROOM	OOM	
+10	HIP HOP	0	3	9	Drum sets	SC-88Pro	10	010*	HIP HOP	IP HOP	
+11	JUNGLE	0	3	10	Drum sets	SC-88Pro	11	011*	JUNGLE	UNGLE	
+12	TECHNO	0	3	11	Drum sets	SC-88Pro	12	012*	TECHNO	ECHNO	
+17	POWER	0	3	16	Drum sets	SC-88Pro	17	017*	POWER	OWER	
+25	ELECTRONIC	0	3	24	Drum sets	SC-88Pro	25	025*	ELECTRONIC	LECTRONIC	
+26	TR-808	0	3	25	Drum sets	SC-88Pro	26	026*	TR-808	R-808	
+27	DANCE	0	3	26	Drum sets	SC-88Pro	27	027*	DANCE	ANCE	
+28	CR-78	0	3	27	Drum sets	SC-88Pro	28	028*	CR-78	R-78	
+29	TR-606	0	3	28	Drum sets	SC-88Pro	29	029*	TR-606	R-606	
+30	TR-707	0	3	29	Drum sets	SC-88Pro	30	030*	TR-707	R-707	
+31	TR-909	0	3	30	Drum sets	SC-88Pro	31	031*	TR-909	R-909	
+33	JAZZ	0	3	32	Drum sets	SC-88Pro	33	033*	JAZZ	AZZ	
+41	BRUSH	0	3	40	Drum sets	SC-88Pro	41	041*	BRUSH	RUSH	
+49	ORCHESTRA	0	3	48	Drum sets	SC-88Pro	49	049*	ORCHESTRA	RCHESTRA	
+50	ETHNIC	0	3	49	Drum sets	SC-88Pro	50	050*	ETHNIC	THNIC	
+51	KICK & SNARE	0	3	50	Drum sets	SC-88Pro	51	051*	KICK & SNARE	ICK & SNARE	
+53	ASIA	0	3	52	Drum sets	SC-88Pro	53	053*	ASIA	SIA	
+54	CYMBAL&CLAPS	0	3	53	Drum sets	SC-88Pro	54	054*	CYMBAL&CLAPS	YMBAL&CLAPS	
+57	SFX	0	3	56	Drum sets	SC-88Pro	57	057*	SFX	FX	
+58	RHYTHM FX	0	3	57	Drum sets	SC-88Pro	58	058*	RHYTHM FX	HYTHM FX	
+59	RHYTHM FX 2	0	3	58	Drum sets	SC-88Pro	59	059*	RHYTHM FX 2	HYTHM FX 2	
+1	$STANDARD 1	0	2	0	Drum sets	SC-88	1	001*	'STANDARD 1	STANDARD 1	'
+2	$STANDARD 2	0	2	1	Drum sets	SC-88	2	002*	'STANDARD 2	STANDARD 2	'
+9	$ROOM	0	2	8	Drum sets	SC-88	9	009*	'ROOM	ROOM	'
+17	$POWER	0	2	16	Drum sets	SC-88	17	017*	'POWER	POWER	'
+25	$ELECTRONIC	0	2	24	Drum sets	SC-88	25	025*	'ELECTRONIC	ELECTRONIC	'
+26	$TR-808/909	0	2	25	Drum sets	SC-88	26	026*	'TR-808/909	TR-808/909	'
+27	$DANCE	0	2	26	Drum sets	SC-88	27	027*	'DANCE	DANCE	'
+33	$JAZZ	0	2	32	Drum sets	SC-88	33	033*	'JAZZ	JAZZ	'
+41	$BRUSH	0	2	40	Drum sets	SC-88	41	041*	'BRUSH	BRUSH	'
+49	$ORCHESTRA	0	2	48	Drum sets	SC-88	49	049*	'ORCHESTRA	ORCHESTRA	'
+50	$ETHNIC	0	2	49	Drum sets	SC-88	50	050*	'ETHNIC	ETHNIC	'
+51	$KICK & SNARE	0	2	50	Drum sets	SC-88	51	051*	'KICK & SNARE	KICK & SNARE	'
+57	$SFX	0	2	56	Drum sets	SC-88	57	057*	'SFX	SFX	'
+58	$RHYTHM FX	0	2	57	Drum sets	SC-88	58	058*	'RHYTHM FX	RHYTHM FX	'
+1	*STANDARD	0	1	0	Drum sets	SC-55	1	001*	"STANDARD	STANDARD	"
+9	*ROOM	0	1	8	Drum sets	SC-55	9	009*	"ROOM	ROOM	"
+17	*POWER	0	1	16	Drum sets	SC-55	17	017*	"POWER	POWER	"
+25	*ELECTRONIC	0	1	24	Drum sets	SC-55	25	025*	"ELECTRONIC	ELECTRONIC	"
+26	*TR-808	0	1	25	Drum sets	SC-55	26	026*	"TR-808	TR-808	"
+33	*JAZZ	0	1	32	Drum sets	SC-55	33	033*	"JAZZ	JAZZ	"
+41	*BRUSH	0	1	40	Drum sets	SC-55	41	041*	"BRUSH	BRUSH	"
+49	*ORCHESTRA	0	1	48	Drum sets	SC-55	49	049*	"ORCHESTRA	ORCHESTRA	"
+57	*SFX	0	1	56	Drum sets	SC-55	57	057*	"SFX	SFX	"
+128	#CM-64/32L	0	1	127	Drum sets	CM-64	128	128*	"CM-64/32L	CM-64/32L	"

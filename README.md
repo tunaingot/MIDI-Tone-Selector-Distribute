@@ -85,34 +85,46 @@ Shift + クリックで連続して選択できます。
 ファイル形式は**タブ区切りテキスト**です。\
 このページの上の方にあるファイルリストにあるtsvファイルを参考にすれば、容易に作成できます。
 
+## プログラム・チェンジ番号の範囲
+プログラム・チェンジ(PC)は1〜128でデータ作成してください。
+
+## バンク・セレクトの範囲
+MSB、LSBとも0〜127データ作成してください。
+
 ## tsvデータのラベルについて
-下記のラベルでレコードを作成します。\
-現状、空欄は許容していませんので、すべての項目を埋めてください。\
-空欄にしたい、ラベルの追加など、ご要望があればお聞かせください。  
-
-下記以外のラベルがTSVファイルに含まれていても構いません(画面に表示されないだけです)。  
-
-ご自身のメモ、備考などを追加するのも良いと思います。
+下記のラベルでレコードを作成します。
 
 | No. | MSB | LSB | PC | ToneName | Category | Bank |
 | --- | --- | --- | -- | -------- | -------- | ---- |
+
+現状、空欄は許容していませんので、すべての項目を埋めてください。\
+空欄にしたい、ラベルの追加など、ご要望があればお聞かせください。  
+
+上記以外のラベルがTSVファイルに含まれていても構いません(画面に表示されないだけです)。  
+ご自身のメモ、備考などを追加するのも良いと思います。
+
+<img width="517" height="415" alt="image" src="images/700.png" />
+
+
 ## 音色のカテゴリについて
 現状では、利用できる音色のカテゴリが決まっています。\
-そのカテゴリに応じたアイコンが付きます。\
-ここにないカテゴリを追加したいなど、ご要望があればお聞かせください。  
+そのカテゴリに応じたアイコンが付きます。
+
 
 対応していないカテゴリーがあっても表示・音色選択は問題なくできます。  
-ただ、カテゴリーのイメージ画像が表示されません。
+ただ、カテゴリーのイメージ画像が表示されませんので、ここにないカテゴリを追加したいなど、ご要望があればお聞かせください。  
 
-| Ac.Bass        | Ac.Guitar         | Ac.Piano       | Accordion/Harmonica | 
-| -------        | ---------         | --------       | ------------------- |
-| Beat&Groove    | Bell/Mallet       | Brass          | Dist.Guitar         |
-| Drum           | Drums             | E.Bass         | E.Guitar            |
-| E.Piano        | Ensemble Strings  | Flute          | FX                  |
-| Sound FX       | Hit               | Organ          | Other Keyboards     |
-| Percussion     | Phrase            | Plucked/Stroke | Pulsating           |
-| Recorder       | Sax               | Strings        | Synth Bass          |
-| Synth Bellpad  | Synth Brass       | Synth Lead     | Synth Pad/Strings   |
-| Synth PolyKey  | Synth Seq/Pop     | Vox/Choir      | Wind                |
-
-
+| Ac.Bass              | Ac.Guitar         | Ac.Piano       | Accordion/Harmonica | 
+| -------              | ---------         | --------       | ------------------- |
+| Bass                 | Beat&Groove       | Bell/Mallet    | Brass               |
+| Chromatic Percussion | Dist.Guit         | Drum           | Drums               |
+| Drum Set             | E.Bass            | E.Guitar       | E.Piano             |
+| Ensemble             | Ensemble Strings  | Ethnic, etc.   | Flute               |
+| FX                   | Sound FX          | Guitar         | Hit                 |
+| Organ                | Other Keyboards   | Percussion     | Percussive          |
+| Phrase               | Piano             | Pipe           | Plucked/Stroke      |
+| Pulsating            | Recorder          | Reed           | Sax                 |
+| SFX                  | String/Orchestra  | Strings        | Synth Bass          |
+| Synth Bellpad        | Synth Brass       | Synth SFX      | Synth Lead          |
+| Synth Pad/Strings    | Synth Pad, etc.   | Synth PolyKey  | Synth Read          |
+| Synth Seq/Pop        | Vox/Choir         | Wind           |                     |

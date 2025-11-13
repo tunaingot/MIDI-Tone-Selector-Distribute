@@ -113,9 +113,9 @@ MSB、LSBとも0〜127データ作成してください。
 
 対応していないカテゴリーがあっても表示・音色選択は問題なくできます。  
 ただ、カテゴリーのイメージ画像が表示されませんので、ここにないカテゴリを追加したいなど、ご要望があればお聞かせください。  
-
-| Ac.Bass              | Ac.Guitar         | Ac.Piano       | Accordion/Harmonica | 
+|カテゴリ名|カテゴリ名|カテゴリ名|カテゴリ名|
 | -------              | ---------         | --------       | ------------------- |
+| Ac.Bass              | Ac.Guitar         | Ac.Piano       | Accordion/Harmonica | 
 | Bass                 | Beat&Groove       | Bell/Mallet    | Brass               |
 | Chromatic Percussion | Dist.Guit         | Drum           | Drums               |
 | Drum Set             | E.Bass            | E.Guitar       | E.Piano             |
